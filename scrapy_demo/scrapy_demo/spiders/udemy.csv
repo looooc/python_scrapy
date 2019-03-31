@@ -1,0 +1,728 @@
+_id,courseId,descriptionSize,keyWord,learnerCount,lessonCount,num_reviews,price,productDifficultyLevel,productName,published_time,score,source,time
+5ca03baa13ba61f2f06765e8,1219332,983,ai,85845,113,9272,$199.99,All Levels,Artificial Intelligence A-Z™: Learn How To Build An AI,2017-05-26T22:13:22Z,4.40216,udemy.com,16.5 hours
+5ca03baa13ba61f2f06765ea,1153742,537,ai,21608,73,1778,$179.99,Expert Level,Advanced AI: Deep Reinforcement Learning in Python,2017-03-24T20:58:09Z,4.63738,udemy.com,9 hours
+5ca03baa13ba61f2f06765ec,1744722,291,ai,5821,38,517,$199.99,All Levels,Artificial Intelligence 2018: Build the Most Powerful AI,2018-06-18T17:29:11Z,4.42356,udemy.com,5 hours
+5ca03baa13ba61f2f06765ee,1673932,107,ai,610,25,140,$29.99,Beginner Level,Artificial Intelligence ( AI ) Quick-Start for Managers,2018-05-23T17:31:00Z,4.19289,udemy.com,2 hours
+5ca03baa13ba61f2f06765f0,1990136,903,ai,6495,115,675,$199.99,Beginner Level,Artificial Intelligence for Business,2018-11-06T13:25:04Z,4.62899,udemy.com,15 hours
+5ca03baa13ba61f2f06765f2,992566,864,ai,6566,170,653,$199.99,All Levels,"AWS Machine Learning, AI, SageMaker - With Python",2016-11-04T23:09:54Z,4.23056,udemy.com,14.5 hours
+5ca03baa13ba61f2f06765f4,2063545,719,ai,3238,86,261,$199.99,Beginner Level,Artificial Intelligence Masterclass,2018-12-06T17:24:18Z,4.51512,udemy.com,12 hours
+5ca03baa13ba61f2f06765f6,1726410,556,ai,3983,110,487,$149.99,Intermediate Level,Building Recommender Systems with Machine Learning and AI,2018-08-15T02:24:15Z,4.51759,udemy.com,9.5 hours
+5ca03baa13ba61f2f06765f8,1713894,256,ai,3275,19,461,$49.99,All Levels,Mathematical Foundation For Machine Learning and AI,2018-05-30T13:18:20Z,4.1622,udemy.com,4.5 hours
+5ca03baa13ba61f2f06765fa,1671686,1951,ai,6813,181,105,$199.99,All Levels,ZERO to HERO Python 3 FULL STACK MASTERCLASS 45 AI projects,2018-05-09T16:05:35Z,4.20581,udemy.com,32.5 hours
+5ca03baa13ba61f2f06765fc,2020688,527,ai,965,72,67,$199.99,Expert Level,Machine Learning and AI: Support Vector Machines in Python,2019-01-23T21:50:03Z,4.63633,udemy.com,9 hours
+5ca03baa13ba61f2f06765fe,1580542,77,ai,11321,24,118,$69.99,Beginner Level,U&P AI - Basics of NLP using NLTK,2018-06-19T20:07:06Z,4.82721,udemy.com,1.5 hours
+5ca03baa13ba61f2f0676600,1583800,400,ai,430,42,46,$199.99,Beginner Level,Learn Python AI for Image Recognition & Fraud Detection,2018-03-09T21:06:59Z,4.41028,udemy.com,6.5 hours
+5ca03baa13ba61f2f0676602,528460,451,ai,4260,72,398,$199.99,All Levels,Artificial Intelligence I: Basics and Games in Java,2015-07-07T20:56:01Z,4.52561,udemy.com,7.5 hours
+5ca03baa13ba61f2f0676604,1927650,401,ai,669,73,23,$19.99,All Levels,Machine Learning with AWS AI and IBM Watson,2018-11-01T18:08:33Z,3.92823,udemy.com,6.5 hours
+5ca03baa13ba61f2f0676606,1246412,115,ai,3709,27,179,$99.99,Beginner Level,Salesforce Einstein Discovery - Easy AI and Machine Learning,2017-06-23T23:00:04Z,3.97364,udemy.com,2 hours
+5ca03baa13ba61f2f0676608,1686946,854,ai,145,95,11,$199.99,All Levels,Use Machine Learning to Make Apps and AI to Detect Fraud,2018-05-20T18:22:21Z,4.14448,udemy.com,14 hours
+5ca03baa13ba61f2f067660a,1674948,91,ai,234,37,69,$19.99,All Levels,Artificial Intelligence (AI) in Software Testing,2018-06-15T00:14:52Z,3.54435,udemy.com,1.5 hours
+5ca03baa13ba61f2f067660c,947702,32,ai,135,8,36,$29.99,Beginner Level,The Beginning of AI,2016-09-04T22:03:30Z,3.6322,udemy.com,32 mins
+5ca03baa13ba61f2f067660e,1520336,171,ai,377,34,81,$199.99,All Levels,Build AI powered Chatbots at no cost with Chatfuel-No Coding,2018-01-26T23:22:34Z,4.21225,udemy.com,3 hours
+5ca03bac13ba61f2f0676610,1312630,117,ai,56,21,3,$124.99,Intermediate Level,Using AI to Transform Search,2017-08-09T22:27:14Z,3.2951,udemy.com,2 hours
+5ca03bac13ba61f2f0676612,1520742,681,ai,165,106,12,$199.99,Beginner Level,Comprehensive Guide to Artificial Intelligence(AI) for All,2018-09-27T16:49:54Z,3.60852,udemy.com,11.5 hours
+5ca03bac13ba61f2f0676614,1379600,397,ai,364,52,46,$194.99,Beginner Level,Ultimate Neural Nets and Deep Learning Masterclass in Python,2018-01-17T18:36:40Z,4.43282,udemy.com,6.5 hours
+5ca03bac13ba61f2f0676616,1679776,211,ai,77,9,13,$199.99,Intermediate Level,Artificial Intelligence for Business,2018-05-07T22:28:31Z,3.38801,udemy.com,3.5 hours
+5ca03bac13ba61f2f0676618,2102798,857,ai,2081,150,10,$199.99,All Levels,The Complete Course: Artificial Intelligence From Scratch,2018-12-26T20:42:48Z,4.02177,udemy.com,14.5 hours
+5ca03bac13ba61f2f067661a,920744,72,ai,251,13,29,$19.99,Beginner Level,Build chatbot using api ai,2016-08-03T16:54:33Z,3.32039,udemy.com,1 hour
+5ca03bac13ba61f2f067661c,2080402,709,ai,17,58,3,$124.99,Intermediate Level,Learning to Build Apps Using Watson AI,2018-12-13T21:49:17Z,4.32713,udemy.com,12 hours
+5ca03bac13ba61f2f067661e,1299714,578,ai,577,86,29,$149.99,All Levels,Artificial intelligence in Game development- Tic Tac Toe AI,2018-07-05T02:42:58Z,3.80499,udemy.com,9.5 hours
+5ca03bac13ba61f2f0676620,1750258,804,ai,7024,74,32,$199.99,All Levels,Artificial Intelligence Bootcamp 44 projects Ivy League pro,2018-06-19T22:24:43Z,3.77891,udemy.com,13.5 hours
+5ca03bac13ba61f2f0676622,1929182,265,ai,1587,65,14,$199.99,All Levels,AI Machine Learning Complete Course: for PHP & Python Devs,2018-10-05T23:15:06Z,3.46498,udemy.com,4.5 hours
+5ca03bac13ba61f2f0676626,2027584,534,ai,33,93,5,$154.99,Beginner Level,"AI, Basic Statistics, Basic Python, Basic R, ML (Overview)",2018-12-04T00:07:02Z,4.06472,udemy.com,9 hours
+5ca03bac13ba61f2f067662a,1499802,162,ai,99,26,8,$124.99,Intermediate Level,Graph Algorithms for AI in Games,2018-01-11T22:01:49Z,3.51215,udemy.com,2.5 hours
+5ca03bac13ba61f2f067662c,2027668,233,ai,1445,47,45,$59.99,All Levels,Data Science Linear Algebra complete guide- Machine Learning,2018-11-30T00:21:03Z,4.30216,udemy.com,4 hours
+5ca03bac13ba61f2f067662e,1427984,201,ai,42,25,2,$124.99,Intermediate Level,Implementing AI to Play Games,2017-11-21T22:35:11Z,4.49183,udemy.com,3.5 hours
+5ca03bac13ba61f2f0676630,2005068,270,ai,2033,46,10,$149.99,All Levels,AI Academy #3: Learn Artificial Neural Networks from A-Z,2018-11-08T17:56:47Z,3.83659,udemy.com,4.5 hours
+5ca03baf13ba61f2f0676633,2005066,233,ai,2017,37,4,$149.99,All Levels,AI Academy #2: Learn Classification & Clustering Methods A-Z,2018-11-08T17:49:57Z,4.25423,udemy.com,4 hours
+5ca03baf13ba61f2f0676636,2131354,67,ai,3831,10,19,$19.99,Beginner Level,Basics Of Artificial Intelligence for beginners,2019-01-08T19:41:43Z,2.94677,udemy.com,1 hour
+5ca03baf13ba61f2f0676639,1052626,114,ai,4903,15,70,$19.99,Beginner Level,AI Bot - How To Create Without Coding,2017-08-08T19:05:06Z,2.89105,udemy.com,2 hours
+5ca03baf13ba61f2f067663b,1860494,1415,ai,35,170,3,$199.99,All Levels,"The Python Masterclass: Build AI, ML and TensorFlow Models",2018-09-27T02:21:17Z,3.92094,udemy.com,23.5 hours
+5ca03baf13ba61f2f067663d,1593228,402,ai,133,47,5,$199.99,Beginner Level,Make a Starship Unity Game Powered by AI!,2018-03-14T21:58:13Z,4.41923,udemy.com,6.5 hours
+5ca03baf13ba61f2f067663f,1963846,262,ai,2051,41,6,$149.99,All Levels,AI Academy #1: Learn Regression Analysis Methods from A-Z,2018-10-22T13:18:13Z,2.86854,udemy.com,4.5 hours
+5ca03baf13ba61f2f0676641,1653700,33,ai,26,5,5,$199.99,All Levels,Coaching Course: SGLEARN@AI I: Basics and Games in Java,2018-04-20T21:04:35Z,3.48157,udemy.com,33 mins
+5ca03baf13ba61f2f0676644,2118668,60,ai,18,7,5,$19.99,Beginner Level,"Digital Transformation using AI/ML, IoT, Blockchain, VR/AR",2019-01-04T00:27:53Z,3.54847,udemy.com,1 hour
+5ca03baf13ba61f2f0676646,1643784,1050,ai,71,120,9,$199.99,All Levels,​The Complete 2D Unity & AI for Games with Algorithms Course,2018-04-17T16:16:14Z,4.6046,udemy.com,17.5 hours
+5ca03baf13ba61f2f0676649,1937202,107,ai,21,17,4,$24.99,All Levels,"AI, ML & IT's IMPACT ON DIGITAL MARKETING",2018-10-03T00:57:34Z,2.75311,udemy.com,2 hours
+5ca03baf13ba61f2f067664b,1587610,596,ai,106,62,1,$199.99,Beginner Level,Learn Unity AI by Making a Tank Game​!,2018-03-13T02:53:28Z,5.0,udemy.com,10 hours
+5ca03baf13ba61f2f067664d,2081412,6743,ai,113,491,3,$199.99,All Levels,Learn about Game AI with Unity® and Blender!,2018-12-14T21:44:39Z,4.61948,udemy.com,112.5 hours
+5ca03baf13ba61f2f067664f,1814872,129,ai,898,21,8,$24.99,All Levels,"AWS IoT:Building cool apps,AI& serverless Computing-Deeplens",2018-07-25T01:27:15Z,3.46584,udemy.com,2 hours
+5ca03baf13ba61f2f0676651,1311306,64,ai,24,9,4,$49.99,Intermediate Level,Appreciative Inquiry (AI) in Practice,2017-09-13T18:09:44Z,2.91862,udemy.com,1 hour
+5ca03baf13ba61f2f0676654,1810017,1568,ai,36,186,2,$199.99,All Levels,The Complete Unity® Masterclass: Build 2D & 3D AI Games,2018-08-01T00:27:21Z,4.53333,udemy.com,26 hours
+5ca03bb213ba61f2f067665e,1626904,123,ai,47,14,2,$124.99,Intermediate Level,Advanced Artificial Intelligence Projects with Python,2018-04-06T19:12:32Z,2.44304,udemy.com,2 hours
+5ca03bb213ba61f2f0676660,2005070,156,ai,2026,36,1,$149.99,All Levels,AI Academy #4: Learn Bio Inspired Optimization Methods A-Z,2018-11-08T17:58:03Z,4.0,udemy.com,2.5 hours
+5ca03bb213ba61f2f0676663,1622334,1045,ai,243,122,16,$199.99,All Levels,Make predictions with Python machine learning for apps,2018-04-05T18:33:56Z,4.20389,udemy.com,17.5 hours
+5ca03bb213ba61f2f0676665,1904456,252,ai,1012,113,4,$199.99,Intermediate Level,U&P AI - Basics of Computer Vision with Python using OpenCV,2018-09-25T02:50:26Z,3.43001,udemy.com,4 hours
+5ca03bb213ba61f2f0676667,2256908,139,ai,8,18,1,$124.99,Intermediate Level,AI for Finance,2019-03-08T01:57:10Z,1.0,udemy.com,2.5 hours
+5ca03bb213ba61f2f0676669,2030194,153,ai,56,25,6,$19.99,Expert Level,"AI 1: Fuzzy Logic, Labview and Arduino",2018-12-11T01:57:47Z,3.35082,udemy.com,2.5 hours
+5ca03bb213ba61f2f067666b,1056982,893,big data,576,81,44,$199.99,Beginner Level,"The Complete 5 Volume Series: If You Can Cook, You Can Code",2017-01-03T22:19:43Z,3.85068,udemy.com,15 hours
+5ca03bb213ba61f2f067666d,1603438,81,ai,68,21,3,$24.99,Intermediate Level,Evolutionary Algorithms - AI Tetris Bot,2018-04-04T23:44:50Z,1.39972,udemy.com,1.5 hours
+5ca03bb213ba61f2f067666f,2080318,52,ai,4,24,1,$124.99,Intermediate Level,Hands-On Game AI Development,2018-12-13T21:43:36Z,1.0,udemy.com,1 hour
+5ca03bb213ba61f2f0676671,1846832,357,ai,20,27,1,$124.99,Intermediate Level,Applied Deep Learning with TensorFlow and Google Cloud AI,2018-08-14T21:53:04Z,3.0,udemy.com,6 hours
+5ca03bb213ba61f2f0676673,1781384,185,ai,9,19,0,$124.99,Expert Level,TensorFlow 1.x Deep Learning Recipes for AI applications,2018-07-13T18:00:49Z,0.0,udemy.com,3 hours
+5ca03bb213ba61f2f0676676,1425286,87,ai,20,15,2,$124.99,Intermediate Level,Unity 5 AI and Physics,2017-11-15T03:34:49Z,2.16279,udemy.com,1.5 hours
+5ca03bb213ba61f2f0676678,1795348,490,ai,155,56,14,$154.99,All Levels,Artificial Intelligence: Genetic Machine Learning Algorithms,2018-07-30T19:39:44Z,3.93707,udemy.com,8 hours
+5ca03bb213ba61f2f067667a,1924558,488,ai,24,51,1,$199.99,Beginner Level,Deep Learning with TensorFlow and Google Cloud AI: 2-in-1,2018-09-23T00:37:29Z,1.0,udemy.com,8 hours
+5ca03bb213ba61f2f067667c,1978034,4336,ai,28049,522,542,$199.99,All Levels,Machine Learning and Data Science Hands-on with Python and R,2018-10-24T00:36:31Z,3.85978,udemy.com,72.5 hours
+5ca03bb213ba61f2f067667e,2001224,641,ai,6,93,0,$154.99,All Levels,Data Science for AI and Machine Learning Using R,2018-11-04T01:26:07Z,0.0,udemy.com,10.5 hours
+5ca03bb613ba61f2f0676680,1949472,381,ai,39580,59,43,$99.99,Intermediate Level,Artificial Intelligence and Predictive Analysis using Python,2018-10-07T00:25:14Z,3.36288,udemy.com,6.5 hours
+5ca03bb613ba61f2f0676682,1769994,36,ai,11,10,0,$19.99,All Levels,A Complete book on Artificial Intelligence (AI).,2018-07-09T15:02:18Z,0.0,udemy.com,36 mins
+5ca03bb613ba61f2f0676684,1694920,88,ai,36,36,4,$39.99,Intermediate Level,Core Skills for the Future of Work,2018-05-16T01:43:34Z,3.96553,udemy.com,1.5 hours
+5ca03bb613ba61f2f0676686,1899124,681,ai,3479,83,359,$199.99,Intermediate Level,Recommender Systems and Deep Learning in Python,2018-09-13T00:33:02Z,4.61324,udemy.com,11.5 hours
+5ca03bb613ba61f2f0676688,1422532,757,ai,7074,75,864,$199.99,Intermediate Level,A Beginner's Guide To Machine Learning with Unity,2018-02-20T14:43:32Z,4.47161,udemy.com,12.5 hours
+5ca03bb613ba61f2f067668a,1789206,543,ai,46,61,3,$199.99,Expert Level,TensorFlow: Artificial Intelligence with TensorFlow: 3-in-1,2018-07-09T18:37:09Z,2.8408,udemy.com,9 hours
+5ca03bb613ba61f2f067668c,2086230,875,ai,4088,138,20,$199.99,All Levels,"Machine Learning, incl. Deep Learning, with R",2019-01-27T22:05:49Z,4.47834,udemy.com,14.5 hours
+5ca03bb613ba61f2f067668e,1649308,832,ai,14,102,0,$199.99,All Levels,"The 2D, 3D & AI Games Frontier: NavMesh, Unity & Illustrator",2018-05-02T00:39:58Z,0.0,udemy.com,14 hours
+5ca03bb613ba61f2f0676690,1678908,165,ai,3258,25,9,$199.99,All Levels,Sales Force Developer: Artificial Intelligence For Beginners,2018-05-10T23:02:13Z,4.56224,udemy.com,3 hours
+5ca03bb613ba61f2f0676692,2241234,198,ai,1,40,0,$199.99,Beginner Level,Machine Learning Fundamentals,2019-02-28T21:45:45Z,0.0,udemy.com,3.5 hours
+5ca03bb613ba61f2f0676694,2171880,6580,ai,12,545,0,$199.99,All Levels,The Ultimate Machine Learning and Coding Masterclass,2019-01-30T01:26:03Z,0.0,udemy.com,109.5 hours
+5ca03bb613ba61f2f0676696,2257170,183,ai,0,25,0,$124.99,Intermediate Level,Practical Artificial Intelligence for A/B Testing,2019-03-10T23:21:24Z,0.0,udemy.com,3 hours
+5ca03bb613ba61f2f0676698,1680076,33,ai,0,11,0,$199.99,All Levels,AI & Machine Learning Optical character recognition (golang),2019-03-28T17:05:42Z,0.0,udemy.com,33 mins
+5ca03bb613ba61f2f067669a,963666,411,ai,985,18,38,$199.99,Intermediate Level,Learn how to build a Chess game in iOS 10.,2016-09-21T23:21:47Z,4.0565,udemy.com,7 hours
+5ca03bb613ba61f2f067669c,2080486,119,ai,15,18,2,$124.99,Beginner Level,Learning Python Artificial Intelligence by Example,2018-12-13T22:07:20Z,3.97143,udemy.com,2 hours
+5ca03bb613ba61f2f067669e,1845106,561,ai,392,70,17,$134.99,All Levels,Artificial Intelligence - TensorFlow Machine Learning,2018-10-10T23:21:16Z,3.46866,udemy.com,9.5 hours
+5ca03bb613ba61f2f06766a0,1710510,260,ai,31,46,1,$199.99,Beginner Level,TensorFlow: Application Development Using TensorFlow: 2-in-1,2018-05-24T16:42:43Z,4.0,udemy.com,4.5 hours
+5ca03bb613ba61f2f06766a2,1950334,105,ai,256,19,39,$199.99,Intermediate Level,YOLO v3 - Robust Deep Learning Object Detection in 1 hour,2018-11-21T01:57:35Z,3.97493,udemy.com,2 hours
+5ca03bb613ba61f2f06766a4,1694758,826,ai,1623,69,126,$54.99,Intermediate Level,Ask Me Anything About Unity,2018-06-29T17:16:00Z,4.61754,udemy.com,14 hours
+5ca03bb613ba61f2f06766a6,2134152,107,ai,9,24,3,$124.99,Intermediate Level,Hands-On Fundamentals of Data Science with Go,2019-01-17T14:11:43Z,2.57399,udemy.com,2 hours
+5ca03bb813ba61f2f06766a8,1334868,1036,ai,18573,147,2972,$194.99,All Levels,Unreal Engine 4 Mastery: Create Multiplayer Games with C++,2017-12-18T16:17:56Z,4.56272,udemy.com,17.5 hours
+5ca03bb813ba61f2f06766aa,2266378,45,ai,7145,7,30,$24.99,Beginner Level,Talking Robots: Artificial Intelligence Audiobook Creation,2019-03-14T20:54:14Z,3.37441,udemy.com,1 hour
+5ca03bb813ba61f2f06766ac,759194,464,ai,953,96,43,$199.99,All Levels,"Unity 2017 - Build , program and publish a 3D shooter game",2016-02-23T15:24:58Z,4.58434,udemy.com,7.5 hours
+5ca03bb813ba61f2f06766ae,1567436,303,ai,17,55,2,$179.99,Beginner Level,Data Structures For Machine Learning |Complete Online Course,2018-03-24T23:24:57Z,4.78723,udemy.com,5 hours
+5ca03bb813ba61f2f06766b0,1630654,85,ai,445,24,55,$184.99,Beginner Level,Accelerate Deep Learning on Raspberry Pi,2018-10-23T19:42:45Z,4.07535,udemy.com,1.5 hours
+5ca03bb813ba61f2f06766b2,2198810,95,ai,24,15,4,$199.99,Intermediate Level,Mask R-CNN - Robust Deep Learning Segmentation in 1 hour,2019-03-20T00:01:30Z,3.36461,udemy.com,1.5 hours
+5ca03bb813ba61f2f06766b4,2100288,3553,ai,27,339,0,$199.99,All Levels,Machine Learning with Unity!,2018-12-24T21:24:51Z,0.0,udemy.com,59 hours
+5ca03bb813ba61f2f06766b6,1614760,135,ai,3298,20,26,$99.99,All Levels,Complete IT Course For Startup Entrepreneur,2018-04-10T01:56:51Z,3.84139,udemy.com,2.5 hours
+5ca03bb813ba61f2f06766b8,2213906,510,ai,8,71,1,$154.99,Beginner Level,Image Processing and Computer Vision with Python & OpenCV,2019-02-20T18:18:20Z,2.5,udemy.com,8.5 hours
+5ca03bb813ba61f2f06766ba,1750134,1237,ai,23,120,0,$199.99,All Levels,Artificial Intelligence & Augmented Reality in Unity & Xcode,2018-06-20T20:36:30Z,0.0,udemy.com,20.5 hours
+5ca03bb813ba61f2f06766bc,1542504,152,ai,370,14,9,$199.99,Expert Level,Advanced Coding with Unreal Engine 4,2018-02-20T17:26:58Z,3.96412,udemy.com,2.5 hours
+5ca03bb813ba61f2f06766be,1718998,729,ai,7,75,0,$199.99,Intermediate Level,Train models and algorithms for Unity games in 2D and 3D,2018-06-07T20:02:53Z,0.0,udemy.com,12 hours
+5ca03bb813ba61f2f06766c0,2192936,83,ai,31,13,1,$69.99,Beginner Level,Create Icons in Adobe Illustrator for Beginners,2019-02-06T02:37:44Z,4.5,udemy.com,1.5 hours
+5ca03bb813ba61f2f06766c2,2181466,127,ai,11,26,0,$99.99,Intermediate Level,Simulating Navigation Routes using Autodesk Revit and Unity,2019-03-04T21:31:50Z,0.0,udemy.com,2 hours
+5ca03bb813ba61f2f06766c4,2284943,906,ai,0,77,0,$199.99,Beginner Level,IBM Watson for Artificial Intelligence & Cognitive Computing,2019-03-23T19:59:19Z,0.0,udemy.com,15 hours
+5ca03bb813ba61f2f06766c6,1675438,47,ai,8289,12,241,Free,Beginner Level,Introduction to AI for Business,2018-05-04T16:48:27Z,3.85901,udemy.com,1 hour
+5ca03bb813ba61f2f06766c8,2155538,49,ai,6919,7,167,Free,All Levels,Road Map to Artificial Intelligence and Machine Learning,2019-01-21T23:09:30Z,4.08129,udemy.com,1 hour
+5ca03bb813ba61f2f06766ca,1491822,81,ai,10836,7,230,Free,Beginner Level,Blockchain and Deep Learning: Future of AI,2018-01-11T20:24:52Z,3.83582,udemy.com,1.5 hours
+5ca03bb813ba61f2f06766cc,1783922,211,ai,13125,26,178,Free,Beginner Level,"Ask the Expert: Future of networking, AI, SDN, Python, Jobs",2018-07-06T21:32:32Z,4.53335,udemy.com,3.5 hours
+5ca03bb813ba61f2f06766ce,2066835,103,ai,4730,25,28,Free,Beginner Level,Create AI Bot For Facebook Page Messenger Chatfuel No Coding,2018-12-09T23:56:26Z,4.25517,udemy.com,1.5 hours
+5ca03bbe13ba61f2f06766d2,1787100,50,ai,1917,13,43,Free,Beginner Level,Cognigy AI v3 User Training,2018-07-11T18:49:09Z,4.13091,udemy.com,1 hour
+5ca03bbe13ba61f2f06766d4,1808848,43,ai,1528,17,30,Free,Intermediate Level,Cognigy AI v3 Editor Training,2018-07-21T20:42:55Z,4.0071,udemy.com,43 mins
+5ca03bbe13ba61f2f06766d6,1575586,205,ai,5393,78,48,Free,All Levels,Add Natural Language Processing AI power to App by LUIS API,2018-03-07T13:39:40Z,3.03744,udemy.com,3.5 hours
+5ca03bbe13ba61f2f06766d8,2017936,56,ai,9588,5,114,Free,All Levels,"Learn Machine Learning algorithms, softwares, deep learning",2018-11-13T13:54:45Z,3.26875,udemy.com,1 hour
+5ca03bbe13ba61f2f06766da,1796524,30,ai,4009,7,64,Free,Beginner Level,Introduction to Artificial Intelligence in Software Testing,2019-02-25T02:23:45Z,3.87536,udemy.com,30 mins
+5ca03bbe13ba61f2f06766dc,2286113,5535,ai,0,355,0,$199.99,All Levels,The Complete Unity AI Course!,2019-03-30T19:26:36Z,0.0,udemy.com,92.5 hours
+5ca03bbe13ba61f2f06766de,1937244,83,ai,5255,19,18,Free,Beginner Level,Learn Machine Learning 101 Class Bootcamp Course NYC,2019-02-08T21:22:13Z,3.84646,udemy.com,1.5 hours
+5ca03bbe13ba61f2f06766e0,1975154,158,big data,4768,10,80,Free,All Levels,AWS Analytics - Athena Kinesis Redshift QuickSight Glue,2018-10-22T12:41:36Z,3.74058,udemy.com,2.5 hours
+5ca03bbe13ba61f2f06766e2,1080408,509,ai,23102,87,3854,$179.99,Intermediate Level,Artificial Intelligence: Reinforcement Learning in Python,2017-01-27T18:43:16Z,4.54351,udemy.com,8.5 hours
+5ca03bbe13ba61f2f06766e4,1349250,548,ai,12869,60,967,$149.99,Beginner Level,The Beginner's Guide to Artificial Intelligence in Unity.,2017-10-17T20:45:14Z,4.67798,udemy.com,9 hours
+5ca03bbe13ba61f2f06766e6,1557250,55,ai,33990,8,400,$34.99,Beginner Level,Artificial Intelligence Website Creation 2018 (No Coding),2018-02-19T15:30:06Z,4.04973,udemy.com,1 hour
+5ca03bbe13ba61f2f06766e8,714978,295,ai,3298,64,271,$199.99,All Levels,Artificial Intelligence II - Neural Networks in Java,2016-02-10T16:46:55Z,4.24621,udemy.com,5 hours
+5ca03bbe13ba61f2f06766ea,1298012,61,ai,30868,8,265,$34.99,Beginner Level,Artificial Intelligence Video Creation: Amazing Video Tools,2017-07-20T04:45:32Z,3.75755,udemy.com,1 hour
+5ca03bbe13ba61f2f06766ec,2084384,343,ai,143,48,20,$179.99,All Levels,Artificial Intelligence & Machine Learning for Business,2018-12-22T23:59:37Z,4.17794,udemy.com,5.5 hours
+5ca03bbe13ba61f2f06766ee,1710322,131,ai,461,23,6,$19.99,Beginner Level,Artificial Intelligence Level 2: Rise of the Machines,2018-06-12T19:07:20Z,4.71942,udemy.com,2 hours
+5ca03bbe13ba61f2f06766f0,1803384,37,ai,11247,6,57,$24.99,Beginner Level,Artificial Intelligence Presentation Creation Secrets: 2018,2018-07-17T23:55:05Z,4.02897,udemy.com,37 mins
+5ca03bbe13ba61f2f06766f2,1338718,205,ai,124,33,9,$199.99,All Levels,Identify Problems with Artificial Intelligence - Case Study,2017-09-25T20:51:17Z,4.14315,udemy.com,3.5 hours
+5ca03bbe13ba61f2f06766f4,1662074,314,ai,246,52,19,$199.99,Intermediate Level,Python: Artificial Intelligence with Python: 3-in-1,2018-04-30T21:46:42Z,3.88753,udemy.com,5 hours
+5ca03bbe13ba61f2f06766f6,2184046,36,ai,3046,6,16,$19.99,Beginner Level,Artificial Intelligence: All you really need to know,2019-02-12T22:09:31Z,3.69422,udemy.com,36 mins
+5ca03bbe13ba61f2f06766f8,1310970,221,ai,398,45,15,$194.99,Intermediate Level,Artificial Intelligence: Advanced Machine Learning,2017-08-03T21:06:37Z,3.42882,udemy.com,3.5 hours
+5ca03bc113ba61f2f06766fa,2134920,56,ai,169,18,40,$199.99,Beginner Level,Machine Learning: Build neural networks in 77 lines of code,2019-01-12T20:01:48Z,4.75458,udemy.com,1 hour
+5ca03bc113ba61f2f06766fc,1314996,206,ai,501,24,57,$194.99,All Levels,Artificial Intelligence:Deep Learning in Real World Business,2017-08-22T22:55:00Z,4.13327,udemy.com,3.5 hours
+5ca03bc113ba61f2f06766fe,1809418,71,ai,3328,22,27,$19.99,Beginner Level,Learn Artificial Intelligence Fundamentals,2018-10-30T20:28:28Z,3.46986,udemy.com,1 hour
+5ca03bc113ba61f2f0676700,1763714,284,ai,33,54,3,$199.99,Beginner Level,Power Your Business with Artificial Intelligence,2018-09-26T21:01:54Z,4.25914,udemy.com,4.5 hours
+5ca03bc113ba61f2f0676702,1589888,59,ai,5523,6,38,$19.99,Beginner Level,Deep Learning: An Introduction,2018-03-10T21:50:41Z,3.17166,udemy.com,1 hour
+5ca03bc113ba61f2f0676704,1681830,502,ai,203,130,25,$199.99,Beginner Level,Python: A-Z Artificial Intelligence with Python: 5-in-1,2018-05-14T21:28:33Z,3.06309,udemy.com,8.5 hours
+5ca03bc113ba61f2f0676706,1687162,235,ai,94,30,3,$199.99,Beginner Level,Artificial Intelligence Projects with Python-HandsOn: 2-in-1,2018-05-16T21:54:41Z,3.15742,udemy.com,4 hours
+5ca03bc113ba61f2f0676708,2006746,957,ai,123,220,29,$19.99,All Levels,Machine Learning Data Science Deep Learning Neural Networks,2018-11-08T19:22:45Z,4.1806,udemy.com,16 hours
+5ca03bc113ba61f2f067670a,2175476,187,ai,4,20,1,$34.99,All Levels,Taking your Business to the Next Level,2019-01-29T19:28:40Z,5.0,udemy.com,3 hours
+5ca03bc113ba61f2f067670c,761380,181,ai,1900,28,132,$149.99,Beginner Level,Unleash Machine Learning: Build Artificial Neuron in Python,2016-02-22T17:05:09Z,4.02207,udemy.com,3 hours
+5ca03bc113ba61f2f067670e,1652628,1487,ai,256,74,11,$199.99,All Levels,The Stock Prediction & Math Functions with Data Bootcamp,2018-04-24T20:08:39Z,4.28124,udemy.com,25 hours
+5ca03bc113ba61f2f0676710,1186784,70,ai,85,13,18,$19.99,Beginner Level,Artificial Neural Networks  tutorial - theory & applications,2017-05-14T20:26:42Z,4.2542,udemy.com,1 hour
+5ca03bc113ba61f2f0676712,1682352,133,ai,27316,22,302,$34.99,Intermediate Level,Artificial Intelligence in Digital Marketing,2018-05-09T16:01:20Z,3.95867,udemy.com,2 hours
+5ca03bc113ba61f2f0676714,1426118,517,ai,706,55,95,$199.99,Beginner Level,Predict the stock market with data and model building!,2017-11-11T00:28:46Z,3.72275,udemy.com,8.5 hours
+5ca03bc113ba61f2f0676716,1137434,236,ai,33,25,7,$39.99,All Levels,7-Steps to Creative Awesomeness,2017-03-14T23:52:09Z,4.70249,udemy.com,4 hours
+5ca03bc113ba61f2f0676718,1513950,182,ai,598,39,28,$199.99,All Levels,Artificial Intelligence IV - Reinforcement Learning in Java,2018-02-04T20:49:03Z,4.26814,udemy.com,3 hours
+5ca03bc113ba61f2f067671a,1435762,135,ai,3102,23,25,$94.99,All Levels,Artificial Intelligence #1: Linear & MultiLinear Regression,2017-11-17T16:54:57Z,3.76808,udemy.com,2.5 hours
+5ca03bc113ba61f2f067671c,1435770,129,ai,1862,20,11,$94.99,All Levels,Artificial Intelligence #2: Polynomial & Logistic Regression,2017-11-17T17:09:29Z,3.94457,udemy.com,2 hours
+5ca03bc113ba61f2f067671e,1764004,148,ai,1617,22,10,$94.99,All Levels,Artificial Intelligence #5: MLP Networks with Scikit & Keras,2018-06-25T22:43:04Z,4.20189,udemy.com,2.5 hours
+5ca03bc113ba61f2f0676720,1724702,52,ai,10085,12,95,$24.99,Beginner Level,Artificial Intelligence Music Creation & Remixing 2018,2018-06-01T16:23:29Z,3.34688,udemy.com,1 hour
+5ca03bc513ba61f2f0676722,1868224,37,ai,584,9,1,$19.99,All Levels,Cultivating 21st Century Skills Via Multiple Intelligence,2018-08-28T19:18:38Z,5.0,udemy.com,37 mins
+5ca03bc513ba61f2f0676725,1899760,222,ai,37,24,4,$124.99,Beginner Level,Hands-on Reinforcement Learning with TensorFlow,2018-09-09T01:40:16Z,3.63925,udemy.com,3.5 hours
+5ca03bc513ba61f2f0676727,1290110,141,ai,40,11,8,$124.99,Intermediate Level,Reinforcement Learning Techniques with R,2017-07-14T21:19:44Z,3.26959,udemy.com,2.5 hours
+5ca03bc513ba61f2f067672a,415720,145,ai,989,27,67,$149.99,Intermediate Level,Game Devs Unleash Artificial Intelligence: Flocking Agents,2015-03-03T22:42:48Z,4.58195,udemy.com,2.5 hours
+5ca03bc513ba61f2f067672d,1542884,79,ai,22,22,1,$124.99,Intermediate Level,Artificial Intelligence with Python – Deep Neural Networks,2018-02-21T15:20:08Z,3.5,udemy.com,1.5 hours
+5ca03bc513ba61f2f0676730,998368,120,ai,4237,21,106,$199.99,All Levels,Accelerate your Career: Emotional Intelligence Hacks,2017-11-14T05:49:34Z,3.83119,udemy.com,2 hours
+5ca03bc513ba61f2f0676732,2023314,353,ai,28,48,2,$199.99,Intermediate Level,Deep Learning and Reinforcement Learning with Tensorflow,2018-11-14T23:45:46Z,3.0,udemy.com,6 hours
+5ca03bc513ba61f2f0676735,1637178,327,ai,648,51,109,$199.99,All Levels,Practical Neural Networks & Deep Learning In R,2018-05-18T14:35:59Z,4.44884,udemy.com,5.5 hours
+5ca03bc513ba61f2f0676737,1476092,318,ai,17,46,1,$199.99,Intermediate Level,Learning Path: Artificial Intelligence for Apps and Games,2018-01-02T02:08:41Z,0.5,udemy.com,5.5 hours
+5ca03bc513ba61f2f0676739,1487514,118,ai,1828,20,13,$94.99,All Levels,Artificial Intelligence #3:kNN & Bayes Classification method,2018-01-03T20:54:49Z,3.62546,udemy.com,2 hours
+5ca03bc513ba61f2f067673b,1517372,138,ai,12,34,2,$79.99,All Levels,Be Super Smart,2018-01-27T12:04:29Z,4.44751,udemy.com,2.5 hours
+5ca03bc513ba61f2f067673d,2002944,619,ai,307,26,8,$199.99,Intermediate Level,Search Algorithms in Artificial Intelligence with Java,2018-11-13T19:53:03Z,4.44067,udemy.com,10.5 hours
+5ca03bc513ba61f2f067673f,1734172,260,ai,8,26,1,$124.99,Intermediate Level,Learn Artificial Intelligence with TensorFlow,2018-06-06T21:38:28Z,3.5,udemy.com,4.5 hours
+5ca03bc513ba61f2f0676742,1482406,163,ai,81,35,5,$199.99,All Levels,Lazy Trading Part 4: Automated Statistical Trading Control,2018-02-07T21:32:56Z,4.13641,udemy.com,2.5 hours
+5ca03bc813ba61f2f0676749,1268486,48,ai,996,12,22,$24.99,Beginner Level,Introduction to Emotional Intelligence,2017-06-27T20:17:46Z,4.14541,udemy.com,1 hour
+5ca03bc813ba61f2f067674b,1205086,314,ai,711,81,44,$49.99,All Levels,Math for Machine Learning,2018-01-11T18:49:27Z,3.58006,udemy.com,5 hours
+5ca03bc813ba61f2f067674d,1406670,124,ai,256,14,24,$194.99,All Levels,Easy Filmmaking: Artificial Intelligence in Films & Videos,2017-10-25T22:55:19Z,3.88138,udemy.com,2 hours
+5ca03bc813ba61f2f067674f,1313140,47,ai,18,6,3,$49.99,Beginner Level,Emotional Intelligence for Game Devs,2017-08-17T00:26:05Z,5.0,udemy.com,1 hour
+5ca03bc813ba61f2f0676751,1847804,1122,ai,16,136,2,$199.99,All Levels,Epic Python Predictions and Data Models Masterclass,2018-08-15T21:28:53Z,3.23544,udemy.com,18.5 hours
+5ca03bc813ba61f2f0676753,1725036,250,ai,14,9,4,$199.99,Expert Level,Nature of intelligence-advanced topics in machine learning,2018-09-04T01:14:05Z,4.38556,udemy.com,4 hours
+5ca03bc813ba61f2f0676756,1884944,298,ai,331,19,50,$199.99,All Levels,Combinatorial Problems and Ant Colony Optimization Algorithm,2018-09-24T17:30:53Z,4.59955,udemy.com,5 hours
+5ca03bc813ba61f2f0676758,1622670,130,ai,11,34,2,$124.99,Intermediate Level,Introduction to Artificial Intelligence with Java,2018-04-04T16:27:10Z,2.5,udemy.com,2 hours
+5ca03bc813ba61f2f067675a,355874,86,ai,190,18,17,$24.99,All Levels,105: Genetic Mutations and Intelligent Design,2014-12-02T20:46:28Z,4.63678,udemy.com,1.5 hours
+5ca03bc813ba61f2f067675c,1586684,77,ai,26,21,1,$124.99,Intermediate Level,Practical Reinforcement Learning - Agents and Environments,2018-03-28T19:38:43Z,2.5,udemy.com,1.5 hours
+5ca03bc813ba61f2f067675e,1628786,96,ai,20,16,1,$124.99,Intermediate Level,Hands-on Artificial Intelligence with TensorFlow,2018-04-06T16:48:32Z,1.0,udemy.com,1.5 hours
+5ca03bc813ba61f2f0676760,1980296,203,ai,643,43,29,$19.99,All Levels,Machine Learning  with AWS,2018-10-31T21:23:41Z,4.2563,udemy.com,3.5 hours
+5ca03bc813ba61f2f0676762,2093874,281,ai,4,9,2,$29.99,Intermediate Level,HUMINT (Human Intelligence) Advanced 1,2019-01-17T16:24:36Z,4.71616,udemy.com,4.5 hours
+5ca03bc813ba61f2f0676764,1781530,102,ai,3,17,0,$124.99,Intermediate Level,Architecting Artificial Neural Networks for Deep Learning,2018-07-05T21:01:42Z,0.0,udemy.com,1.5 hours
+5ca03bc813ba61f2f0676766,1783060,106,ai,13,21,0,$124.99,Intermediate Level,Python Deep Learning Solutions,2018-07-06T17:19:41Z,0.0,udemy.com,2 hours
+5ca03bc813ba61f2f0676768,2181372,495,ai,5,72,0,$199.99,Intermediate Level,Deep Learning with Python - Novice to Pro!,2019-01-30T00:29:24Z,0.0,udemy.com,8.5 hours
+5ca03bcc13ba61f2f067676a,2258710,114,ai,5,24,0,$124.99,Intermediate Level,Hands-On Deep Q-Learning,2019-03-07T14:54:17Z,0.0,udemy.com,2 hours
+5ca03bcc13ba61f2f067676c,1815212,1481,ai,88,179,0,$199.99,All Levels,Master Machine Learning & Detection in Python & TensorFlow,2018-08-01T16:22:45Z,0.0,udemy.com,24.5 hours
+5ca03bcc13ba61f2f067676e,1904206,81,ai,0,17,0,$19.99,Beginner Level,Basics of Emotional Intelligence,2018-09-12T20:40:13Z,0.0,udemy.com,1.5 hours
+5ca03bcc13ba61f2f0676770,1947594,43,ai,7,13,1,$124.99,Expert Level,Advanced Practical Reinforcement Learning,2018-10-05T02:38:37Z,1.0,udemy.com,43 mins
+5ca03bcc13ba61f2f0676772,1222308,311,ai,3,63,0,$89.99,All Levels,SGLearn@Artificial Intelligence II - Neural Networks in Java,2017-06-21T07:51:15Z,0.0,udemy.com,5 hours
+5ca03bcc13ba61f2f0676774,1607276,70,big data,1681,8,116,$19.99,Beginner Level,"""Basic Course in Digital Banking"" - With 2019 update.",2018-04-02T16:31:01Z,4.15626,udemy.com,1 hour
+5ca03bcc13ba61f2f0676776,1285902,203,ai,1587,49,20,$94.99,All Levels,"Facebook Marketing with Animation(2), the best choice here!",2017-10-11T23:34:26Z,4.00626,udemy.com,3.5 hours
+5ca03bcc13ba61f2f0676778,890730,163,ai,156,25,19,$194.99,All Levels,Boost Your Emotional Intelligence with your Moon Sign,2016-07-28T15:03:21Z,4.82163,udemy.com,2.5 hours
+5ca03bcc13ba61f2f067677a,1399024,40,ai,273,7,3,$24.99,Beginner Level,Intelligent Selling Masterclass,2017-10-18T22:31:56Z,5.0,udemy.com,40 mins
+5ca03bcc13ba61f2f067677c,2124552,42,ai,1,7,0,$199.99,All Levels,Artificial Intelligence For Video Creation: Without Software,2019-01-08T18:44:58Z,0.0,udemy.com,42 mins
+5ca03bcc13ba61f2f067677e,600608,150,ai,1527,35,72,$174.99,All Levels,Using Emotional Intelligence and Managing Aggressive People,2015-09-02T23:35:36Z,4.56426,udemy.com,2.5 hours
+5ca03bcc13ba61f2f0676780,556494,129,ai,4515,9,21,$199.99,All Levels,If You Can Cook You Can Code Vol 2:  Learn Python,2015-07-17T22:30:54Z,3.6266,udemy.com,2 hours
+5ca03bcc13ba61f2f0676782,1500780,948,ai,33,109,1,$199.99,Beginner Level,The Ultimate Unity Games & Python Artificial Intelligence,2018-01-13T18:16:28Z,4.0,udemy.com,16 hours
+5ca03bcc13ba61f2f0676784,1671310,869,ai,63,103,2,$199.99,All Levels,The Unity & Android Machine Learning Masterclass with Python,2018-05-04T18:13:11Z,3.65438,udemy.com,14.5 hours
+5ca03bcc13ba61f2f0676786,1595086,359,ai,125,43,6,$199.99,Beginner Level,Unity Machine Learning with Python!,2018-03-21T19:44:48Z,3.62518,udemy.com,6 hours
+5ca03bcc13ba61f2f0676788,1434874,193,ai,93,47,10,$199.99,Beginner Level,Leading With Emotional Intelligence,2017-11-22T22:42:05Z,4.50036,udemy.com,3 hours
+5ca03bcc13ba61f2f067678a,2159986,142,ai,14,36,1,$199.99,Beginner Level,Beginning Machine Learning with AWS,2019-01-23T02:02:43Z,4.5,udemy.com,2.5 hours
+5ca03bcc13ba61f2f067678c,2195232,325,ai,16,44,3,$129.99,Beginner Level,Machine Learning with Jupyter Notebooks in Amazon AWS,2019-02-13T23:47:12Z,3.70432,udemy.com,5.5 hours
+5ca03bcc13ba61f2f067678e,1197022,43,ai,6,12,3,$34.99,Beginner Level,Emotional Intelligence,2017-06-07T05:09:18Z,1.87675,udemy.com,43 mins
+5ca03bcc13ba61f2f0676790,1896040,81,ai,1465,20,1,$74.99,All Levels,Artificial Intelligence #8 : Particle Swarm Optimization,2018-09-05T22:02:07Z,4.5,udemy.com,1.5 hours
+5ca03bcf13ba61f2f0676792,1549768,138,ai,708,17,73,$19.99,All Levels,Application Development with IBM WATSON,2018-03-10T14:28:59Z,3.45948,udemy.com,2.5 hours
+5ca03bcf13ba61f2f0676795,1987776,194,ai,323,45,59,$199.99,All Levels,Chatfuel + Integromat = Ultimate Chatbot,2018-11-06T21:01:51Z,4.52099,udemy.com,3 hours
+5ca03bcf13ba61f2f0676797,1773210,120,ai,1585,10,3,$19.99,All Levels,Build ChatBot w/o Coding: IBM Watson,2019-01-12T21:00:29Z,4.1407,udemy.com,2 hours
+5ca03bcf13ba61f2f0676799,2092756,74,ai,3722,12,43,$19.99,All Levels,Learn to build chatbots with Dialogflow,2019-03-13T18:03:03Z,3.99386,udemy.com,1 hour
+5ca03bcf13ba61f2f067679b,1444146,75,ai,1843,19,36,$199.99,Beginner Level,Chatbot : Building Profitable Facebook Messenger Chatbots,2017-12-07T00:26:00Z,4.13694,udemy.com,1.5 hours
+5ca03bcf13ba61f2f067679e,1382292,33,ai,53,13,14,$19.99,All Levels,Build a Chatbot Using Chatfuel and Google's Search API,2017-10-11T22:50:20Z,3.56297,udemy.com,33 mins
+5ca03bcf13ba61f2f06767a2,1203936,48,ai,153,21,20,$149.99,Beginner Level,Build a chatbot for your Drop Shipping Business,2017-05-30T05:46:39Z,4.10799,udemy.com,1 hour
+5ca03bcf13ba61f2f06767a5,1416026,199,ai,160,31,20,$129.99,Beginner Level,Chatbots: Build Chatbots For Business With Chatfuel,2018-02-02T00:15:29Z,4.21052,udemy.com,3.5 hours
+5ca03bcf13ba61f2f06767a9,1623782,51,ai,1423,15,5,$19.99,Beginner Level,Learn to build chatbots with Amazon Lex,2018-04-04T22:26:21Z,3.29923,udemy.com,1 hour
+5ca03bcf13ba61f2f06767ab,1443458,48,ai,2,17,0,$74.99,Beginner Level,Introduction to Emotional Intelligence,2017-11-25T05:51:00Z,0.0,udemy.com,1 hour
+5ca03bcf13ba61f2f06767af,2159058,45,ai,0,5,0,$124.99,All Levels,Cultural Intelligence: A Traveler’s Tale,2019-01-22T18:58:25Z,0.0,udemy.com,1 hour
+5ca03bd213ba61f2f06767b6,1091948,140,ai,72,23,10,$19.99,Beginner Level,How to build a Facebook Chatbot for your business,2017-02-13T16:34:13Z,3.73441,udemy.com,2.5 hours
+5ca03bd213ba61f2f06767b8,1365600,182,ai,1048,28,56,$24.99,All Levels,Create Chatbots using Dialogflow v1& deploy on GCloud,2017-10-03T05:52:30Z,3.39788,udemy.com,3 hours
+5ca03bd213ba61f2f06767ba,1429266,49,ai,1,14,0,$24.99,All Levels,An Introductory Course on Emotional Intelligence,2017-12-11T23:05:51Z,0.0,udemy.com,1 hour
+5ca03bd213ba61f2f06767bc,1783254,167,ai,6,24,0,$124.99,Intermediate Level,"Python Machine Learning Tips, Tricks, and Techniques",2018-07-06T17:34:12Z,0.0,udemy.com,3 hours
+5ca03bd213ba61f2f06767be,2072327,228,ai,1,51,0,$74.99,All Levels,Emotional Intelligence for Business and Personal Success,2018-12-14T02:55:55Z,0.0,udemy.com,4 hours
+5ca03bd213ba61f2f06767c0,1801244,37,ai,0,12,0,$19.99,All Levels,Learn how to develop your Entrepreneurial Intelligence (EnQ),2018-07-17T17:10:25Z,0.0,udemy.com,37 mins
+5ca03bd213ba61f2f06767c2,1455856,486,ai,500,31,77,$199.99,All Levels,Build CHATBOTS with Dialogflow (V1 & V2) and NodeJS,2017-12-06T00:50:38Z,3.52587,udemy.com,8 hours
+5ca03bd213ba61f2f06767c4,1505556,1376,ai,43,130,0,$199.99,All Levels,The Complete Unity and Artificial Intelligence Masterclass,2018-01-16T22:48:48Z,0.0,udemy.com,23 hours
+5ca03bd213ba61f2f06767c6,2136532,177,ai,17,22,2,$124.99,Intermediate Level,Hands-On Machine Learning Using Amazon SageMaker,2019-01-16T23:17:20Z,3.13384,udemy.com,3 hours
+5ca03bd213ba61f2f06767c8,1208144,32,ai,0,6,0,$199.99,Intermediate Level,Coaching Course: Appreciative Communicator,2017-06-19T22:41:09Z,0.0,udemy.com,32 mins
+5ca03bd213ba61f2f06767ca,2213836,52,ai,1,25,0,$99.99,All Levels,Appreciative Inquiry,2019-02-22T20:07:37Z,0.0,udemy.com,1 hour
+5ca03bd213ba61f2f06767cc,1676474,843,ai,57,87,4,$199.99,Intermediate Level,Build 2 games that use artificial intelligence in Unity,2018-05-11T00:06:20Z,2.75836,udemy.com,14 hours
+5ca03bd213ba61f2f06767ce,466754,217,ai,1013,47,40,$194.99,All Levels,Be an Agent for Positive Change: Positivity Strategies,2015-07-07T20:14:19Z,4.01981,udemy.com,3.5 hours
+5ca03bd213ba61f2f06767d0,1792442,1254,ai,5,130,0,$199.99,All Levels,Complete Unity Artificial Intelligence & Android Development,2018-07-19T20:40:16Z,0.0,udemy.com,21 hours
+5ca03bd213ba61f2f06767d2,1962134,0,ai,204,0,1,$144.99,All Levels,C-BOWI-30 SAP Business Objects Web Intelligence XI 3.x Test,2018-11-13T08:41:08Z,3.5,udemy.com,139 questions
+5ca03bd213ba61f2f06767d4,1435582,60,ai,52,7,0,$19.99,All Levels,How To Develop Your Emotional Intelligence,2017-11-17T23:30:24Z,0.0,udemy.com,1 hour
+5ca03bd213ba61f2f06767d6,1624224,63,ai,2,11,0,$49.99,Beginner Level,Build a chatbot for your business in 3 hours,2018-09-03T23:07:58Z,0.0,udemy.com,1 hour
+5ca03bd513ba61f2f06767d9,1942238,0,ai,546,0,0,$159.99,All Levels,C-BOWI-30 SAP Business Objects Web Intelligence XI 3.X Test,2018-11-22T11:38:45Z,0.0,udemy.com,139 questions
+5ca03bd513ba61f2f06767db,2017442,87,ai,0,15,0,$39.99,All Levels,Facebook Chatbot Framework Design Secrets,2018-11-19T18:14:38Z,0.0,udemy.com,1.5 hours
+5ca03bd513ba61f2f06767dd,510064,65,ai,38,19,4,$19.99,All Levels,Easy French in 15 days - Day #1,2016-02-15T00:18:25Z,4.74471,udemy.com,1 hour
+5ca03bd513ba61f2f06767df,2198420,106,ai,3,25,0,$124.99,Beginner Level,Smarter Web Apps with Azure ML and Cognitive Services,2019-02-07T22:19:56Z,0.0,udemy.com,2 hours
+5ca03bd513ba61f2f06767e1,1898510,0,ai,1312,0,0,$169.99,All Levels,C_BOWI_30 SAP Business Objects Web Intelligence PracticeTest,2018-10-15T09:57:50Z,0.0,udemy.com,139 questions
+5ca03bd513ba61f2f06767e3,573586,259,ai,13,35,2,$99.99,Beginner Level,Inquiry and Integration in Education,2016-02-01T18:37:53Z,3.07895,udemy.com,4.5 hours
+5ca03bd513ba61f2f06767e5,2247118,309,ai,0,40,0,$29.99,Intermediate Level,Comprehensive Intro to C# Programming for Games with Unity,2019-03-07T20:19:47Z,0.0,udemy.com,5 hours
+5ca03bd513ba61f2f06767e7,1800580,185,ai,10384,22,88,Free,Intermediate Level,Kickstart Artificial Intelligence,2018-08-14T16:39:30Z,3.66556,udemy.com,3 hours
+5ca03bd513ba61f2f06767e9,2234110,340,ai,5982,66,14,Free,Beginner Level,Artificial Neural Networks(ANN) Made Easy,2019-03-03T00:43:35Z,3.89873,udemy.com,5.5 hours
+5ca03bd513ba61f2f06767eb,1451100,132,ai,11701,13,327,Free,Beginner Level,Making Chatbot & Voice Apps (with Dialogflow v1),2017-12-21T17:35:42Z,4.22933,udemy.com,2 hours
+5ca03bd513ba61f2f06767ed,2152690,62,ai,2055,9,45,Free,Beginner Level,Introduction - Salesforce Einstein Analytics,2019-01-21T20:48:05Z,4.32384,udemy.com,1 hour
+5ca03bd513ba61f2f06767ef,1820806,335,ai,2372,97,240,$164.99,Beginner Level,挨拶から店舗予約まで！手を動かして学ぶAIチャットボット開発入門,2018-08-22T15:09:23Z,4.5175,udemy.com,5.5 hours
+5ca03bd513ba61f2f06767f1,1588048,171,ai,233,25,28,$19.99,Beginner Level,CNN神經網路影像AI應用開發與雲端實踐,2018-06-29T15:42:20Z,4.18636,udemy.com,3 hours
+5ca03bd513ba61f2f06767f3,1730644,211,ai,39,41,3,$99.99,All Levels,金持ち暇ありフリーランスを目指す人のためのAI時代の働き方 ー理論編,2018-06-18T17:34:28Z,4.70256,udemy.com,3.5 hours
+5ca03bd513ba61f2f06767f5,1904708,691,ai,643,121,51,$149.99,All Levels,Artificial Intelligence und Reinforcement Learning in Python,2018-10-23T10:21:04Z,4.30177,udemy.com,11.5 hours
+5ca03bd513ba61f2f06767f7,1316594,59,ai,227,12,44,$19.99,All Levels,Künstliche Intelligenz KI / Artificial Intelligence AI Kurs,2017-10-02T21:30:06Z,3.85877,udemy.com,1 hour
+5ca03bd513ba61f2f06767f9,1014354,338,ai,19874,92,3959,$124.99,Beginner Level,みんなのAI講座 ゼロからPythonで学ぶ人工知能と機械学習,2016-12-29T22:05:44Z,3.81806,udemy.com,5.5 hours
+5ca03bd513ba61f2f06767fb,1745078,1528,ai,3985,240,419,$199.99,Intermediate Level,"Deep Learning, Neuronale Netze & AI: Der Komplettkurs",2018-09-09T18:41:04Z,4.57545,udemy.com,25.5 hours
+5ca03bd513ba61f2f06767fd,1551466,897,ai,2470,144,261,$149.99,All Levels,Machine Learning Grundlagen mit Python inkl. AI Einführung,2018-04-30T18:35:22Z,4.50672,udemy.com,15 hours
+5ca03bd913ba61f2f0676806,1587988,215,ai,1429,51,120,$79.99,All Levels,【TensorFlow で作る】GANによる画像生成AI自作入門,2018-04-04T23:51:15Z,4.22291,udemy.com,3.5 hours
+5ca03bd913ba61f2f0676808,1723932,146,ai,958,47,78,$89.99,All Levels,【4日間でチャレンジ】Python 3・ PyTorch によるディープラーニング・AIアプリ開発入門,2018-06-20T17:33:26Z,4.32117,udemy.com,2.5 hours
+5ca03bd913ba61f2f067680a,2051527,99,ai,486,13,57,$24.99,Beginner Level,オンライン講座を利用して機械学習・人工知能（AI）・ データ分析の最適な学び方を学ぶ講座,2018-11-28T18:05:22Z,4.39618,udemy.com,1.5 hours
+5ca03bd913ba61f2f067680c,2000022,408,ai,900,52,84,$124.99,Beginner Level,ディープラーニング : Pythonでゼロから構築し学ぶ人工知能（AI）と深層学習の原理,2018-11-13T16:40:45Z,3.99276,udemy.com,7 hours
+5ca03bd913ba61f2f067680e,1813998,368,ai,876,32,126,$164.99,Beginner Level,非エンジニア／超初心者のための人工知能（AI/機械学習）を活用したビジネスモデル立案講座 -基礎編-,2018-07-31T09:48:49Z,3.98812,udemy.com,6 hours
+5ca03bd913ba61f2f0676810,2101146,361,ai,508,49,32,$124.99,Beginner Level,自然言語処理とチャットボット: AIによる文章生成と会話エンジン開発,2019-02-25T08:57:15Z,4.07651,udemy.com,6 hours
+5ca03bd913ba61f2f0676812,1857364,134,ai,760,41,91,$69.99,Beginner Level,【今からでも間に合う！】AI開発・機械学習を理解するための数学講座,2018-08-20T16:43:46Z,4.18218,udemy.com,2 hours
+5ca03bd913ba61f2f0676815,1938484,331,ai,749,29,103,$49.99,Beginner Level,人工知能（AI）×IoT×ブロックチェーン時代のテクノロジー／次世代ビジネスモデルノウハウの全ての基礎知識を獲得する講座,2018-11-12T21:08:27Z,4.09558,udemy.com,5.5 hours
+5ca03bd913ba61f2f0676819,1851456,90,ai,805,24,79,$69.99,All Levels,【AIとIoTの連携にチャレンジ！】Raspberry Pi とTensorFlow ではじめるAI・IoTアプリ開発入,2018-08-14T23:37:36Z,4.1855,udemy.com,1.5 hours
+5ca03bd913ba61f2f067681b,1441314,91,ai,67,7,11,$44.99,Intermediate Level,数式なしでわかる人工知能（AI）入門講座,2017-11-27T18:14:26Z,3.48594,udemy.com,1.5 hours
+5ca03bd913ba61f2f067681d,1431716,81,ai,475,18,27,$199.99,All Levels,Der AI-Kurs für Unity​: Klevere Gegner für Spiele erstellen,2017-11-20T09:01:55Z,4.42704,udemy.com,1.5 hours
+5ca03bd913ba61f2f067681f,1187318,607,ai,594,41,34,$99.99,Beginner Level,スクラッチから始めるAI入門：多層ニューラルネット編,2017-07-27T19:30:33Z,3.12748,udemy.com,10 hours
+5ca03bd913ba61f2f0676821,2085860,54,ai,118,17,11,$79.99,Beginner Level,TensorFlow.js入門　JavaScriptでディープラーニング・AI アプリ開発にチャレンジしよう！,2018-12-24T16:26:12Z,3.42829,udemy.com,1 hour
+5ca03bd913ba61f2f0676823,2241850,2205,ai,4,209,1,$49.99,Intermediate Level,Ai工程师-自然语言处理实战(Python版),2019-02-28T13:47:00Z,5.0,udemy.com,37 hours
+5ca03bd913ba61f2f0676826,1496556,778,ai,1191,155,292,$149.99,Beginner Level,Guida ai linguaggi C e C++17: da principiante ad esperto,2018-03-21T12:52:57Z,4.29737,udemy.com,13 hours
+5ca03bd913ba61f2f0676828,1270198,470,ai,1045,72,199,$149.99,All Levels,Swift4로 배우는 iOS11 프로그래밍 : 인공지능(AI) 아이폰 앱 개발하기,2017-07-21T17:33:13Z,3.89963,udemy.com,8 hours
+5ca03bdd13ba61f2f067682b,1506050,170,ai,157,23,4,$19.99,Beginner Level,Devenez Super développeur Android avec Le langage AI,2018-01-29T18:28:22Z,4.69303,udemy.com,3 hours
+5ca03bdd13ba61f2f067682d,1393880,447,ai,1837,92,238,$84.99,Beginner Level,初心者必見！Pythonでニューラルネット・深層学習を完全攻略,2017-12-15T00:16:50Z,4.27917,udemy.com,7.5 hours
+5ca03bdd13ba61f2f067682f,2183348,238,ai,4,135,0,$79.99,Intermediate Level,スクラッチから始めるAI入門：畳み込みニューラルネット解説編,2019-03-12T08:20:36Z,0.0,udemy.com,4 hours
+5ca03bdd13ba61f2f0676831,2145634,90,ai,8,32,0,$19.99,Beginner Level,Raphaella AI 01110110: Aprende a programar chatbots y más,2019-01-27T22:03:30Z,0.0,udemy.com,1.5 hours
+5ca03bdd13ba61f2f0676833,1782064,529,ai,707,96,32,$124.99,All Levels,Deep Learning: Generative Neuronale Netzwerke mit Python,2018-08-17T16:03:53Z,4.4487,udemy.com,9 hours
+5ca03bdd13ba61f2f0676835,1973926,239,ai,1565,58,173,$89.99,Beginner Level,【Kaggleで学ぼう】Python と Keras で学ぶディープラーニング開発入門,2018-10-24T13:22:15Z,4.32813,udemy.com,4 hours
+5ca03bdd13ba61f2f0676837,744848,94,ai,10,21,2,$19.99,All Levels,20+1 Metode de a-ti creste stima de sine,2016-01-28T21:10:28Z,3.82902,udemy.com,1.5 hours
+5ca03bdd13ba61f2f0676839,1882628,101,ai,5,28,2,$49.99,Beginner Level,Leggi la personalità altrui grazie ai disegni,2018-12-19T12:01:58Z,4.0,udemy.com,1.5 hours
+5ca03bdd13ba61f2f067683b,2247934,157,ai,2,8,2,$44.99,Beginner Level,【セミナー版】事業者の為のWeb広告運用術、機械学習（AI）の活用と自動化の流れ,2019-03-07T04:21:41Z,4.5,udemy.com,2.5 hours
+5ca03bdd13ba61f2f067683d,1274262,307,ai,3423,77,353,$124.99,Beginner Level,みんなのディープラーニング講座 ゼロからChainerとPythonで学ぶ深層学習の基礎,2017-10-30T16:49:55Z,4.02732,udemy.com,5 hours
+5ca03bdd13ba61f2f067683f,1555742,265,ai,1648,75,311,$124.99,Beginner Level,はじめてのPython 少しづつ丁寧に学ぶプログラミング言語Python3のエッセンス,2018-04-10T18:09:32Z,4.24311,udemy.com,4.5 hours
+5ca03bdd13ba61f2f0676841,1809999,550,ai,4,105,0,$109.99,All Levels,3DS MAX 2018 do início ao avançado + MUDBOX + AE com AI,2018-12-15T12:58:45Z,0.0,udemy.com,9 hours
+5ca03bdd13ba61f2f0676843,2034584,200,ai,27,39,3,$19.99,Beginner Level,【未経験者・初心者限定】Pythonから飛び込むプログラミングの世界,2019-01-03T16:03:50Z,4.5,udemy.com,3.5 hours
+5ca03bdd13ba61f2f0676845,2199458,86,ai,22,6,1,$79.99,All Levels,Desperte Sua Genialidade - Vivendo Seu Alto Fluxo (FLOW),2019-02-27T15:22:08Z,5.0,udemy.com,1.5 hours
+5ca03bdd13ba61f2f0676847,2262196,139,ai,2,17,0,$19.99,Beginner Level,先生・学生・新社会人の方へ！スクラッチで学ぶAIに負けない人材になるためのプログラミング超入門,2019-03-18T02:52:30Z,0.0,udemy.com,2.5 hours
+5ca03bdd13ba61f2f0676849,915758,208,ai,485,34,21,$79.99,All Levels,実践 Internet of Things,2016-08-03T01:19:03Z,2.5842,udemy.com,3.5 hours
+5ca03bdd13ba61f2f067684b,1770192,535,ai,2688,46,566,$159.99,Beginner Level,Corso completo di inglese da zero!,2018-08-31T15:34:38Z,4.36276,udemy.com,9 hours
+5ca03bdd13ba61f2f067684d,1965338,401,ai,149,97,15,$199.99,Beginner Level,【最新版iOS12対応】プログラミング初心者が学ぶiPhoneアプリ開発入門,2018-10-23T13:58:38Z,3.57359,udemy.com,6.5 hours
+5ca03bdd13ba61f2f067684f,1509592,510,ai,490,81,68,$64.99,Beginner Level,"Adobe大補帖( Premiere, Photoshop, illustrator)",2018-01-30T13:30:42Z,3.4473,udemy.com,8.5 hours
+5ca03bdd13ba61f2f0676851,1779476,1061,ai,2177,259,314,$199.99,All Levels,【iOS12対応】未経験者が有名アプリ開発者になるiOS 12の全て 20個以上アプリをつくりプロになる,2018-08-31T14:55:13Z,4.24578,udemy.com,17.5 hours
+5ca03be213ba61f2f0676859,2173514,153,ai,7,13,5,$179.99,Beginner Level,Come evitare di essere truffati on line,2019-01-31T11:54:29Z,4.92201,udemy.com,2.5 hours
+5ca03be213ba61f2f067685b,1257240,435,ai,1042,69,198,$124.99,Beginner Level,みんなのiOS講座 ゼロからSwiftで学ぶiPhoneアプリ開発の基礎,2018-01-16T17:57:39Z,4.31019,udemy.com,7.5 hours
+5ca03be213ba61f2f067685d,1266664,417,ai,3173,124,386,$89.99,Beginner Level,"【6日で速習】iOS 11 Swift 4アプリ開発入門決定版 20個のアプリを作る(ARKit,CoreML,NFC)",2017-07-17T17:36:28Z,4.11731,udemy.com,7 hours
+5ca03be213ba61f2f067685f,1857544,106,ai,24,15,5,$199.99,Intermediate Level,► Joomla Power 3: Sviluppa Siti Internet Professionali Ora..,2018-08-17T09:42:45Z,5.0,udemy.com,2 hours
+5ca03be213ba61f2f0676861,67934,595,ai,317,63,46,$29.99,Beginner Level,Tutorial Photoshop Facile,2013-07-25T08:29:06Z,4.37519,udemy.com,10 hours
+5ca03be213ba61f2f0676863,1817214,51,ai,22,10,7,$29.99,All Levels,Come creare un piano alimentare personalizzato a casa,2018-09-10T14:25:41Z,3.76969,udemy.com,1 hour
+5ca03be213ba61f2f0676865,943524,272,ai,9,52,2,$49.99,Beginner Level,Autodesk 3DS Max Particles 101,2018-10-16T11:25:03Z,5.0,udemy.com,4.5 hours
+5ca03be213ba61f2f0676867,2115050,152,ai,18,13,2,$19.99,Beginner Level,Impara rapidamente le basi di MySQL 8.0 (IN ITALIANO),2019-01-02T23:55:00Z,3.96694,udemy.com,2.5 hours
+5ca03be213ba61f2f0676869,350736,66,ai,14,13,2,$24.99,All Levels,Manuale del Content Marketing e Copywriting,2018-02-19T11:20:30Z,1.62003,udemy.com,1 hour
+5ca03be213ba61f2f067686b,1325808,58,ai,3,7,0,$34.99,Intermediate Level,Architettura Feng Shui -  Corso base 1,2017-08-29T20:42:50Z,0.0,udemy.com,1 hour
+5ca03be213ba61f2f067686d,743824,146,ai,2728,24,117,Free,All Levels,Guida pratica ai form html5,2016-02-10T17:05:00Z,3.97086,udemy.com,2.5 hours
+5ca03be213ba61f2f067686f,2139230,38,ai,166,15,2,Free,Beginner Level,Visual AI 文系のための人工知能「導入編」,2019-01-29T16:13:11Z,1.8877,udemy.com,38 mins
+5ca03be213ba61f2f0676871,1754962,65,ai,2292,21,303,Free,Beginner Level,Time management,2018-06-19T16:16:32Z,4.1345,udemy.com,1 hour
+5ca03be213ba61f2f0676873,2199796,65,ai,7,18,0,Free,All Levels,GUPPY,2019-03-05T08:10:44Z,0.0,udemy.com,1 hour
+5ca03be213ba61f2f0676875,1765870,842,ai,3093,109,477,$199.99,Beginner Level,Intelligence Artificielle de A à Z,2018-08-17T19:29:04Z,4.29488,udemy.com,14 hours
+5ca03be213ba61f2f0676877,1334248,1092,ai,6919,158,1032,$199.99,All Levels,Super Formação Inteligência Artificial e Machine Learning,2018-04-02T13:24:43Z,4.32897,udemy.com,18 hours
+5ca03be213ba61f2f0676879,1906400,1750,ai,3959,148,493,$199.99,All Levels,Curso completo de Inteligencia Artificial con Python,2018-10-24T21:50:34Z,4.3348,udemy.com,29 hours
+5ca03be213ba61f2f067687b,1677884,255,ai,333,35,49,$24.99,All Levels,Machine Learning e Deep Learning para Iniciantes,2018-05-21T13:37:07Z,4.38015,udemy.com,4.5 hours
+5ca03be213ba61f2f067687d,828848,381,ai,2141,61,536,$24.99,All Levels,Inteligência Artificial para Iniciantes,2016-04-23T17:31:46Z,4.0222,udemy.com,6.5 hours
+5ca03be213ba61f2f067687f,1528850,599,ai,4016,103,341,$109.99,Intermediate Level,Deep Learning verstehen: Entwickle Neuronale Netze in Python,2018-05-15T16:27:58Z,4.50169,udemy.com,10 hours
+5ca03be713ba61f2f0676885,1356190,258,ai,13414,25,2953,$124.99,Beginner Level,【キカガク流】人工知能・機械学習 脱ブラックボックス講座 - 初級編 -,2017-10-20T14:33:50Z,4.31716,udemy.com,4.5 hours
+5ca03be713ba61f2f0676887,2114216,675,ai,195,121,29,$189.99,All Levels,Deep Learning e Reti Neurali con Python: il Corso Pratico,2019-02-12T13:45:05Z,4.55067,udemy.com,11.5 hours
+5ca03be713ba61f2f0676889,1536972,263,ai,9724,36,1251,$164.99,Beginner Level,【キカガク流】人工知能・機械学習 脱ブラックボックス講座 - 中級編 -,2018-02-06T16:58:06Z,4.42406,udemy.com,4.5 hours
+5ca03be713ba61f2f067688b,1049854,272,ai,10324,57,1356,$119.99,Beginner Level,【4日で体験しよう！】 TensorFlow 1.x と Python 3 で学ぶディープラーニング体験講座,2017-01-30T19:46:10Z,4.02825,udemy.com,4.5 hours
+5ca03be713ba61f2f067688d,986380,553,ai,7328,119,819,$124.99,All Levels,Pythonで機械学習：scikit-learnで学ぶ識別入門,2016-11-22T01:55:29Z,4.24591,udemy.com,9 hours
+5ca03be713ba61f2f067688f,2031410,146,ai,27,25,9,$24.99,Beginner Level,Gestion des émotions,2019-01-29T00:07:27Z,4.77459,udemy.com,2.5 hours
+5ca03be713ba61f2f0676891,1042320,321,ai,790,29,179,$109.99,All Levels,Inteligência Artificial: Algoritmos Genéticos,2017-01-12T13:52:48Z,4.39272,udemy.com,5.5 hours
+5ca03be713ba61f2f0676893,1356238,288,ai,2721,22,283,$164.99,Intermediate Level,【キカガク流】現場で使えるChainerによるディープラーニング入門,2018-07-12T11:18:58Z,4.35146,udemy.com,5 hours
+5ca03be713ba61f2f0676895,1358625,200,ai,2179,39,149,$84.99,Beginner Level,"【 TensorFlow , Python3 , OpenAI Gymで学ぶ】強化学習入門",2017-10-27T18:25:58Z,4.06643,udemy.com,3.5 hours
+5ca03be713ba61f2f0676897,1924360,425,ai,247,64,34,$89.99,Beginner Level,誰でもIBM Watsonでピザ注文チャットボットが作れる！！Watsonチャットボットマスター7時間講座A to Z,2018-10-01T22:46:42Z,4.56241,udemy.com,7 hours
+5ca03be713ba61f2f0676899,1345296,108,ai,83,15,13,$29.99,All Levels,Inteligência Artificial com Algoritmos Genéticos em R,2017-09-11T15:53:21Z,4.46184,udemy.com,2 hours
+5ca03be713ba61f2f067689b,1358884,493,ai,138,75,24,$129.99,Intermediate Level,Inteligência Artificial: Algoritmos Genéticos - TSP,2017-11-20T15:36:11Z,4.43857,udemy.com,8 hours
+5ca03be713ba61f2f067689d,854584,93,ai,682,8,312,$164.99,All Levels,はんだ付け職人のはんだ付け講座,2017-07-20T23:39:26Z,4.11641,udemy.com,1.5 hours
+5ca03be713ba61f2f067689f,1614052,32,ai,106,7,9,$34.99,All Levels,Bejegyzéskiemelés okosan,2018-03-30T21:30:42Z,4.638,udemy.com,32 mins
+5ca03be713ba61f2f06768a1,1799418,677,ai,1257,107,241,$174.99,All Levels,Do Zero ao Chatbot - vários projetos práticos,2018-07-22T01:11:24Z,4.17245,udemy.com,11.5 hours
+5ca03be713ba61f2f06768a3,1966752,353,ai,447,34,135,$199.99,All Levels,MASTER EN CHATBOT Y DIALOGFLOW 2019!!FACEBOOK CHATBOTS Y PHP,2018-10-18T18:02:08Z,4.57219,udemy.com,6 hours
+5ca03be713ba61f2f06768a5,2092508,532,ai,356,54,24,$144.99,All Levels,ブロックチェーンバイブル：ブロックチェーンの仕組みをゼロから完全マスター,2018-12-19T17:51:21Z,4.29444,udemy.com,9 hours
+5ca03be713ba61f2f06768a7,1767536,226,ai,486,39,49,$164.99,Beginner Level,初心者向け：ブロックチェーンの基礎知識、暗号通貨の仕組み、スマートコントラクトについて、ビジネスへの応用可能性,2018-08-27T23:04:39Z,4.242,udemy.com,4 hours
+5ca03be713ba61f2f06768a9,1686206,92,ai,115,31,20,$199.99,Beginner Level,ゼロから学ぶブロックチェーン・ビットコイン入門講座,2018-06-14T14:35:40Z,4.38146,udemy.com,1.5 hours
+5ca03be713ba61f2f06768ab,1158324,100,ai,57,12,13,$44.99,All Levels,フリーランス翻訳者になろう！,2017-04-28T18:48:49Z,4.39177,udemy.com,1.5 hours
+5ca03bea13ba61f2f06768af,1837750,58,ai,422,16,39,$39.99,Beginner Level,La Biblia Del Machine Learning  - (Inteligencia Artificial),2018-08-07T18:50:30Z,3.5919,udemy.com,1 hour
+5ca03bea13ba61f2f06768b4,1914296,253,ai,41,40,3,$79.99,All Levels,Deep Reinforcement Learning - einfach verstehen,2018-10-19T14:58:37Z,3.59661,udemy.com,4 hours
+5ca03bea13ba61f2f06768b7,1742056,50,ai,709,6,53,$199.99,Beginner Level,Inteligencia Artificial y Machine Learning Desde Cero -Facil,2018-06-13T00:22:25Z,2.4965,udemy.com,1 hour
+5ca03bea13ba61f2f06768bd,1271544,837,ai,426,110,40,$99.99,Expert Level,Maschinelles Lernen & Künstliche Intelligenz in der Theorie,2017-07-03T22:08:04Z,3.41412,udemy.com,14 hours
+5ca03bea13ba61f2f06768c0,1187046,228,ai,4695,72,371,$89.99,All Levels,【NumPy・Python3で】ゼロから作るニューラルネットワーク（バックプロップを徹底マスター）,2017-05-02T20:01:47Z,3.68489,udemy.com,4 hours
+5ca03bea13ba61f2f06768c2,1015438,169,ai,2759,33,263,$89.99,Intermediate Level,アプリケーション開発者のための機械学習実践講座,2016-12-27T17:12:41Z,3.72389,udemy.com,3 hours
+5ca03bea13ba61f2f06768c4,1327948,328,ai,903,55,101,$119.99,Intermediate Level,Pythonによる機械学習実践演習~線形回帰からCNNやRNNなどの最新DeepLearningアルゴリズムまで~,2017-11-01T19:53:46Z,3.29929,udemy.com,5.5 hours
+5ca03bea13ba61f2f06768c6,2141338,88,ai,30,11,1,$64.99,Beginner Level,Aprenda agora o que é realmente Inteligência Artificial,2019-01-17T13:12:24Z,4.0,udemy.com,1.5 hours
+5ca03bea13ba61f2f06768c8,1832094,603,ai,231,103,33,$199.99,Beginner Level,ディープラーニング：SONYニューラルネットワークコンソール（NNC)による深層学習入門,2018-08-20T16:45:43Z,3.65238,udemy.com,10 hours
+5ca03bed13ba61f2f06768cb,1030574,69,ai,101,23,11,$34.99,Beginner Level,【SPI対策・やり直し数学】文字式と一元一次方程式,2016-12-17T00:44:43Z,4.21458,udemy.com,1 hour
+5ca03bed13ba61f2f06768cd,531992,134,ai,125,29,4,$19.99,All Levels,【学生編】東大の入試問題で「数学的センス」が身につく,2015-07-30T17:58:57Z,5.0,udemy.com,2 hours
+5ca03bed13ba61f2f06768cf,1834148,59,ai,170,12,2,$64.99,All Levels,Fundamentos de Inteligência Artificial para Marketing,2018-08-04T13:52:40Z,4.10938,udemy.com,1 hour
+5ca03bed13ba61f2f06768d1,929748,540,ai,98,124,7,$59.99,Beginner Level,下嶋 勇一郎 先生の数学検定3級対策コース,2016-11-14T23:45:50Z,4.27011,udemy.com,9 hours
+5ca03bed13ba61f2f06768d3,1572292,328,ai,313,112,57,$199.99,Beginner Level,【初心者向け】「ねこ画像判別Webアプリ：にゃんちぇっく」をつくってディープラーニングの基礎を学ぼう！：アイデミー,2018-04-17T02:42:34Z,2.81532,udemy.com,5.5 hours
+5ca03bed13ba61f2f06768d5,242480,54,ai,61,8,10,$19.99,Beginner Level,元ファンドマネージャーが教える経済の流れと連想力,2014-08-21T10:40:15Z,3.44183,udemy.com,1 hour
+5ca03bed13ba61f2f06768d7,1987856,62,ai,11,6,3,$19.99,Beginner Level,入社1年目から使える 「数字」と「論理」のコツ,2018-10-29T14:45:03Z,3.97281,udemy.com,1 hour
+5ca03bed13ba61f2f06768d9,1740884,251,ai,3,25,1,$19.99,Beginner Level,初めてのディープラーニング　実践的スキル習得編,2018-08-29T11:59:03Z,1.0,udemy.com,4 hours
+5ca03bed13ba61f2f06768db,242432,35,ai,23,6,2,$19.99,Beginner Level,甘くない利用規約,2014-08-21T11:43:56Z,4.14497,udemy.com,35 mins
+5ca03bed13ba61f2f06768dd,2180700,130,ai,9,21,0,$39.99,Intermediate Level,Heurísticas e Metaheurísticas em Python,2019-01-31T16:43:18Z,0.0,udemy.com,2 hours
+5ca03bed13ba61f2f06768df,531990,148,ai,121,30,6,$29.99,All Levels,【ビジネス編】東大の入試問題で「数学的センス」が身につく,2015-07-01T06:33:58Z,3.25921,udemy.com,2.5 hours
+5ca03bed13ba61f2f06768e1,1596854,355,ai,312,99,26,$199.99,All Levels,人工知能Watsonを用いたペットSNS + 質問箱風アプリ Peing + FlappyBird風ゲームを作成しよう,2018-03-20T17:57:26Z,4.13896,udemy.com,6 hours
+5ca03bed13ba61f2f06768e3,2041614,277,ai,0,46,0,$19.99,Beginner Level,Tableau Tutorial in Hindi - हिंदी में Tableau को समझे,2018-12-05T19:04:46Z,0.0,udemy.com,4.5 hours
+5ca03bed13ba61f2f06768e5,1865200,67,ai,36,12,1,$199.99,All Levels,Inteligência Artificial e os ChatBots,2018-09-01T13:31:13Z,4.0,udemy.com,1 hour
+5ca03bed13ba61f2f06768e7,1693302,268,ai,364,26,64,$69.99,Intermediate Level,Assistente Virtual com IBM Watson,2018-05-17T23:54:00Z,3.75055,udemy.com,4.5 hours
+5ca03bed13ba61f2f06768e9,2021256,295,ai,194,27,25,$49.99,Beginner Level,超初心者向け 仮想通貨／ブロックチェーン活用 のための基礎知識の全て,2018-11-19T20:02:15Z,4.19242,udemy.com,5 hours
+5ca03bed13ba61f2f06768eb,2168094,47,ai,3,30,1,$29.99,Intermediate Level,Invata sa dansezi Blues - Partea a 2 a,2019-01-25T22:15:15Z,5.0,udemy.com,1 hour
+5ca03bed13ba61f2f06768ed,1362874,193,ai,163,31,31,$99.99,Intermediate Level,Construindo Chatbot com Fluxo Estruturado,2017-12-30T00:46:05Z,4.34429,udemy.com,3 hours
+5ca03bed13ba61f2f06768ef,1717262,63,ai,0,5,0,$29.99,All Levels,马来西亚教育文凭高级数学，中四，第十一课：指数,2018-10-01T19:19:44Z,0.0,udemy.com,1 hour
+5ca03bed13ba61f2f06768f1,1444066,132,ai,0,5,0,$49.99,All Levels,马来西亚教育文凭高级数学，中四，第三课：二次函数,2018-05-18T18:15:05Z,0.0,udemy.com,2 hours
+5ca03bf113ba61f2f06768f5,1443300,108,ai,2,6,0,$49.99,All Levels,马来西亚教育文凭高级数学，中四，第一课：函数,2018-04-06T13:09:34Z,0.0,udemy.com,2 hours
+5ca03bf113ba61f2f06768f8,1698722,120,ai,0,6,0,$49.99,All Levels,马来西亚教育文凭高级数学，中四，第五课：指数与对数,2018-05-22T20:06:53Z,0.0,udemy.com,2 hours
+5ca03bf113ba61f2f06768fb,1703616,141,ai,0,9,0,$69.99,All Levels,马来西亚教育文凭高级数学，中四，第七课：统计学,2018-08-03T19:56:17Z,0.0,udemy.com,2.5 hours
+5ca03bf113ba61f2f06768fd,865808,120,ai,33,18,0,$24.99,Intermediate Level,プログラミングで科学を学ぼう！ Vol. 9,2016-06-02T15:35:56Z,0.0,udemy.com,2 hours
+5ca03bf113ba61f2f06768ff,1771880,284,ai,9,19,0,$24.99,Intermediate Level,1日30分の勉強で高校数学をマスターできる！ 2次関数の最大・最小,2018-07-03T13:53:09Z,0.0,udemy.com,4.5 hours
+5ca03bf113ba61f2f0676901,1614586,168,ai,540,41,78,$139.99,All Levels,仮想通貨プログラミング入門講座 ブロックチェーンの使い方がわかる！ゼロから動画で学ぶ仕組みと理論と作り方,2018-03-26T12:11:56Z,3.02847,udemy.com,3 hours
+5ca03bf113ba61f2f0676903,1909810,88,ai,3,23,1,$199.99,Beginner Level,ブロックチェーン超入門：初めてブロックチェーンを学ぶ人に向けて超丁寧に解説しています,2018-09-21T09:31:58Z,4.5,udemy.com,1.5 hours
+5ca03bf113ba61f2f0676905,1827978,65,ai,15,25,1,$34.99,Beginner Level,目薬指圧：疲れ目、眼精疲労に指圧で対処する方法,2018-08-28T16:28:51Z,4.0,udemy.com,1 hour
+5ca03bf113ba61f2f0676907,1830354,397,ai,7,17,1,$39.99,Beginner Level,Tetris,2018-10-16T01:09:10Z,3.0,udemy.com,6.5 hours
+5ca03bf113ba61f2f0676909,2256834,53,ai,12,27,0,$124.99,Beginner Level,FaceBook Chatbot功能教學,2019-03-11T19:49:09Z,0.0,udemy.com,1 hour
+5ca03bf113ba61f2f067690b,1422874,112,ai,0,45,0,$29.99,Intermediate Level,Tehnici avansate de training,2017-11-11T22:58:52Z,0.0,udemy.com,2 hours
+5ca03bf113ba61f2f067690d,1469408,124,ai,8281,11,62,Free,Beginner Level,Introduction to Artificial Intelligence (Indonesian Version),2017-12-18T23:39:23Z,4.1444,udemy.com,2 hours
+5ca03bf113ba61f2f067690f,1920880,145,ai,632,10,18,Free,Beginner Level,Belajar Artificial Neural Network (ANN) untuk Pemula,2018-09-21T00:06:05Z,4.48718,udemy.com,2.5 hours
+5ca03bf113ba61f2f0676911,246844,51,ai,488,8,11,Free,All Levels,ビッグデータ時代のクラウド活用とは？ (Adtech Tokyo 2013 Track B-4),2014-08-21T11:13:12Z,3.57816,udemy.com,1 hour
+5ca03bf113ba61f2f0676913,246932,54,ai,270,8,10,Free,All Levels,ビッグデータとターゲティングの可能性を探る-(Adtech Tokyo 2012 Track-D1),2014-08-21T11:24:49Z,3.40442,udemy.com,1 hour
+5ca03bf113ba61f2f0676915,324626,53,ai,284,7,7,Free,All Levels,キュレーションメディア最前線,2014-11-18T19:29:19Z,4.044,udemy.com,1 hour
+5ca03bf113ba61f2f0676917,247096,51,ai,542,8,9,Free,All Levels,クラウドコンピューティング：クラウドサービスをどのようにビジネスに生かせるのか？,2014-08-21T11:58:25Z,2.80427,udemy.com,1 hour
+5ca03bf413ba61f2f0676919,324732,53,ai,146,7,3,Free,All Levels,ビデオアド市場の成長と収益化への挑戦-(ad:tech Tokyo 2014 B-4),2014-11-17T13:54:24Z,3.62935,udemy.com,1 hour
+5ca03bf413ba61f2f067691b,480448,33,ai,146,15,0,Free,All Levels,【大学入試基礎ドリル＆映像解説】数Ⅱ　Vol.3,2015-04-25T00:29:25Z,0.0,udemy.com,33 mins
+5ca03bf413ba61f2f067691d,480442,40,ai,177,16,0,Free,All Levels,【大学入試基礎ドリル＆映像解説】数Ⅱ　Vol.2,2015-04-27T14:04:58Z,0.0,udemy.com,40 mins
+5ca03bf413ba61f2f067691f,480450,31,ai,154,13,0,Free,All Levels,【大学入試基礎ドリル&映像解説】数Ⅱ　Vol.4,2015-04-25T00:57:40Z,0.0,udemy.com,31 mins
+5ca03bf413ba61f2f0676921,480440,31,ai,192,9,0,Free,All Levels,【大学入試基礎ドリル＆映像解説】数Ⅱ　Vol.1,2015-04-25T00:19:30Z,0.0,udemy.com,31 mins
+5ca03bf413ba61f2f0676923,1240742,165,ai,429,17,34,Free,Beginner Level,ミニマムコスト起業術：フリーランスで稼ぐ方法と生き残る戦略とは？,2017-06-16T19:24:11Z,3.86014,udemy.com,3 hours
+5ca03dad13ba61f2f0676970,996228,872,big data,69447,96,13195,$179.99,All Levels,The Ultimate Hands-On Hadoop - Tame your Big Data!,2017-02-23T18:42:20Z,4.54547,udemy.com,14.5 hours
+5ca03dad13ba61f2f0676972,622414,314,big data,32623,46,5634,$99.99,All Levels,Taming Big Data with Apache Spark and Python - Hands On!,2015-10-06T19:13:37Z,4.4115,udemy.com,5 hours
+5ca03dad13ba61f2f0676974,540270,303,big data,16422,53,1996,$79.99,All Levels,Taming Big Data with MapReduce and Hadoop - Hands On!,2015-07-21T20:27:12Z,4.40158,udemy.com,5 hours
+5ca03dad13ba61f2f0676976,892806,445,big data,34881,55,7076,$99.99,All Levels,Apache Spark 2 with Scala - Hands On with Big Data!,2016-07-21T22:57:59Z,4.5293,udemy.com,7.5 hours
+5ca03dad13ba61f2f0676978,519406,192,big data,26502,32,1649,$199.99,All Levels,Big Data and Hadoop for Beginners - with Hands-on!,2016-01-28T17:06:37Z,4.03636,udemy.com,3 hours
+5ca03dad13ba61f2f067697a,980798,636,big data,27702,66,5483,$194.99,Intermediate Level,Spark and Python for Big Data with PySpark,2017-05-04T16:43:09Z,4.46588,udemy.com,10.5 hours
+5ca03dad13ba61f2f067697c,491482,325,big data,3582,42,599,$199.99,All Levels,Architecting Big Data Solutions,2016-05-23T17:47:30Z,4.06671,udemy.com,5.5 hours
+5ca03dad13ba61f2f067697e,1978354,4056,big data,13558,525,211,$199.99,All Levels,Hands-on HADOOP Masterclass - Tame the Big Data!,2018-10-23T19:46:21Z,3.92109,udemy.com,67.5 hours
+5ca03dad13ba61f2f0676980,768670,359,big data,10215,98,1753,$39.99,All Levels,Learn Big Data: The Hadoop Ecosystem Masterclass,2016-03-22T06:42:27Z,4.20137,udemy.com,6 hours
+5ca03dad13ba61f2f0676982,2170564,171,big data,1948,36,19,$99.99,All Levels,"Master Flume, Sqoop, Hive for Big Data Ingestion & Analytics",2019-01-28T00:46:59Z,4.49467,udemy.com,3 hours
+5ca03dad13ba61f2f0676984,1328642,207,big data,14212,60,1893,$199.99,All Levels,Apache Spark 2.0 with Java -Learn Spark from a Big Data Guru,2017-08-24T16:10:18Z,4.32928,udemy.com,3.5 hours
+5ca03dad13ba61f2f0676986,1541066,220,big data,407,79,68,$24.99,Beginner Level,Big Data for Managers,2018-06-15T00:18:56Z,4.05368,udemy.com,3.5 hours
+5ca03dad13ba61f2f0676988,1114172,373,big data,3911,40,109,$79.99,All Levels,"Learn Big Data Testing (Hadoop, Hive, Cassandra, HBase etc.)",2017-03-01T04:08:42Z,3.89553,udemy.com,6 hours
+5ca03dad13ba61f2f067698a,825972,824,big data,5421,73,466,$99.99,All Levels,"Learn By Example: Hadoop, MapReduce for Big Data problems",2016-04-20T17:36:02Z,4.0305,udemy.com,13.5 hours
+5ca03dad13ba61f2f067698c,291080,227,big data,6355,51,361,$94.99,All Levels,Big Data and Hadoop for Absolute Beginners,2014-09-12T18:18:09Z,4.10761,udemy.com,4 hours
+5ca03dad13ba61f2f067698e,955730,140,big data,1028,29,86,$104.99,All Levels,Big Data Internship Program - Data Ingestion-Sqoop and Flume,2016-10-29T03:58:11Z,4.18646,udemy.com,2.5 hours
+5ca03dad13ba61f2f0676990,1046924,134,big data,685,34,26,$119.99,All Levels,Big Data Internship Program - Data Processing - Hive and Pig,2017-01-31T23:42:09Z,4.26361,udemy.com,2 hours
+5ca03dad13ba61f2f0676992,923742,216,big data,4583,18,22,$199.99,All Levels,If You Can Cook You Can Code Vol 4: Big Data,2016-09-16T18:31:46Z,4.37169,udemy.com,3.5 hours
+5ca03dad13ba61f2f0676994,831458,362,big data,12833,39,1904,$99.99,All Levels,Taming Big Data with Spark Streaming and Scala - Hands On!,2016-05-03T00:38:38Z,4.43077,udemy.com,6 hours
+5ca03dad13ba61f2f0676996,1724324,88,big data,61,31,11,$199.99,All Levels,Big Data Analytics With Apache Hadoop Stack,2018-06-01T16:54:33Z,4.5309,udemy.com,1.5 hours
+5ca03db013ba61f2f0676999,1022842,127,big data,184,15,10,$49.99,All Levels,Data Ingestion using Sqoop and Flume for Big Data Testing,2016-12-15T18:00:06Z,3.46072,udemy.com,2 hours
+5ca03db013ba61f2f067699c,1481428,262,big data,96,38,13,$79.99,All Levels,Learn Big Data from Scratch (Advance Hadoop + Unix Commands),2018-01-02T22:26:03Z,3.32051,udemy.com,4.5 hours
+5ca03db013ba61f2f067699e,1002952,199,big data,1037,46,63,$94.99,All Levels,Big Data Analytics Using Sqoop and Hive,2016-12-15T21:55:03Z,3.60227,udemy.com,3.5 hours
+5ca03db013ba61f2f06769a1,2236020,141,big data,1739,33,29,$19.99,Beginner Level,Apache NiFi - The Complete Guide (Hortonworks DataFlow-HDF),2019-03-02T01:52:18Z,4.68757,udemy.com,2.5 hours
+5ca03db013ba61f2f06769a3,900244,379,big data,286,35,25,$84.99,All Levels,Easy Road Map to Big Data Testing (Hive and MySQL Databases),2016-10-13T14:50:35Z,3.37693,udemy.com,6.5 hours
+5ca03db013ba61f2f06769a5,977062,612,big data,18885,80,3139,$194.99,All Levels,Scala and Spark for Big Data and Machine Learning,2016-11-14T17:04:23Z,4.41004,udemy.com,10 hours
+5ca03db013ba61f2f06769a7,1016338,159,big data,242,20,7,$59.99,All Levels,Advance MySQL for complete End to End Testing,2016-11-25T20:51:32Z,3.76721,udemy.com,2.5 hours
+5ca03db013ba61f2f06769a9,1469298,435,big data,298,58,48,$94.99,All Levels,All NoSQL (HBase + Cassandra + MongoDB + Redis) for Big Data,2017-12-21T23:28:24Z,3.88082,udemy.com,7.5 hours
+5ca03db013ba61f2f06769ab,1586480,238,big data,22698,37,337,$139.99,Intermediate Level,Apache Spark Streaming with Python and PySpark,2018-04-15T22:12:18Z,3.88522,udemy.com,4 hours
+5ca03db013ba61f2f06769ad,1016340,202,big data,205,30,14,$94.99,All Levels,"Test Management Tool: JIRA, Rally Tools with Agile Concepts",2017-05-24T16:36:23Z,4.26572,udemy.com,3.5 hours
+5ca03db013ba61f2f06769af,1114170,245,big data,137,29,15,$69.99,All Levels,"Learn Big Data Testing with Spark, Scala and MongoDB",2017-05-08T17:48:40Z,3.58605,udemy.com,4 hours
+5ca03db013ba61f2f06769b3,1657746,168,big data,235,30,7,$19.99,All Levels,Master Big Data Hadoop,2018-04-23T20:24:43Z,3.9437,udemy.com,3 hours
+5ca03db013ba61f2f06769b6,886072,136,big data,3230,17,140,$99.99,All Levels,Flume and Sqoop for Ingesting Big Data,2016-07-25T17:32:52Z,4.50021,udemy.com,2.5 hours
+5ca03db013ba61f2f06769b8,1114168,330,big data,373,51,47,$79.99,All Levels,Big Data Testing: 150+ Interview Questions and Answers,2017-02-21T18:14:16Z,3.79242,udemy.com,5.5 hours
+5ca03db013ba61f2f06769ba,1787706,166,big data,663,30,6,$104.99,Expert Level,Azure HDInsight Solutions Training & Certification,2018-12-25T19:41:36Z,3.21194,udemy.com,3 hours
+5ca03db313ba61f2f06769bd,857298,915,big data,4841,87,503,$99.99,All Levels,From 0 to 1: Hive for Processing Big Data,2016-06-06T17:32:06Z,3.99406,udemy.com,15.5 hours
+5ca03db313ba61f2f06769bf,989718,665,big data,1191,64,25,$99.99,Beginner Level,Getting Started with Big Data and the Hadoop Ecosystem,2016-10-29T18:27:14Z,3.22138,udemy.com,11 hours
+5ca03db313ba61f2f06769c1,1016344,462,big data,231,54,10,$49.99,All Levels,Advance Unix and Shell + MySQL DB for Big Data Testing,2016-12-07T22:34:00Z,3.90731,udemy.com,7.5 hours
+5ca03db313ba61f2f06769c3,1877616,214,big data,269,47,19,$199.99,All Levels,"Mastering Apache SQOOP with Hadoop,Hive, MySQL (Mac & Win)",2018-09-29T20:53:19Z,3.79348,udemy.com,3.5 hours
+5ca03db313ba61f2f06769c5,1580786,268,big data,2264,40,132,$184.99,All Levels,"Big Data, Hadoop & Apache Spark: Analytics, Pig & MapReduce",2018-03-07T19:10:52Z,2.03699,udemy.com,4.5 hours
+5ca03db313ba61f2f06769c8,943898,465,big data,3494,59,392,$199.99,Beginner Level,Apache Spark 2.0 + Java : DO Big Data Analytics & ML,2016-09-12T16:34:51Z,4.16147,udemy.com,8 hours
+5ca03db313ba61f2f06769ca,928772,280,big data,483,37,27,$199.99,All Levels,Learn How to Create Hadoop MapReduce Jobs in Python,2016-08-18T17:22:14Z,3.41894,udemy.com,4.5 hours
+5ca03db313ba61f2f06769cc,824050,438,big data,1840,58,258,$199.99,Beginner Level,Apache Spark 2.0 + Python : DO Big Data Analytics & ML,2016-08-28T18:06:34Z,4.01464,udemy.com,7.5 hours
+5ca03db313ba61f2f06769ce,384458,1126,big data,3202,89,858,$199.99,All Levels,Hadoop Developer In Real World,2015-10-23T19:02:33Z,4.25583,udemy.com,19 hours
+5ca03db313ba61f2f06769d0,958084,230,big data,717,25,14,$59.99,Intermediate Level,Learn BigData & Hadoop with Practical,2016-09-19T17:36:30Z,3.52447,udemy.com,4 hours
+5ca03db313ba61f2f06769d2,1171728,238,big data,51,28,2,$89.99,All Levels,Learn Big Data : Step By Step Pig Scripting and Shell Script,2017-05-02T21:48:42Z,3.23965,udemy.com,4 hours
+5ca03db313ba61f2f06769d4,956132,450,big data,1063,59,126,$199.99,Beginner Level,Apache Spark 2.0 + Scala : DO Big Data Analytics & ML,2016-10-16T22:49:10Z,4.14122,udemy.com,7.5 hours
+5ca03db313ba61f2f06769d6,1968882,415,big data,939,30,129,$99.99,All Levels,The Ultimate Apache Spark with Java Course - Hands On!,2018-10-18T15:41:30Z,4.53532,udemy.com,7 hours
+5ca03db313ba61f2f06769da,162610,268,big data,343,19,7,$19.99,All Levels,Apache Hadoop Essential Training,2014-02-12T14:04:59Z,3.55579,udemy.com,4.5 hours
+5ca03db313ba61f2f06769dc,1984720,1302,big data,1045,141,174,$199.99,All Levels,Apache Spark for Java Developers,2018-10-26T20:32:26Z,4.41846,udemy.com,21.5 hours
+5ca03db313ba61f2f06769de,1208478,202,big data,262,21,50,$39.99,Beginner Level,Hadoop and Big Data for Absolute Beginners,2017-05-10T19:00:03Z,4.03555,udemy.com,3.5 hours
+5ca03db313ba61f2f06769e0,1310706,302,big data,99,45,13,$199.99,Intermediate Level,Learning Path: Big Data Visualization,2017-08-08T06:01:37Z,4.222,udemy.com,5 hours
+5ca03db713ba61f2f06769e2,1255318,58,big data,1182,9,199,$49.99,Beginner Level,Fundamentals of Data Analysis for Big Data,2017-07-03T16:07:51Z,3.76562,udemy.com,1 hour
+5ca03db713ba61f2f06769e4,1547582,85,big data,12442,13,913,$19.99,Beginner Level,Want to be a Big Data Scientist?,2018-02-19T21:31:43Z,4.378,udemy.com,1.5 hours
+5ca03db713ba61f2f06769e6,1084638,129,big data,354,34,26,$124.99,Beginner Level,A beginners guide to Data Warehouse  and Big Data,2017-01-25T21:35:58Z,3.74515,udemy.com,2 hours
+5ca03db713ba61f2f06769e8,1482872,496,big data,382,57,17,$34.99,All Levels,"Project Based Training on Big Data HADOOP-MapReduce,PIG,HIVE",2018-01-02T22:10:51Z,3.16838,udemy.com,8.5 hours
+5ca03db713ba61f2f06769ea,231512,463,big data,866,40,32,$39.99,Intermediate Level,Big Data Hadoop : Advanced concepts and Components.,2014-06-06T21:26:47Z,4.08767,udemy.com,7.5 hours
+5ca03db713ba61f2f06769ec,1600456,804,big data,1682,19,19,$19.99,Beginner Level,Bigdata and Hadoop [Scalebyte],2018-05-24T16:07:24Z,4.07279,udemy.com,13.5 hours
+5ca03db713ba61f2f06769ee,1344160,421,big data,158,93,11,$199.99,Beginner Level,Learning Path: Java: Big Data Analysis with Java,2017-09-12T22:54:42Z,3.81428,udemy.com,7 hours
+5ca03db713ba61f2f06769f0,211248,94,big data,23397,8,243,$19.99,Beginner Level,Basic overview of Big Data Hadoop,2014-05-06T05:09:27Z,3.38307,udemy.com,1.5 hours
+5ca03db713ba61f2f06769f2,708630,148,big data,499,59,35,$99.99,Beginner Level,Guide to Big Data Analytics: Origination to Opportunities,2016-01-08T19:00:55Z,3.86788,udemy.com,2.5 hours
+5ca03db713ba61f2f06769f4,1108186,405,big data,3775,48,32,$44.99,All Levels,Big Data Hadoop MapReduce Developer Course from scratch,2017-02-16T19:27:35Z,3.3116,udemy.com,7 hours
+5ca03db713ba61f2f06769f6,722134,261,big data,584,51,14,$19.99,All Levels,Road to Big Data testing(Cover all Prerequisite),2016-01-10T18:54:20Z,3.83715,udemy.com,4.5 hours
+5ca03db713ba61f2f06769f8,1449552,219,big data,12,27,2,$94.99,Beginner Level,Big Data Tools and Techniques,2018-02-15T12:33:42Z,3.44228,udemy.com,3.5 hours
+5ca03db713ba61f2f06769fa,1053706,35,big data,127,6,15,$99.99,Beginner Level,Big Data in Advertising - Explained in Plain English,2017-02-05T16:24:25Z,3.95401,udemy.com,35 mins
+5ca03db713ba61f2f06769fc,799562,60,big data,233,27,52,$99.99,All Levels,Big Data Analytics in Telecommunication,2016-03-29T17:23:38Z,3.66464,udemy.com,1 hour
+5ca03db713ba61f2f06769fe,683358,648,big data,174,88,27,$199.99,All Levels,Big Data Hadoop Developer Course with Handson,2017-08-04T20:10:37Z,3.60845,udemy.com,11 hours
+5ca03db713ba61f2f0676a00,1877102,261,big data,183,43,22,$179.99,All Levels,Apache Spark SQL - Bigdata In-Memory Analytics Master Course,2018-10-23T02:07:04Z,4.39503,udemy.com,4.5 hours
+5ca03db713ba61f2f0676a02,1976100,1736,big data,1716,27,8,$199.99,All Levels,Big Data and Hadoop : Interactive Intense Course,2018-10-20T22:45:02Z,3.40787,udemy.com,29 hours
+5ca03db713ba61f2f0676a04,1017864,202,big data,1110,46,95,$199.99,Beginner Level,"Build Big Data Pipelines w/ Hadoop, Flume, Pig, MongoDB",2017-01-17T21:45:23Z,3.56401,udemy.com,3.5 hours
+5ca03db713ba61f2f0676a06,886032,325,big data,3228,35,83,$99.99,All Levels,Pig For Wrangling Big Data,2016-07-04T22:11:39Z,3.39874,udemy.com,5.5 hours
+5ca03db713ba61f2f0676a08,1322058,137,big data,234,18,30,$194.99,All Levels,Big Data with Apache Spark and AWS,2017-08-16T05:36:31Z,4.37785,udemy.com,2.5 hours
+5ca03dbb13ba61f2f0676a0b,1511346,265,big data,228,19,7,$29.99,All Levels,Learn by Examples-Apache Pig from Scratch-Practical Approach,2018-01-19T12:21:49Z,3.66782,udemy.com,4.5 hours
+5ca03dbb13ba61f2f0676a0d,1262248,37,big data,12,8,3,$19.99,Beginner Level,Introduction to Big Data,2017-06-21T16:56:28Z,2.23494,udemy.com,37 mins
+5ca03dbb13ba61f2f0676a10,2011238,722,big data,12290,67,71,$19.99,All Levels,"5 Courses - Master AWS, Analytics, Machine Learning, Bigdata",2018-11-09T00:29:36Z,3.47108,udemy.com,12 hours
+5ca03dbb13ba61f2f0676a15,673398,838,big data,203,60,27,$49.99,All Levels,Learn how to Analyse Hadoop Data using Apache Pig ,2015-12-03T17:29:06Z,3.35509,udemy.com,14 hours
+5ca03dbb13ba61f2f0676a17,1382818,236,big data,51,39,2,$64.99,All Levels,"Redis, Oozie and HBase for Big Data",2017-10-25T16:14:07Z,2.91122,udemy.com,4 hours
+5ca03dbb13ba61f2f0676a1b,1382816,322,big data,68,35,2,$74.99,All Levels,"Hive, Beeline and MySQL with Unix for Big Data",2017-10-24T22:54:40Z,3.6087,udemy.com,5.5 hours
+5ca03dbb13ba61f2f0676a1e,1100038,128,big data,41,23,7,$54.99,All Levels,Apache Pig: Sentiment analysis Using Apache Pig,2017-03-10T17:20:01Z,3.07017,udemy.com,2 hours
+5ca03dbb13ba61f2f0676a22,1466066,415,big data,193,53,15,$69.99,All Levels,Learn Complete Testing (Manual+SQL+Unix+Rally+JIRA+AGILE),2017-12-12T17:46:45Z,4.35004,udemy.com,7 hours
+5ca03dbb13ba61f2f0676a24,1619646,200,big data,16,41,1,$199.99,All Levels,Hadoop & MapReduce Fundamentals,2018-04-02T23:01:19Z,3.5,udemy.com,3.5 hours
+5ca03dbb13ba61f2f0676a27,771374,252,big data,163,33,22,$49.99,All Levels,Learn How to Analyse Big Data in Hadoop with R Analytic Tool,2016-04-05T15:11:03Z,2.85216,udemy.com,4 hours
+5ca03dbf13ba61f2f0676a2a,2047289,2278,big data,9,129,1,$199.99,All Levels,Taming Big Data using Spark & Scala,2019-01-13T02:04:43Z,5.0,udemy.com,38 hours
+5ca03dbf13ba61f2f0676a2d,1166654,335,big data,324,55,20,$199.99,All Levels,Real-World Data Science with Spark 2,2017-04-06T03:57:37Z,3.55741,udemy.com,5.5 hours
+5ca03dbf13ba61f2f0676a2f,2123992,113,big data,14,18,4,$124.99,Beginner Level,Hands-On PySpark for Big Data Analysis,2019-01-16T02:23:57Z,4.64616,udemy.com,2 hours
+5ca03dbf13ba61f2f0676a31,928774,478,big data,184,77,18,$199.99,All Levels,Hadoop Developer Course with MapReduce and Java,2017-02-21T00:18:33Z,3.00746,udemy.com,8 hours
+5ca03dbf13ba61f2f0676a33,1631420,63,big data,31,14,7,$49.99,All Levels,The Complete Masterclass To Big Data Analysis in Excel,2018-04-13T15:12:37Z,4.01925,udemy.com,1 hour
+5ca03dbf13ba61f2f0676a35,1465570,91,big data,7,15,0,$124.99,Intermediate Level,Building a Big Data Analytics Stack,2018-01-02T02:04:47Z,0.0,udemy.com,1.5 hours
+5ca03dbf13ba61f2f0676a37,1818852,0,big data,0,0,0,$24.99,Beginner Level,Big Data & Hadoop Interview Questions,2018-07-25T11:35:02Z,0.0,udemy.com,30 questions
+5ca03dbf13ba61f2f0676a3a,1044954,33,big data,17,7,2,$19.99,Beginner Level,"Bigdata Analytics with Hive,Spark,Sqoop",2017-03-09T16:09:53Z,1.0,udemy.com,33 mins
+5ca03dbf13ba61f2f0676a3c,1572768,0,big data,5,0,0,$29.99,All Levels,Big Data and Hadoop Developer- Practice Test,2018-02-27T13:18:41Z,0.0,udemy.com,101 questions
+5ca03dbf13ba61f2f0676a3e,1841170,182,big data,7,27,0,$124.99,Intermediate Level,Hands-On Beginner's Guide on Big Data and Hadoop 3,2018-08-10T16:49:49Z,0.0,udemy.com,3 hours
+5ca03dbf13ba61f2f0676a40,1590708,369,big data,200,43,46,$19.99,Intermediate Level,Apache Kylin : Implementing OLAP on the Hadoop platform,2018-05-23T16:05:03Z,4.12057,udemy.com,6 hours
+5ca03dbf13ba61f2f0676a42,948584,256,big data,487,35,40,$34.99,Beginner Level,Big Data & Business Intelligence,2016-09-06T22:21:37Z,3.70661,udemy.com,4.5 hours
+5ca03dbf13ba61f2f0676a44,2235738,514,big data,142,122,16,$49.99,Intermediate Level,AWS Certified Big Data - Specialty 2019 (Exam Prep Course),2019-03-06T02:40:20Z,4.48141,udemy.com,8.5 hours
+5ca03dbf13ba61f2f0676a46,1613846,192,big data,33,40,0,$124.99,Intermediate Level,Solving 10 Hadoop'able Problems,2018-04-03T17:17:42Z,0.0,udemy.com,3 hours
+5ca03dbf13ba61f2f0676a48,2014418,277,big data,5,41,0,$124.99,Intermediate Level,Hands-On Big Data Processing with Hadoop 3,2018-11-09T21:31:46Z,0.0,udemy.com,4.5 hours
+5ca03dbf13ba61f2f0676a4a,2086172,381,big data,2,60,0,$199.99,Beginner Level,Hands on Hadoop 3 for Big Data,2018-12-17T00:46:13Z,0.0,udemy.com,6.5 hours
+5ca03dbf13ba61f2f0676a4c,1075642,455,big data,29351,122,6958,$99.99,All Levels,Apache Kafka Series - Learn Apache Kafka for Beginners v2,2017-03-07T04:57:18Z,4.64285,udemy.com,7.5 hours
+5ca03dbf13ba61f2f0676a4e,1539778,109,big data,10,7,0,$19.99,Beginner Level,"Log Data Processing And Analysis in Mapreduce, Pig And Hive",2018-02-07T02:33:51Z,0.0,udemy.com,2 hours
+5ca03dc313ba61f2f0676a52,1216830,82,big data,158,11,33,$99.99,All Levels,Big Data Analytics in IOT domain,2017-09-20T21:56:06Z,3.31457,udemy.com,1.5 hours
+5ca03dc313ba61f2f0676a57,1894074,105,big data,3,19,0,$124.99,Expert Level,Hands-On Big Data Analysis with Hadoop 3,2018-09-11T16:35:27Z,0.0,udemy.com,2 hours
+5ca03dc313ba61f2f0676a59,1981878,79,big data,55,15,10,$179.99,All Levels,Apache Zeppelin - Big Data Interactive Visualization Master,2018-11-06T15:57:45Z,3.90422,udemy.com,1.5 hours
+5ca03dc313ba61f2f0676a5b,1650734,106,big data,612,27,61,$109.99,All Levels,Big Data in the AWS (Amazon Web Services) Cloud,2018-04-23T18:25:52Z,3.921,udemy.com,2 hours
+5ca03dc313ba61f2f0676a5d,1980434,265,big data,588,47,18,$19.99,All Levels,Machine Learning and Big Data Analytics with AWS,2018-11-16T20:21:44Z,4.35836,udemy.com,4.5 hours
+5ca03dc313ba61f2f0676a5f,1993754,2459,big data,109,57,1,$89.99,Beginner Level,Big Data Hadoop,2019-03-21T01:20:20Z,5.0,udemy.com,41 hours
+5ca03dc313ba61f2f0676a62,474036,237,big data,628,38,32,$149.99,All Levels,"Big data,Cassandra,AWS,Mysql,MariaDB,Linux for Beginners",2016-07-10T17:58:52Z,3.34767,udemy.com,4 hours
+5ca03dc313ba61f2f0676a64,766052,1007,big data,1035,115,150,$99.99,All Levels,Talend For Big Data Integration Course : Beginner to Expert,2016-10-24T15:26:45Z,3.60145,udemy.com,17 hours
+5ca03dc313ba61f2f0676a66,1558330,389,big data,15,18,1,$19.99,Beginner Level,"Polling Data Analysis in MapReduce,PIG and HIVE - BigData",2018-02-21T13:34:15Z,3.0,udemy.com,6.5 hours
+5ca03dc313ba61f2f0676a68,273518,307,big data,1406,55,203,$19.99,All Levels,Learn Apache Solr with Big Data and Cloud Computing,2014-09-09T12:15:31Z,3.44266,udemy.com,5 hours
+5ca03dc313ba61f2f0676a6a,160666,84,big data,481,26,8,$64.99,All Levels,Big Data in Excel  -  Excel 2010/2013 Power Pivot,2014-03-07T23:34:29Z,3.49403,udemy.com,1.5 hours
+5ca03dc313ba61f2f0676a6c,135794,940,big data,2569,171,227,$19.99,All Levels,Analytics For All,2013-12-23T03:38:03Z,4.40312,udemy.com,15.5 hours
+5ca03dc313ba61f2f0676a6e,2103514,0,big data,53,0,11,$39.99,All Levels,BDS-C00 AWS Big Data Specialty Exam by AltDataMine,2018-12-28T19:03:01Z,3.42356,udemy.com,161 questions
+5ca03dc313ba61f2f0676a70,1310842,282,big data,34,45,1,$199.99,Beginner Level,Learning Path: Big Data Analytics and Streaming with Spark 2,2017-08-11T18:55:46Z,3.0,udemy.com,4.5 hours
+5ca03dc613ba61f2f0676a73,2225308,39,big data,66,6,12,$19.99,All Levels,Big Data: Parallel Processing by SimpleIT,2019-03-06T00:50:48Z,5.0,udemy.com,39 mins
+5ca03dc613ba61f2f0676a75,1588128,161,big data,18,21,3,$199.99,All Levels,Working with Big Data in Python,2018-03-27T18:24:43Z,3.76632,udemy.com,2.5 hours
+5ca03dc613ba61f2f0676a77,1554340,233,big data,2129,42,93,$199.99,Beginner Level,Apache Spark With Examples for Big Data Analytics,2018-03-02T20:03:06Z,3.06396,udemy.com,4 hours
+5ca03dc613ba61f2f0676a79,1213254,149,big data,130,23,9,$44.99,Intermediate Level,"New in Big Data: Hive, HiveMall, AWS Lambda, Solr, Kibana",2017-05-16T16:42:27Z,3.69749,udemy.com,2.5 hours
+5ca03dc613ba61f2f0676a7b,1913398,411,big data,4923,35,37,$19.99,Intermediate Level,Big Data on Amazon web services (AWS) Cloud - 2018,2018-10-02T23:25:08Z,3.0418,udemy.com,7 hours
+5ca03dc613ba61f2f0676a7d,1502388,355,big data,309,29,41,$49.99,All Levels,Big Data Analytics with GIS,2018-02-02T17:23:10Z,4.06987,udemy.com,6 hours
+5ca03dc613ba61f2f0676a82,2235142,234,big data,2424,39,2,$19.99,All Levels,Complete AWS Big Data and Analytics Certification,2019-03-11T15:25:24Z,5.0,udemy.com,4 hours
+5ca03dc613ba61f2f0676a84,692098,425,big data,5800,122,964,$199.99,All Levels,Data Warehouse Concepts: Basic to Advanced concepts,2016-04-25T18:04:39Z,4.18149,udemy.com,7 hours
+5ca03dc613ba61f2f0676a86,1824762,597,big data,80,122,3,$199.99,All Levels,Apache Spark 2.0 with Scala: A Big Data Framework,2018-08-02T23:01:22Z,3.14832,udemy.com,10 hours
+5ca03dc613ba61f2f0676a88,1769778,300,big data,35,50,3,$179.99,All Levels,"Big data, Cloud, Data Science, IoT, ML - iSMAC - All in One",2019-01-18T21:15:27Z,4.59158,udemy.com,5 hours
+5ca03dc613ba61f2f0676a8a,1936792,100,big data,65,16,7,$199.99,All Levels,Machine Learning and Earth Observation Big Data,2018-10-20T20:47:31Z,3.90136,udemy.com,1.5 hours
+5ca03dc613ba61f2f0676a8c,1746242,273,big data,49,35,2,$199.99,All Levels,Ingestion of Big Data Using Apache Sqoop & Apache Flume,2018-06-13T22:26:04Z,2.54082,udemy.com,4.5 hours
+5ca03dc613ba61f2f0676a8e,1270948,88,big data,605,41,59,$49.99,Intermediate Level,Managing Big Data on Google's Cloud Platform,2017-07-16T16:58:34Z,4.6086,udemy.com,1.5 hours
+5ca03dc613ba61f2f0676a90,581278,122,big data,294,24,15,$189.99,All Levels,SAP Big Data Predictive Analytics : An Overview,2016-12-11T23:37:43Z,3.85835,udemy.com,2 hours
+5ca03dc613ba61f2f0676a92,670114,38,big data,584,32,64,$19.99,Beginner Level,Hadoop on Azure. An Introduction to Big Data Using HDInsight,2015-12-07T18:56:04Z,3.68055,udemy.com,38 mins
+5ca03dc613ba61f2f0676a95,1989774,355,big data,229,124,5,$99.99,All Levels,Hands on big data streaming with Apache Storm,2018-11-14T21:27:54Z,3.66332,udemy.com,6 hours
+5ca03dc913ba61f2f0676a9b,2126522,1378,big data,0,78,0,$149.99,All Levels,Taming Big Data using Spark & Python,2019-03-06T00:49:46Z,0.0,udemy.com,23 hours
+5ca03dc913ba61f2f0676a9e,1659290,0,big data,10,0,4,$199.99,All Levels,AWS bigdata certification Practice exam,2018-04-23T13:41:16Z,2.16207,udemy.com,60 questions
+5ca03dc913ba61f2f0676aa0,1618494,0,big data,417,0,75,$29.99,Intermediate Level,AWS Certified Big Data Specialty 2019 Practice Exam Test,2018-03-27T16:09:51Z,3.13523,udemy.com,240 questions
+5ca03dc913ba61f2f0676aa2,1598678,440,big data,17,90,1,$199.99,Beginner Level,LEARNING PATH: Big Data Analytics and Processing with Spark,2018-03-21T00:41:40Z,1.0,udemy.com,7.5 hours
+5ca03dc913ba61f2f0676aa4,1753890,277,big data,15,43,1,$199.99,Beginner Level,Big Data and NLP with Python: 2-in-1,2018-06-20T17:28:03Z,3.0,udemy.com,4.5 hours
+5ca03dc913ba61f2f0676aa7,1848858,0,big data,2641,0,4,$169.99,All Levels,AWS Big Data Specialty Practice Test,2018-11-22T05:07:36Z,2.76516,udemy.com,200 questions
+5ca03dc913ba61f2f0676aa9,1767544,125,big data,20,22,0,$124.99,Expert Level,Big Data Analytics Projects with Apache Spark,2018-06-27T02:56:25Z,0.0,udemy.com,2 hours
+5ca03dc913ba61f2f0676aab,2136818,82,big data,1,12,0,$124.99,Intermediate Level,Big Data Analytics Using Apache Spark,2019-01-16T23:25:20Z,0.0,udemy.com,1.5 hours
+5ca03dc913ba61f2f0676aad,1828284,0,big data,2790,0,10,$174.99,All Levels,AWS Big Data Specialty Certification Practice Exam,2018-08-03T09:55:10Z,1.92918,udemy.com,240 questions
+5ca03dc913ba61f2f0676aaf,1966910,236,big data,2,90,0,$19.99,All Levels,Big Data Zero to Hero -Hadoop Ultimate Complete Master Guide,2018-12-15T14:07:14Z,0.0,udemy.com,4 hours
+5ca03dc913ba61f2f0676ab1,1940524,0,big data,2957,0,3,$149.99,All Levels,AWS Big Data Specialty Practice Test,2018-10-25T10:37:47Z,2.44808,udemy.com,217 questions
+5ca03dc913ba61f2f0676ab3,1837186,342,big data,797,50,3,$29.99,All Levels,Big Data analytics with PySpark (Apache Spark and Python),2018-08-07T01:26:30Z,2.62919,udemy.com,5.5 hours
+5ca03dc913ba61f2f0676ab5,1341754,87,big data,7,11,0,$19.99,Beginner Level,RealTime Bigdata Issues and solutions,2017-09-06T04:33:58Z,0.0,udemy.com,1.5 hours
+5ca03dc913ba61f2f0676ab7,1314786,150,big data,150,39,10,$124.99,Intermediate Level,Java Data Science Solutions - Big Data and Visualization,2017-08-10T20:19:50Z,4.02744,udemy.com,2.5 hours
+5ca03dc913ba61f2f0676ab9,2070953,427,big data,8,90,0,$199.99,Beginner Level,Apache Spark for Big Data Analytics and Data Processing,2018-12-06T17:26:03Z,0.0,udemy.com,7 hours
+5ca03dce13ba61f2f0676abc,1562442,38,big data,10,6,1,$19.99,Beginner Level,AWS : Big Data Processing : Elastic Map Reduce,2018-02-22T13:54:09Z,1.0,udemy.com,38 mins
+5ca03dce13ba61f2f0676abe,1836656,156,big data,18,41,3,$124.99,Beginner Level,Learning Apache Storm for Big Data Processing,2018-08-09T18:36:50Z,3.65121,udemy.com,2.5 hours
+5ca03dce13ba61f2f0676ac0,958728,85,big data,22,10,6,$19.99,Intermediate Level,"Mongodb: Learn from scratch, Java connect, Usage in BigData",2016-09-15T18:02:45Z,3.25167,udemy.com,1.5 hours
+5ca03dce13ba61f2f0676ac2,1544944,0,big data,14,0,2,$199.99,All Levels,AWS bigdata certification Practice tests,2018-04-14T22:58:21Z,2.5,udemy.com,60 questions
+5ca03dce13ba61f2f0676ac4,1302030,0,big data,613,0,10,$34.99,All Levels,Analyzing Big Data with Microsoft R Practice Tests (70-773),2018-06-28T20:16:50Z,3.51631,udemy.com,40 questions
+5ca03dce13ba61f2f0676ac6,1859730,470,big data,3580,68,30,$19.99,Beginner Level,Build a Scalable Big Data IOT Web Application From Scratch,2018-10-09T23:28:58Z,4.22176,udemy.com,8 hours
+5ca03dce13ba61f2f0676ac8,590728,45,big data,77,20,14,$24.99,Beginner Level,Learn Data Visualization with Tableau 9.1,2015-09-23T17:31:47Z,4.25122,udemy.com,1 hour
+5ca03dce13ba61f2f0676aca,1859420,0,big data,3121,0,4,$164.99,All Levels,AWS Big Data Specialty Practice Test,2018-08-29T06:40:23Z,2.37117,udemy.com,231 questions
+5ca03dce13ba61f2f0676acc,1847396,0,big data,1997,0,5,$174.99,All Levels,AWS Big Data Specialty Practice Test,2018-08-14T12:26:47Z,2.08673,udemy.com,220 questions
+5ca03dce13ba61f2f0676ace,1469132,121,big data,44,29,6,$149.99,All Levels,The Complete Apache Accumulo Developer Course,2017-12-19T00:32:09Z,3.53914,udemy.com,2 hours
+5ca03dce13ba61f2f0676ad0,2079944,325,big data,40,50,0,$24.99,Intermediate Level,Architecting Big Data solutions with AWS,2019-03-06T23:26:11Z,0.0,udemy.com,5.5 hours
+5ca03dce13ba61f2f0676ad2,2181146,210,big data,2,27,0,$199.99,Intermediate Level,Big Data Processing with Apache Spark,2019-01-31T01:23:19Z,0.0,udemy.com,3.5 hours
+5ca03dce13ba61f2f0676ad4,2214006,178,big data,1,20,0,$19.99,All Levels,Setup BigData on Windows,2019-02-18T00:49:12Z,0.0,udemy.com,3 hours
+5ca03dce13ba61f2f0676ad6,1437554,300,big data,3255,41,224,$199.99,Beginner Level,R Tidyverse Reporting and Analytics for Excel Users,2017-11-27T22:19:49Z,3.97231,udemy.com,5 hours
+5ca03dce13ba61f2f0676ad8,1834116,0,big data,2164,0,3,$159.99,All Levels,AWS Big Data Specialty Practice Test,2018-08-08T11:05:58Z,1.9222,udemy.com,238 questions
+5ca03dce13ba61f2f0676ada,1898242,0,big data,2564,0,5,$154.99,All Levels,BDS-C00 AWS Certified Big Data Specialty Practice Test,2018-10-15T08:58:00Z,2.75882,udemy.com,212 questions
+5ca03dce13ba61f2f0676adc,1529294,66,big data,20,5,2,$19.99,Beginner Level,Airport System Analysis using Pig and hive (BigData),2018-01-31T19:52:38Z,3.83784,udemy.com,1 hour
+5ca03dce13ba61f2f0676ade,1872286,0,big data,1286,0,2,$169.99,All Levels,AWS Big Data Specialty Practice Test,2018-08-27T09:38:44Z,2.41129,udemy.com,240 questions
+5ca03dce13ba61f2f0676ae0,1418348,284,big data,34,53,2,$199.99,Beginner Level,Learning Path: Spark: Data Science with Apache Spark,2017-11-10T18:45:18Z,3.5,udemy.com,4.5 hours
+5ca03dce13ba61f2f0676ae2,2239198,720,big data,7,84,0,$199.99,Beginner Level,Tuning Apache Spark: Powerful Big Data Processing Recipes,2019-02-27T00:19:48Z,0.0,udemy.com,12 hours
+5ca03dd113ba61f2f0676ae5,1025106,34,big data,42,5,4,$19.99,Beginner Level,Bigdata Governance: Using SAP HANA and Apache Spark,2017-03-01T05:12:10Z,2.49473,udemy.com,34 mins
+5ca03dd113ba61f2f0676ae8,2163492,0,big data,5,0,0,$19.99,All Levels,AWS Certified Big Data - Specialty,2019-01-22T16:59:50Z,0.0,udemy.com,65 questions
+5ca03dd113ba61f2f0676aea,1065142,73,big data,77,13,16,$29.99,Beginner Level,Apache Nifi  for Bigdata: New DataIngestion Framework,2017-01-11T00:30:36Z,1.90958,udemy.com,1 hour
+5ca03dd113ba61f2f0676aed,2068929,0,big data,621,0,1,$149.99,All Levels,AWS Big Data Specialty Practice Test,2018-12-18T11:11:43Z,1.0,udemy.com,199 questions
+5ca03dd113ba61f2f0676aef,1543928,31,big data,2,10,0,$19.99,Beginner Level,Bigdata Scala Hive Hbase Shell script,2018-02-12T18:46:52Z,0.0,udemy.com,31 mins
+5ca03dd113ba61f2f0676af1,1299656,1672,big data,17379,226,2807,$99.99,All Levels,GCP: Complete Google Data Engineer and Cloud Architect Guide,2017-07-26T20:18:01Z,4.1676,udemy.com,28 hours
+5ca03dd113ba61f2f0676af3,1562462,37,big data,4,6,0,$19.99,Beginner Level,AWS : Big Data Processing : AWS Lambda,2018-02-22T13:58:01Z,0.0,udemy.com,37 mins
+5ca03dd113ba61f2f0676af5,1245870,682,big data,15206,44,2711,$154.99,All Levels,Complete Elasticsearch Masterclass with Logstash and Kibana,2017-06-14T05:47:54Z,4.42136,udemy.com,11.5 hours
+5ca03dd113ba61f2f0676af8,2232718,0,big data,12,0,1,$19.99,Intermediate Level,AWS Certified Big Data - Specialty certification practice,2019-02-21T13:11:04Z,1.0,udemy.com,60 questions
+5ca03dd113ba61f2f0676afa,1478894,485,big data,10387,64,1755,$149.99,All Levels,Elasticsearch 6 and Elastic Stack - In Depth and Hands On!,2017-12-23T00:01:14Z,4.45997,udemy.com,8 hours
+5ca03dd113ba61f2f0676afd,1559558,32,big data,3,8,0,$19.99,Beginner Level,AWS Big Data Storage with RDS,2018-02-22T13:50:32Z,0.0,udemy.com,32 mins
+5ca03dd113ba61f2f0676aff,893878,199,big data,2920,58,295,$99.99,All Levels,"2018 Python Regular Expressions, Projects and Solutions",2016-07-11T18:33:44Z,4.38443,udemy.com,3.5 hours
+5ca03dd113ba61f2f0676b01,2249470,57,big data,3,11,0,$19.99,Intermediate Level,Talend Open Studio ~ Big Data / GCP BigQuery & Data Studio,2019-03-14T23:35:48Z,0.0,udemy.com,1 hour
+5ca03dd113ba61f2f0676b03,1897948,191,big data,169,20,24,$124.99,Intermediate Level,Jupyter Notebook for Data Science,2018-09-06T17:43:59Z,4.18478,udemy.com,3 hours
+5ca03dd113ba61f2f0676b05,1101194,258,big data,12584,64,198,$194.99,All Levels,Scala Programming For Beginners Complete Guide*,2017-03-06T18:10:01Z,3.86801,udemy.com,4.5 hours
+5ca03dd113ba61f2f0676b07,902748,89,big data,1918,16,46,$44.99,All Levels,Introduction To Data Analytics Using Microsoft Power BI,2016-07-13T17:36:30Z,4.22281,udemy.com,1.5 hours
+5ca03dd413ba61f2f0676b09,470672,206,big data,935,40,68,$74.99,Beginner Level,Learning MongoDB,2015-04-08T19:42:52Z,4.5143,udemy.com,3.5 hours
+5ca03dd413ba61f2f0676b0b,1951282,206,big data,252,25,6,$79.99,All Levels,"SQL For Audit, Revenue Assurance and Data Science",2018-10-11T19:17:56Z,4.64676,udemy.com,3.5 hours
+5ca03dd413ba61f2f0676b0d,2019516,75,big data,53,10,9,$99.99,All Levels,Introduction to Geospatial Data Analysis in Python,2018-11-16T20:07:35Z,4.15799,udemy.com,1.5 hours
+5ca03dd413ba61f2f0676b10,1035518,387,big data,7720,68,1053,$199.99,All Levels,Multithreading and Parallel Computing in Java,2016-12-27T22:18:11Z,4.18218,udemy.com,6.5 hours
+5ca03dd413ba61f2f0676b12,621096,694,big data,427,76,75,$49.99,Intermediate Level,Learn How Python Works with NoSql Database MongoDB: PyMongo,2015-10-09T18:10:27Z,2.69254,udemy.com,11.5 hours
+5ca03dd413ba61f2f0676b14,1021446,359,big data,462,148,51,$199.99,All Levels,"Complete ElasticSearch with LogStash, Hive, Pig, MR & Kibana",2017-03-20T17:16:58Z,3.81188,udemy.com,6 hours
+5ca03dd413ba61f2f0676b16,1562446,32,big data,24,6,3,$19.99,Beginner Level,AWS Big Data Storage with AWS Redshift,2018-02-22T14:02:48Z,1.0,udemy.com,32 mins
+5ca03dd413ba61f2f0676b18,1250096,107,big data,1279,17,216,$199.99,Intermediate Level,Digital Advertising & Marketing 201: Today's Trends & Topics,2017-07-13T17:42:54Z,4.51871,udemy.com,2 hours
+5ca03dd413ba61f2f0676b1a,1633696,30,big data,11,5,0,$19.99,Beginner Level,AWS Big Data Storage with Dynamo DB,2018-06-28T21:06:29Z,0.0,udemy.com,30 mins
+5ca03dd413ba61f2f0676b1c,531366,251,big data,500,42,48,$29.99,Expert Level,Excel 2010 PowerPivot & Advanced Business Intelligence Tools,2015-07-02T21:59:20Z,4.65971,udemy.com,4 hours
+5ca03dd413ba61f2f0676b1e,2279192,207,big data,0,34,0,$199.99,Beginner Level,Real-World Big Data Analytics with Apache Spark,2019-03-20T23:32:51Z,0.0,udemy.com,3.5 hours
+5ca03dd413ba61f2f0676b20,2297148,0,big data,116,0,0,$154.99,All Levels,AWS BDS-C00 Certified Big Data Speciality Practice Test Exam,2019-03-29T11:01:38Z,0.0,udemy.com,213 questions
+5ca03dd413ba61f2f0676b22,692176,139,big data,5630,29,285,$29.99,Beginner Level,Apply finance concepts for smart project management,2016-02-23T21:05:46Z,4.16349,udemy.com,2.5 hours
+5ca03dd413ba61f2f0676b24,1681340,182,big data,80,34,15,$124.99,Intermediate Level,Learning Elasticsearch 6,2018-05-16T15:17:27Z,3.89876,udemy.com,3 hours
+5ca03dd413ba61f2f0676b26,668996,226,big data,1664,40,262,$29.99,Expert Level,"Excel 2016 PowerPivot, PowerQuery, PowerView & BI",2015-11-14T05:08:51Z,4.21548,udemy.com,4 hours
+5ca03dd413ba61f2f0676b28,1961938,75,big data,35,24,1,$49.99,Intermediate Level,Microservices introduction for Data Science,2018-10-21T22:35:36Z,3.0,udemy.com,1.5 hours
+5ca03dd413ba61f2f0676b2a,1818348,357,big data,373,66,71,$199.99,All Levels,The Google Earth Engine Mega Course: GIS and Remote Sensing,2018-08-03T02:07:05Z,4.25108,udemy.com,6 hours
+5ca03dd413ba61f2f0676b2c,97536,415,big data,5,89,0,$49.99,All Levels,Microsoft Access 2013,2013-10-04T18:42:28Z,0.0,udemy.com,7 hours
+5ca03dd413ba61f2f0676b2e,531490,289,big data,1592,49,145,$29.99,Expert Level,Excel 2013 PowerPivot & Advanced Business Intelligence Tools,2015-07-02T22:25:13Z,3.70944,udemy.com,5 hours
+5ca03dd813ba61f2f0676b33,1729246,235,big data,0,48,0,$199.99,All Levels,Apache Big Data Analytics 2019EDITION,2019-03-20T23:19:59Z,0.0,udemy.com,4 hours
+5ca03dd813ba61f2f0676b35,2239210,54,big data,0,5,0,$19.99,Intermediate Level,eCommerce Analytics - Big Data and Machine Learning,2019-03-28T16:31:32Z,0.0,udemy.com,1 hour
+5ca03dd813ba61f2f0676b37,848132,48,big data,110,7,13,$79.99,Intermediate Level,Splunk 6 Search & Reporting Bootcamp,2016-05-16T22:58:21Z,2.49105,udemy.com,1 hour
+5ca03dd813ba61f2f0676b39,633180,222,big data,1943,28,35,$29.99,All Levels,"XML Tutorial: Create, Validate And Transform XML Documents",2016-01-25T18:07:14Z,2.20664,udemy.com,3.5 hours
+5ca03dd813ba61f2f0676b3b,2107420,186,big data,6,35,1,$49.99,Beginner Level,FinTech - Prepare for the revolution in Finance,2019-03-23T20:42:12Z,5.0,udemy.com,3 hours
+5ca03dd813ba61f2f0676b3e,873604,278,big data,24457,47,1020,Free,All Levels,Big data Internship Program - Foundation,2016-09-02T17:09:13Z,4.23329,udemy.com,4.5 hours
+5ca03dd813ba61f2f0676b40,225796,43,big data,105461,7,7809,Free,Beginner Level,Big Data and Hadoop Essentials,2014-05-26T05:00:09Z,4.09847,udemy.com,43 mins
+5ca03dd813ba61f2f0676b42,503980,200,big data,117029,15,11488,Free,Beginner Level,Hadoop Starter Kit,2015-05-28T19:27:56Z,4.3174,udemy.com,3.5 hours
+5ca03dd813ba61f2f0676b44,1921122,40,big data,5780,12,104,Free,All Levels,Big Data Course,2018-12-06T16:13:05Z,3.65816,udemy.com,40 mins
+5ca03dd813ba61f2f0676b46,919232,379,big data,17786,51,260,Free,Beginner Level,Setup Big Data Development Environment,2016-08-09T16:21:31Z,4.08024,udemy.com,6.5 hours
+5ca03dd813ba61f2f0676b48,1941602,86,big data,2379,34,10,Free,Beginner Level,Hadoop Spark Hive Big Data Admin Class Bootcamp Course NYC,2019-02-14T23:15:39Z,3.93223,udemy.com,1.5 hours
+5ca03dd813ba61f2f0676b4a,1978448,68,big data,4132,23,27,Free,All Levels,Apache SQOOP for Big Data Hadoop Beginners,2018-10-25T02:26:40Z,3.4532,udemy.com,1 hour
+5ca03dd813ba61f2f0676b4c,1691928,72,big data,10095,14,232,Free,All Levels,Big data and Hadoop framework,2018-05-16T17:32:37Z,3.75338,udemy.com,1 hour
+5ca03dd813ba61f2f0676b4e,1670796,153,big data,7194,31,124,Free,Beginner Level,Hadoop Basic Course for Beginners to Professionals,2018-09-22T22:29:09Z,3.97088,udemy.com,2.5 hours
+5ca03dd813ba61f2f0676b50,1322102,32,big data,7282,7,91,Free,Beginner Level,New in Big Data: Apache HiveMall - Machine Learning with SQL,2017-08-16T02:52:02Z,3.58388,udemy.com,32 mins
+5ca03dd813ba61f2f0676b52,2018646,45,big data,2279,9,38,Free,Beginner Level,Introduction to Azure HDInsight,2018-11-22T00:49:18Z,3.52145,udemy.com,1 hour
+5ca03dd813ba61f2f0676b54,2120416,75,big data,4336,13,23,Free,Beginner Level,Career & Jobs in Big Data Science Zero 2 Hero A-Z New York,2019-01-06T02:13:05Z,3.87063,udemy.com,1.5 hours
+5ca03dda13ba61f2f0676b56,1381906,327,big data,8993,62,38,Free,All Levels,Mobile ML and Data Science with nitroproc,2017-10-10T05:18:25Z,3.87019,udemy.com,5.5 hours
+5ca03dda13ba61f2f0676b58,1884782,31,big data,3466,9,147,Free,All Levels,Fundamentals Data Analysis & Decision Making Models - Theory,2018-10-29T02:18:58Z,3.69687,udemy.com,31 mins
+5ca03dda13ba61f2f0676b5a,2086694,141,big data,7460,16,48,Free,All Levels,Master Python language - learn easily with practice sessions,2018-12-17T02:25:07Z,3.71014,udemy.com,2.5 hours
+5ca03dda13ba61f2f0676b5d,406778,490,big data,1098,47,39,$94.99,All Levels,Hadoop Made Very Easy,2015-02-02T17:08:28Z,4.04326,udemy.com,8 hours
+5ca03dda13ba61f2f0676b5f,1286120,415,big data,4357,76,810,$99.99,All Levels,Hive to ADVANCE Hive (Real time usage) :Hadoop querying tool,2017-07-27T00:19:03Z,4.37704,udemy.com,7 hours
+5ca03dda13ba61f2f0676b61,692738,90,big data,162,19,18,$74.99,Beginner Level,Learning Hadoop 2,2015-12-09T17:37:33Z,4.06869,udemy.com,1.5 hours
+5ca03dda13ba61f2f0676b63,1231708,137,big data,0,18,0,$124.99,Beginner Level,Getting Started with Hadoop 2.x,2017-07-05T16:16:10Z,0.0,udemy.com,2.5 hours
+5ca03dda13ba61f2f0676b65,1001410,184,big data,2484,39,399,$19.99,All Levels,Introduction to Data Science,2016-11-07T21:20:06Z,4.2348,udemy.com,3 hours
+5ca03dda13ba61f2f0676b67,1140660,597,big data,14287,148,1763,$199.99,Intermediate Level,Zero to Deep Learning™ with Python and Keras,2017-05-11T17:37:03Z,4.30923,udemy.com,10 hours
+5ca03dda13ba61f2f0676b69,1957444,278,big data,77,75,19,$19.99,All Levels,Learn Business Data Analysis with SQL and Tableau,2018-10-12T22:42:54Z,4.06542,udemy.com,4.5 hours
+5ca03dda13ba61f2f0676b6b,2098356,302,big data,19,52,6,$19.99,All Levels,Learn Regression Analysis for Business,2018-12-24T02:35:41Z,5.0,udemy.com,5 hours
+5ca03dda13ba61f2f0676b6d,2218844,79,big data,4269,13,15,$39.99,Intermediate Level,Random Forest Algorithm in Machine Learning,2019-02-15T21:58:05Z,3.44094,udemy.com,1.5 hours
+5ca03dda13ba61f2f0676b6f,2001416,62,big data,552,13,6,$149.99,All Levels,Business Analytics: Drive Business Growth with Data Analysis,2018-11-03T23:53:10Z,2.66549,udemy.com,1 hour
+5ca03dda13ba61f2f0676b71,2228510,3304,big data,5154,369,56,$199.99,All Levels,Splunk Hands-on - The Complete Data Analytics using Splunk,2019-02-21T01:46:41Z,4.06482,udemy.com,55 hours
+5ca03dda13ba61f2f0676b73,2086282,740,big data,4996,84,12,$199.99,All Levels,Predictive Modeling and Regression Analysis using SPSS,2018-12-19T16:28:40Z,4.40282,udemy.com,12.5 hours
+5ca03dda13ba61f2f0676b75,1268758,199,big data,0,22,1,$19.99,Beginner Level,Learn Python from scratch,2017-08-04T17:11:32Z,1.0,udemy.com,3.5 hours
+5ca03dda13ba61f2f0676b77,2005310,67,big data,535,12,0,$149.99,All Levels,Business Analytics: Use Data Analysis for Financial Industry,2018-11-07T00:31:48Z,0.0,udemy.com,1 hour
+5ca03dda13ba61f2f0676b79,2141498,384,big data,6400,46,27,$199.99,All Levels,"Econometrics#1:  Regression Modeling, Statistics with EViews",2019-01-11T02:30:35Z,4.17124,udemy.com,6.5 hours
+5ca03dda13ba61f2f0676b7b,2232310,92,big data,4054,12,17,$19.99,Beginner Level,Introduction to SAS,2019-02-25T01:28:11Z,3.95151,udemy.com,1.5 hours
+5ca03ddd13ba61f2f0676b7e,2194482,61,big data,1261,26,21,$169.99,Beginner Level,Psychic: Master your Psychic Ability with Rune Reading,2019-02-05T20:29:54Z,4.39929,udemy.com,1 hour
+5ca03ddd13ba61f2f0676b80,2126596,1027,big data,2470,125,23,$199.99,Expert Level,Econometrics#2: Econometrics Modeling and Analysis in EViews,2019-01-07T22:40:18Z,3.95614,udemy.com,17 hours
+5ca03ddd13ba61f2f0676b83,2107396,200,big data,5974,21,23,$119.99,Intermediate Level,Power Pivot in Microsoft Excel 2016,2018-12-26T22:43:37Z,4.00138,udemy.com,3.5 hours
+5ca03ddd13ba61f2f0676b86,2213960,1174,big data,3466,153,39,$199.99,All Levels,Informatica PowerCenter - Beginner to Expert Level,2019-02-14T00:55:23Z,4.05672,udemy.com,19.5 hours
+5ca03ddd13ba61f2f0676b89,2192442,1105,big data,10802,160,34,$199.99,All Levels,Adobe Premiere Pro - The Complete Video Editing Master Class,2019-02-05T19:04:52Z,3.72338,udemy.com,18.5 hours
+5ca03ddd13ba61f2f0676b8b,35582,497,big data,538,40,76,$49.99,Beginner Level,Oracle SQL for beginners,2014-02-11T19:26:40Z,3.8639,udemy.com,8.5 hours
+5ca03ddd13ba61f2f0676b8d,1627214,145,big data,1570,31,36,$104.99,Beginner Level,Amazon DynamoDB: Build out NoSQL Databases in the AWS Cloud,2018-04-06T18:06:26Z,3.41507,udemy.com,2.5 hours
+5ca03ddd13ba61f2f0676b8f,2007400,80,big data,526,13,2,$199.99,All Levels,Career Coaching Masterclass™: Develop a Successful Career,2018-11-07T01:45:59Z,3.57534,udemy.com,1.5 hours
+5ca03ddd13ba61f2f0676b91,2105940,286,big data,3831,34,9,$119.99,All Levels,"MULTISIM - Circuit Design, Schematics Capture and Analysis",2018-12-26T19:38:26Z,3.85091,udemy.com,5 hours
+5ca03ddd13ba61f2f0676b93,2175310,272,big data,4069,40,4,$99.99,Intermediate Level,Compositing using After Effects,2019-01-26T20:47:25Z,4.81137,udemy.com,4.5 hours
+5ca03ddd13ba61f2f0676b95,2214048,183,big data,3077,27,5,$199.99,Intermediate Level,Rotoscopying using After Effects,2019-02-13T23:17:48Z,4.43389,udemy.com,3 hours
+5ca03ddd13ba61f2f0676b97,1989040,106,big data,857,32,12,$199.99,All Levels,Business Branding Masterclass™ - Develop a Successful Brand,2018-10-26T19:00:38Z,3.71995,udemy.com,2 hours
+5ca03ddd13ba61f2f0676b99,2175402,97,big data,1813,15,3,$99.99,Beginner Level,Generating Particles in Fusion,2019-01-27T21:33:11Z,4.78231,udemy.com,1.5 hours
+5ca03ddd13ba61f2f0676b9b,2088020,566,big data,3585,73,4,$199.99,All Levels,"Natron - Compositing, Keying and Rotoscoping using Natron",2018-12-27T17:19:13Z,3.81907,udemy.com,9.5 hours
+5ca03ddd13ba61f2f0676b9d,2152300,1567,big data,3697,218,7,$199.99,All Levels,Blackmagic Fusion - The Ultimate Guide 2019,2019-01-17T14:21:34Z,3.38331,udemy.com,26 hours
+5ca03ddd13ba61f2f0676b9f,1975226,157,big data,637,48,11,$199.99,All Levels,Business Development Masterclass™ - Business Growth Secrets,2018-10-24T19:57:59Z,3.29205,udemy.com,2.5 hours
+5ca03ddd13ba61f2f0676ba1,2200616,713,big data,3315,94,2,$199.99,Beginner Level,Autodesk Combustion - The Ultimate Guide 2019,2019-02-11T19:49:52Z,3.0,udemy.com,12 hours
+5ca03de113ba61f2f0676ba4,2241172,159,big data,2,18,0,$59.99,Beginner Level,Understanding on Google Charts,2019-03-14T23:49:59Z,0.0,udemy.com,2.5 hours
+5ca03de113ba61f2f0676ba6,1304224,72,big data,7232,21,252,Free,Beginner Level,Introduction to Data Analysis for Government,2018-02-01T02:09:56Z,4.17777,udemy.com,1 hour
+5ca03de113ba61f2f0676ba8,1674016,68,big data,4878,13,73,Free,All Levels,EU Privacy Laws & AWS: Build Compliant Data Architectures,2018-05-10T23:34:12Z,3.84736,udemy.com,1 hour
+5ca03de113ba61f2f0676baa,1653744,554,big data,1155,57,331,$159.99,Beginner Level,Sıfırdan Her Yönüyle Big Data Eğitimi,2018-05-07T10:52:23Z,4.48356,udemy.com,9 hours
+5ca03de113ba61f2f0676bac,713160,807,big data,2188,147,514,$114.99,All Levels,Monta un cluster Hadoop Big Data desde cero,2016-04-06T21:47:58Z,4.57834,udemy.com,13.5 hours
+5ca03de113ba61f2f0676bae,1517354,358,big data,650,39,143,$199.99,All Levels,Big Data  : Hadoop HDFS Spark HBASE MapReduce NoSql de A à Z,2018-06-01T21:17:59Z,4.00033,udemy.com,6 hours
+5ca03de113ba61f2f0676bb0,1241252,179,big data,1320,28,325,$114.99,Beginner Level,Big Data com Hadoop: direto ao ponto e foco na prática,2018-07-11T13:28:25Z,4.09309,udemy.com,3 hours
+5ca03de113ba61f2f0676bb2,1182378,388,big data,1194,25,182,$99.99,Intermediate Level,Procesando el Big Data con Apache Spark (en español),2017-07-30T02:56:48Z,4.14464,udemy.com,6.5 hours
+5ca03de113ba61f2f0676bb4,1431254,323,big data,1375,30,232,$199.99,Beginner Level,Big Data - Processamento de dados com Spark e PySpark,2018-04-06T15:05:26Z,4.02377,udemy.com,5.5 hours
+5ca03de113ba61f2f0676bb6,1895040,189,big data,376,29,67,$24.99,All Levels,Big Data e Inteligência Artificial: Domine os Fundamentos!,2018-09-10T16:42:55Z,4.37002,udemy.com,3 hours
+5ca03de113ba61f2f0676bb8,1693226,229,big data,285,19,55,$114.99,All Levels,Análisis de Big Data.,2018-06-19T20:04:24Z,4.13545,udemy.com,4 hours
+5ca03de113ba61f2f0676bba,1306694,639,big data,2368,58,54,$94.99,Beginner Level,A'dan Z'ye Uygulamalı Hadoop ve Büyük Veri Eğitimi,2018-05-02T10:25:45Z,4.97717,udemy.com,10.5 hours
+5ca03de113ba61f2f0676bbc,1623176,387,big data,222,27,31,$184.99,All Levels,BigData,2018-04-03T08:53:34Z,4.17452,udemy.com,6.5 hours
+5ca03de113ba61f2f0676bbe,1766158,32,big data,38,10,8,$49.99,Intermediate Level,Big Data - Les fondamentaux,2018-06-27T09:18:14Z,4.06534,udemy.com,32 mins
+5ca03de113ba61f2f0676bc0,784946,189,big data,991,24,388,$109.99,Beginner Level,Data Science: do Dado à Tomada de Decisão,2016-06-02T21:29:42Z,4.01901,udemy.com,3 hours
+5ca03de113ba61f2f0676bc2,1948756,826,big data,359,93,19,$194.99,Beginner Level,Spark und Python für Big Data und Data Science mit PySpark,2018-11-02T18:15:57Z,4.68453,udemy.com,14 hours
+5ca03de113ba61f2f0676bc4,1515972,1541,big data,545,69,56,$99.99,Intermediate Level,Aplicaciones Big Data para Data Scientist con R y Shiny,2018-06-23T19:27:13Z,4.32559,udemy.com,25.5 hours
+5ca03de113ba61f2f0676bc6,1960856,128,big data,376,25,69,$44.99,All Levels,Gestão de Projetos de Data Science e Big Data,2018-10-19T19:09:49Z,4.20322,udemy.com,2 hours
+5ca03de113ba61f2f0676bc8,734026,117,big data,163,20,46,$24.99,All Levels,Big Data & Analytics: Claves del emprendimiento digital!,2016-01-23T17:51:04Z,3.4924,udemy.com,2 hours
+5ca03de113ba61f2f0676bca,1758130,287,big data,115,24,6,$49.99,All Levels,Big Data Dünyası - Cassandra Uygulama,2018-07-19T12:35:30Z,4.72816,udemy.com,5 hours
+5ca03de613ba61f2f0676bcd,1883920,49,big data,32,11,3,$64.99,All Levels,Aprenda agora o que é realmente Big Data,2018-09-01T18:41:15Z,3.57109,udemy.com,1 hour
+5ca03de613ba61f2f0676bcf,571560,174,big data,143,12,44,$34.99,Expert Level,Fundamentos de NoSQL e Big Data para Concursos Públicos,2015-08-04T21:29:54Z,4.37104,udemy.com,3 hours
+5ca03de613ba61f2f0676bd1,1227016,556,big data,42,70,10,$69.99,Beginner Level,Yeni Başlayanlar için Big Data: NoSQL & Spark & Hadoop,2018-05-16T07:33:27Z,4.16699,udemy.com,9.5 hours
+5ca03de613ba61f2f0676bd4,2144630,191,big data,3,10,1,$29.99,Intermediate Level,赵强老师：BigData 电商大数据项目实战(Hadoop+Spark)系列课程（2）,2019-01-12T04:35:07Z,5.0,udemy.com,3 hours
+5ca03de613ba61f2f0676bd6,1689450,1522,big data,6219,165,39,$94.99,All Levels,A'dan Z'ye Apache Spark (Scala & Python),2019-02-12T12:37:44Z,4.54914,udemy.com,25.5 hours
+5ca03de613ba61f2f0676bd8,1327282,403,big data,1051,79,119,$199.99,Beginner Level,"Power BI: Başlangıçtan Profesyonel Seviyeye (R, Big Data)",2018-04-25T14:12:14Z,4.16307,udemy.com,6.5 hours
+5ca03de613ba61f2f0676bda,2144754,328,big data,2,13,0,$49.99,Expert Level,赵强老师：BigData 电商大数据项目实战(Hadoop+Spark)系列课程（5）,2019-01-12T05:14:13Z,0.0,udemy.com,5.5 hours
+5ca03de613ba61f2f0676bdc,2143456,102,big data,3,5,0,$19.99,Intermediate Level,赵强老师：BigData 电商大数据项目实战(Hadoop+Spark)系列课程（1）,2019-01-12T04:34:26Z,0.0,udemy.com,1.5 hours
+5ca03de613ba61f2f0676bde,1195090,202,big data,2361,17,478,$29.99,All Levels,Aprenda a Programar em R,2017-05-02T02:35:19Z,4.13327,udemy.com,3.5 hours
+5ca03de613ba61f2f0676be0,2038458,564,big data,4,24,0,$59.99,Expert Level,赵强老师：大数据从入门到精通系列课程 06,2018-11-27T02:37:26Z,0.0,udemy.com,9.5 hours
+5ca03de613ba61f2f0676be2,119232,85,big data,15,6,3,$24.99,Intermediate Level,Las nuevas Enterprise Applications: obtén todo su partido,2013-11-15T13:31:43Z,3.28341,udemy.com,1.5 hours
+5ca03de613ba61f2f0676be4,1490736,502,big data,433,42,167,$199.99,All Levels,informatica PowerCenter : ETL [BI] de A à Z [En Français],2018-01-30T22:36:34Z,4.59587,udemy.com,8.5 hours
+5ca03de613ba61f2f0676be6,1507096,294,big data,954,36,238,$199.99,All Levels,Data science :  Machine Learning et Python,2018-03-06T17:14:10Z,4.01865,udemy.com,5 hours
+5ca03de613ba61f2f0676be8,2144698,377,big data,2,19,0,$44.99,Intermediate Level,赵强老师：BigData 电商大数据项目实战(Hadoop+Spark)系列课程（4）,2019-01-12T04:36:35Z,0.0,udemy.com,6.5 hours
+5ca03de613ba61f2f0676bea,2144658,250,big data,2,15,0,$39.99,Intermediate Level,赵强老师：BigData 电商大数据项目实战(Hadoop+Spark)系列课程（3）,2019-01-12T04:35:48Z,0.0,udemy.com,4 hours
+5ca03de613ba61f2f0676bec,2144786,143,big data,2,5,0,$19.99,Expert Level,赵强老师：BigData 电商大数据项目实战(Hadoop+Spark)系列课程（6）,2019-01-12T04:38:59Z,0.0,udemy.com,2.5 hours
+5ca03de613ba61f2f0676bee,1820244,2139,big data,2660,367,134,$199.99,Beginner Level,R ile Veri Bilimi ve Machine Learning,2019-01-26T15:32:06Z,4.70234,udemy.com,35.5 hours
+5ca03de613ba61f2f0676bf0,1700846,236,big data,389,49,63,$104.99,All Levels,Tableau 10: Visuelle Datenanalyse für die Data Science,2018-06-11T11:25:49Z,4.34621,udemy.com,4 hours
+5ca03de613ba61f2f0676bf2,2174442,189,big data,0,19,0,$129.99,All Levels,Curso SAP BIG DATA Iniciante + 90 Dias de Acesso SAP,2019-02-22T18:30:27Z,0.0,udemy.com,3 hours
+5ca03dea13ba61f2f0676bfe,1792266,76,big data,109,24,16,$49.99,Intermediate Level,Introducción a los microservicios para Data Science,2018-07-26T20:40:42Z,4.12349,udemy.com,1.5 hours
+5ca03dea13ba61f2f0676c00,633198,148,big data,453,18,42,$19.99,Beginner Level,Tutorial práctico de XML: Crea y Valida Documentos XML,2016-01-25T17:25:06Z,3.82494,udemy.com,2.5 hours
+5ca03dea13ba61f2f0676c02,1622006,480,big data,1688,69,223,$79.99,Beginner Level,【世界で2万人が受講】JavaScriptエンジニアのためのES6完全ガイド,2018-07-23T21:57:17Z,4.38559,udemy.com,8 hours
+5ca03dea13ba61f2f0676c04,1804742,60,big data,1957,7,133,Free,Beginner Level,"Pentaho, infinitas possibilidades",2018-07-26T17:58:52Z,3.99357,udemy.com,1 hour
+5ca03dea13ba61f2f0676c06,1762984,60,big data,1853,6,159,Free,Beginner Level,Instalando e Configurando a solução de BA Hitachi Pentaho,2018-06-29T15:35:55Z,4.14367,udemy.com,1 hour
+5ca03dea13ba61f2f0676c08,2029268,112,big data,7,5,1,$34.99,Intermediate Level,赵强老师：大数据从入门到精通系列课程 03,2018-11-21T14:52:05Z,5.0,udemy.com,2 hours
+5ca03dea13ba61f2f0676c0a,1364804,592,big data,11938,99,3394,$199.99,All Levels,Python 3 COMPLETO - Do iniciante ao avançado!,2018-04-09T21:52:57Z,4.327,udemy.com,10 hours
+5ca03dea13ba61f2f0676c0c,1620090,588,big data,1307,116,316,$199.99,All Levels,Python : Analyse et Visualisation de Données (Data Science),2018-03-30T15:41:27Z,4.53662,udemy.com,10 hours
+5ca03dea13ba61f2f0676c0e,2030142,111,big data,1583,12,48,$199.99,All Levels,Data Science - Les Applications Dans le Domaine des Affaires,2018-11-21T00:46:01Z,4.54471,udemy.com,2 hours
+5ca03dea13ba61f2f0676c10,1180708,430,big data,3446,120,840,$194.99,Beginner Level,Python : Formation complète pour débutant (cas réels inclus),2017-06-19T16:53:31Z,4.58131,udemy.com,7 hours
+5ca03dea13ba61f2f0676c12,1941726,478,big data,407,68,50,$159.99,All Levels,Programmer en Python pour la Data Science de A à Z,2018-12-10T18:56:10Z,4.64676,udemy.com,8 hours
+5ca03dea13ba61f2f0676c14,1302260,265,big data,1564,43,402,$94.99,Beginner Level,Web Scraping et APIs Scraping en Python (Cas réels inclus),2017-07-28T04:20:30Z,4.71907,udemy.com,4.5 hours
+5ca03dea13ba61f2f0676c16,2241490,74,big data,893,7,10,$199.99,All Levels,Data Science - Les Applications Dans le Domaine Financier,2019-03-01T17:47:03Z,4.42383,udemy.com,1 hour
+5ca03dea13ba61f2f0676c18,1515838,438,big data,617,55,183,$199.99,All Levels,Django: Python | le développement web du débutant à l'expert,2018-04-12T15:02:53Z,4.19299,udemy.com,7.5 hours
+5ca03dea13ba61f2f0676c1a,2004786,116,big data,109,30,4,$24.99,All Levels,Python - Introduction à la Data Science,2018-12-04T00:13:44Z,3.4384,udemy.com,2 hours
+5ca03dea13ba61f2f0676c1c,1749470,308,big data,189,53,61,$19.99,All Levels,Tableau 10 : Data  Analytics | Business Intelligence de A-Z,2018-11-05T22:31:47Z,4.59031,udemy.com,5 hours
+5ca03dea13ba61f2f0676c1e,2152626,104,big data,9,35,4,$24.99,Beginner Level,Úvod do jazyka Python pro datovou vědu - česky,2019-01-23T21:26:14Z,4.5316,udemy.com,1.5 hours
+5ca03dea13ba61f2f0676c20,1125148,700,big data,809,60,290,$134.99,All Levels,talend : Débutant - Maîtrise BI Formation Complète Français,2017-12-12T15:36:18Z,4.11035,udemy.com,11.5 hours
+5ca03dea13ba61f2f0676c22,1591114,63,big data,12,17,2,$99.99,Beginner Level,Python完全指南 - 環境,2018-03-17T22:39:31Z,3.01235,udemy.com,1 hour
+5ca03dea13ba61f2f0676c24,2276477,932,big data,7,138,0,$199.99,All Levels,Machine Learning de A-Z,2019-03-25T21:58:36Z,0.0,udemy.com,15.5 hours
+5ca03deb13ba61f2f0676c27,1722764,489,big data,682,66,86,$159.99,All Levels,Programmer en R pour la Data Science de A à Z,2018-07-25T18:23:04Z,4.71104,udemy.com,8 hours
+5ca03deb13ba61f2f0676c29,1342580,689,big data,2155,136,466,$199.99,All Levels,SQL pour la Data Science de A à Z (analyse de data réelles),2017-10-13T02:54:09Z,4.69211,udemy.com,11.5 hours
+5ca03deb13ba61f2f0676c2b,1511038,107,big data,152,18,72,$19.99,All Levels,XML : Programmation étape par étape de A à Z,2018-02-28T02:25:14Z,4.71952,udemy.com,2 hours
+5ca03deb13ba61f2f0676c2d,1692228,153,big data,225,30,62,$44.99,Beginner Level,SQL pour débutants (l'essentiel par la pratique),2018-06-07T02:30:48Z,4.81229,udemy.com,2.5 hours
+5ca03deb13ba61f2f0676c2f,1593582,407,big data,541,58,138,$199.99,All Levels,AWS Certified Solutions Architect–Associate le guide complet,2018-09-05T00:00:29Z,4.02273,udemy.com,7 hours
+5ca03e5f13ba61f2f0676c53,1615138,355,big data,1905,54,246,$104.99,All Levels,Hadoop MAPREDUCE in Depth | A Real-Time course on Mapreduce,2018-04-02T23:11:35Z,4.38897,udemy.com,6 hours
+5ca03e5f13ba61f2f0676c59,918804,461,big data,759,66,32,$89.99,All Levels,Learn Big Data Testing with NoSQL using Cassandra and HBase,2016-08-01T22:57:20Z,3.88216,udemy.com,7.5 hours
+5ca03e5f13ba61f2f0676c5d,2121860,118,big data,67,19,16,$124.99,All Levels,Azure Databricks with Apache Spark,2019-02-19T23:23:16Z,3.77985,udemy.com,2 hours
+5ca03e5f13ba61f2f0676c61,940120,694,big data,7625,92,587,$179.99,All Levels,Big Data Hadoop - The Complete Course,2016-11-23T00:37:55Z,3.40592,udemy.com,11.5 hours
+5ca03e6213ba61f2f0676c6e,972098,193,big data,264,16,8,$89.99,All Levels,"Big Data Intro for IT Administrators, Devs and Consultants",2016-10-10T19:14:25Z,4.47537,udemy.com,3 hours
+5ca03e6213ba61f2f0676c73,129244,225,big data,158,47,10,$49.99,All Levels,Big Data,2014-01-13T03:22:03Z,3.74739,udemy.com,4 hours
+5ca03e6213ba61f2f0676c76,768084,46,big data,3180,7,162,$19.99,Beginner Level,Hadoop Big Data - Must See Introduction to Big Data,2016-02-26T00:13:10Z,3.18324,udemy.com,1 hour
+5ca03e6213ba61f2f0676c79,1108724,156,big data,58,103,9,$69.99,All Levels,How Big Data is Defining the Future Executive,2017-03-22T22:56:49Z,4.16583,udemy.com,2.5 hours
+5ca03e6213ba61f2f0676c7c,581034,612,big data,3960,44,142,$49.99,Intermediate Level,Projects in Hadoop and Big Data - Learn by Building Apps,2015-10-21T19:32:12Z,3.43264,udemy.com,10 hours
+5ca03e6513ba61f2f0676c81,919134,666,big data,998,77,142,$89.99,All Levels,Learn Big Data Testing with Hadoop and Hive with Pig Script,2016-08-07T17:55:12Z,4.29539,udemy.com,11 hours
+5ca03e6513ba61f2f0676c83,2218762,38,big data,3086,5,10,$19.99,Intermediate Level,MapReduce Architecture for Big Data,2019-02-15T17:52:52Z,4.10047,udemy.com,38 mins
+5ca03e6513ba61f2f0676c89,1483600,754,big data,222,102,22,$89.99,All Levels,Learn Big Data : Complete Hadoop Ecosystem with Practicals,2018-01-10T16:10:33Z,3.70666,udemy.com,12.5 hours
+5ca03e6513ba61f2f0676c8c,1281488,710,big data,11423,72,356,$149.99,All Levels,Apache Spark Hands on Specialization for Big Data Analytics,2018-04-03T18:25:37Z,3.93839,udemy.com,12 hours
+5ca03e6513ba61f2f0676c8e,857208,32,big data,1074,12,58,$64.99,Beginner Level,Introduction To Big Data,2016-06-27T19:15:53Z,3.36864,udemy.com,32 mins
+5ca03e6513ba61f2f0676c92,1486488,273,big data,581,21,4,$24.99,All Levels,"XML Data Analysis using HADOOP-Mapreduce,PIG and HIVE",2018-01-04T14:06:31Z,3.95079,udemy.com,4.5 hours
+5ca03e6813ba61f2f0676cc3,845190,428,big data,6395,23,53,$144.99,All Levels,Mastering Hadoop: The How to Guide of a Practical Approach,2016-07-27T16:53:25Z,2.93944,udemy.com,7 hours
+5ca03e6813ba61f2f0676cc8,940964,302,big data,248,82,26,$199.99,All Levels,Become a Big Data Hadoop Developer from scratch,2016-09-08T16:25:20Z,3.11121,udemy.com,5 hours
+5ca03e6813ba61f2f0676cca,1515988,527,big data,253,53,3,$29.99,All Levels,"Customer Data Analysis Project using MapReduce, Hive, Pig",2018-01-31T19:04:50Z,3.11557,udemy.com,9 hours
+5ca03e6813ba61f2f0676ccc,767314,342,big data,169,49,26,$199.99,Intermediate Level,Process Big Data using Apache PIG,2016-02-23T17:45:50Z,3.02433,udemy.com,5.5 hours
+5ca03e6b13ba61f2f0676d1c,1354258,451,big data,150,54,30,$79.99,All Levels,Advance Hadoop and Hive for Testers,2017-09-27T00:08:32Z,3.67556,udemy.com,7.5 hours
+5ca03e6b13ba61f2f0676d1e,1548250,391,big data,2781,62,35,$19.99,All Levels,Big Data Analysis with Apache Spark PySpark: Hands on Python,2018-04-20T23:24:45Z,3.41752,udemy.com,6.5 hours
+5ca03e6b13ba61f2f0676d25,914726,161,big data,635,36,84,$189.99,All Levels,Business Analytics with Big Data : A Complete Guide,2016-08-31T14:30:25Z,3.08063,udemy.com,2.5 hours
+5ca03e6b13ba61f2f0676d27,1470510,353,big data,317,54,37,$49.99,All Levels,"Hands on Big Data with Apache Hadoop, Python and HDInsight",2018-08-21T17:23:32Z,4.09394,udemy.com,6 hours
+5ca03e6b13ba61f2f0676d2e,1682926,366,big data,671,81,11,$19.99,All Levels,Python PySpark & Big Data Analysis Using Python Made Simple,2018-05-10T00:00:22Z,3.37202,udemy.com,6 hours
+5ca03e6b13ba61f2f0676d34,792230,460,big data,511,67,102,$199.99,All Levels,Apache Spark and Scala,2016-04-18T23:19:00Z,3.96398,udemy.com,7.5 hours
+5ca03e6e13ba61f2f0676d77,2079704,162,big data,2272,22,5,$19.99,Intermediate Level,"Oracle Big Data Demystified, made SIMPLE!",2019-01-03T02:21:36Z,3.84104,udemy.com,2.5 hours
+5ca03e6e13ba61f2f0676d7a,794306,86,big data,4369,29,688,$59.99,All Levels,"Data Analytics: SQL for newbs, beginners and marketers",2016-03-17T15:42:01Z,4.36292,udemy.com,1.5 hours
+5ca03e7613ba61f2f0676dc4,775330,562,big data,180491,45,5423,$194.99,All Levels,30 Days of Python | Unlock your Python Potential,2016-10-17T22:34:16Z,4.29506,udemy.com,9.5 hours
+5ca03e7613ba61f2f0676dcd,1248202,85,big data,9,13,0,$124.99,Intermediate Level,Big Data Processing using Apache Spark,2017-06-12T20:46:54Z,0.0,udemy.com,1.5 hours
+5ca03e7613ba61f2f0676dd4,1552516,190,big data,87,22,54,$49.99,Beginner Level,Advanced Analytics,2018-02-15T14:40:02Z,3.94522,udemy.com,3 hours
+5ca03e7613ba61f2f0676dd7,399488,122,big data,2917,33,459,$144.99,All Levels,Learn Data Warehousing From Scratch- From Solution Architect,2015-03-24T00:28:18Z,4.04165,udemy.com,2 hours
+5ca03e7913ba61f2f0676ddd,1552058,1278,big data,409,171,64,$99.99,Intermediate Level,AWS EMR and Spark 2 using Scala,2018-03-12T19:58:50Z,4.23447,udemy.com,21.5 hours
+5ca03e7913ba61f2f0676de1,1067226,111,big data,5238,21,1256,$39.99,Beginner Level,Introduction to Apache NiFi (Hortonworks DataFlow - HDF 2.0),2017-02-07T21:57:18Z,4.38579,udemy.com,2 hours
+5ca03e7913ba61f2f0676ded,819398,81,big data,67,7,8,$79.99,Beginner Level,Using Splunk for Big Data Analytics,2016-04-12T20:15:18Z,2.10478,udemy.com,1.5 hours
+5ca03e7e13ba61f2f0676e08,937778,240,big data,986,26,82,$89.99,All Levels,Real World Vagrant For Distributed Computing,2016-08-23T17:38:43Z,4.44124,udemy.com,4 hours
+5ca03e7e13ba61f2f0676e0a,1751524,540,big data,761,75,59,$19.99,Intermediate Level,Dimension reduction and source separation in neuroscience,2018-06-24T21:11:10Z,4.65343,udemy.com,9 hours
+5ca03e7e13ba61f2f0676e1d,1303292,105,big data,781,13,25,$49.99,All Levels,"Elasticsearch 6.0: Learn Elasticsearch, Kibana from Scratch",2018-01-23T15:59:13Z,3.83464,udemy.com,2 hours
+5ca03e8613ba61f2f0676e4d,2109812,943,big data,5705,111,12,$119.99,All Levels,"Predictive Modeling, Regression and Statistics using Minitab",2018-12-28T18:29:21Z,4.3735,udemy.com,15.5 hours
+5ca03e8b13ba61f2f0676e73,992680,109,big data,30,15,4,$29.99,Beginner Level,Instalación y Configuración de Hadoop & Hive,2018-01-02T18:18:53Z,4.19331,udemy.com,2 hours

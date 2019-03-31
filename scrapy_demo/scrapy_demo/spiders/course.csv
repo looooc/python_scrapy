@@ -1,0 +1,340 @@
+_id,courseId,descriptionSize,keyWord,learnerCount,productDifficultyLevel,productName,score,source,time
+5c9fb3a813ba61f2f067504c,course~Gtv4Xb1-EeS-ViIACwYKVQ,966,ai,2206667.0,Mixed,Machine Learning,4.917809899613584,coursera.org,55.0
+5c9fb3ab13ba61f2f067504f,course~YpwHVDb5EemE7gr4SGSAsA,267,ai,25971.0,Beginner,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",4.671732522796352,coursera.org,7.0
+5c9fb3af13ba61f2f0675055,s12n~UpntmHICEeeyqhJciLMFrA,499,ai,102147.0,Advanced,Advanced Machine Learning,4.557675244010648,coursera.org,
+5c9fb3b313ba61f2f0675069,course~tE4j0qhMEeecqgpT6QjMdA,184,ai,22475.0,Advanced,Applied AI with DeepLearning,4.418300653594772,coursera.org,19.0
+5c9fb3b813ba61f2f067506c,course~-7ZymCvBEee6gA5XksfBbg,200,ai,133018.0,Beginner,Structuring Machine Learning Projects,4.775747312039699,coursera.org,7.0
+5c9fb3bd13ba61f2f067507f,course~7wD6e-TPEeWThQoLOXqDhw,18,ai,26298.0,Mixed,Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences,4.542533081285444,coursera.org,7.0
+5c9fb3c813ba61f2f0675133,s12n~zh7400XtEeWUww73KBYvPw,516,ai,238950.0,Intermediate,Machine Learning,4.678893565844858,coursera.org,
+5c9fb3cd13ba61f2f0675136,course~oWe5cmU5EeeGgwo-Z1z46A,1165,ai,12751.0,Beginner,Deep Learning for Business,4.334630350194552,coursera.org,8.0
+5c9fb3d113ba61f2f0675139,course~0WeoUtsxEeWs3gqqmBF9eQ,475,ai,7686.0,Beginner,Digital Manufacturing & Design,4.583969465648855,coursera.org,6.0
+5c9fb3d513ba61f2f067513c,s12n~BDbRtACCEei2Rw7d_b6q_A,111,ai,36956.0,Intermediate,Machine Learning with TensorFlow on Google Cloud Platform,4.513384615384616,coursera.org,
+5c9fb3dd13ba61f2f0675148,course~ggA7lqfmEei2UxLIFK_Ztg,313,ai,1920.0,Beginner,Sesenta años de inteligencia artificial,4.7,coursera.org,11.0
+5c9fb3e013ba61f2f067514a,course~MQLdHLd0EeeChhJXz190Vg,92,ai,8219.0,Beginner,How to Build a Chatbot Without Coding,4.674698795180723,coursera.org,14.0
+5c9fb3e613ba61f2f067514d,course~BIU_pgCCEeiZdg6RDGBSdg,115,ai,33860.0,Intermediate,How Google does Machine Learning,4.542920029347028,coursera.org,10.0
+5c9fb3ea13ba61f2f0675150,course~loAmvxJgEea8fxLSgUgxeQ,395,ai,31963.0,Mixed,Machine Learning With Big Data,4.552356020942408,coursera.org,16.0
+5c9fb3ef13ba61f2f0675153,course~8limdNy3EeWyqBL0ju_dbQ,432,ai,14558.0,Beginner,人工智慧：搜尋方法與邏輯推論 (Artificial Intelligence - Search & Logic),4.75,coursera.org,28.0
+5c9fb3f513ba61f2f0675158,course~yBH016JgEeiPFxIYDKn9qg,259,ai,35.0,Intermediate,Art and Science of Machine Learning 日本語版,3.666666666666666,coursera.org,9.0
+5c9fb3f813ba61f2f067515b,course~j0Ytj2cAEeWUihJ1ayDcyQ,728,ai,5960.0,Intermediate,機器學習基石下 (Machine Learning Foundations)---Algorithmic Foundations,4.931578947368421,coursera.org,12.0
+5c9fb40013ba61f2f0675162,course~5kN4I2_yEeiEIw61qAJ5Jg,466,big data,68.0,Intermediate,Launching into Machine Learning em Português Brasileiro,4.578947368421052,coursera.org,7.0
+5c9fb40313ba61f2f0675165,s12n~GWIdT4bQEeiFWQrjbTVkyg,111,ai,8419.0,Advanced,Advanced Machine Learning with TensorFlow on Google Cloud Platform,4.533508541392904,coursera.org,
+5c9fb40613ba61f2f0675168,s12n~fGi-kdunEeeBjQ4Ukw9GDg,273,ai,17393.0,Intermediate,Machine Learning and Reinforcement Learning in Finance,3.563991323210412,coursera.org,
+5c9fb40a13ba61f2f067516e,course~-ebwLHHsEeWKsgrp3VnvAw,811,ai,19614.0,Intermediate,Обучение на размеченных данных,4.811441914769411,coursera.org,43.0
+5c9fb40e13ba61f2f0675171,s12n~6yXmb5zFEeivIQ7xEnzOcg,359,ai,861.0,Beginner,Healthcare Trends for Business Professionals,4.454545454545454,coursera.org,
+5c9fb41113ba61f2f0675174,course~2zjJWvVQEee0uQ7YmQ7_mg,187,ai,7171.0,Advanced,Reinforcement Learning in Finance,3.138888888888889,coursera.org,21.0
+5c9fb41513ba61f2f0675177,course~3c1bSkIJEeWpogr5ZO8qxQ,63,ai,70928.0,Mixed,Machine Learning: Classification,4.693900602409639,coursera.org,43.0
+5c9fb41913ba61f2f067517a,course~R6v_WgPzEeeM0BKxT3Q-dg,243,ai,6021.0,Advanced,Big Data Applications: Machine Learning at Scale,3.847457627118644,coursera.org,81.0
+5c9fb41c13ba61f2f067517c,course~ltp8oW_yEeig5gq8RRNtIg,490,ai,268.0,Intermediate,Launching into Machine Learning en Español,4.785714285714286,coursera.org,9.0
+5c9fb42013ba61f2f067517f,course~XIpV9KJgEeiG9goIBchJPA,279,ai,29.0,Intermediate,Art and Science of Machine Learning em Português Brasileiro,4.5,coursera.org,11.0
+5c9fb42313ba61f2f0675182,course~T_e2Fp5sEeehoxIgNgFKoA,115,big data,3406.0,Intermediate,Applying Machine Learning to your Data with GCP,4.638766519823789,coursera.org,6.0
+5c9fb42713ba61f2f0675184,course~RGTS16ZREeiH3AqX3raR7A,284,big data,172.0,Intermediate,Google Cloud Platform Big Data and Machine Learning Fundamentals en Français,,coursera.org,5.0
+5c9fb42b13ba61f2f0675187,course~anas83IDEeenOwpmZ1LH1g,348,ai,22765.0,Advanced,Bayesian Methods for Machine Learning,4.57,coursera.org,39.0
+5c9fb42e13ba61f2f067518a,course~owxbIOyuEeeYdQrFGg1gcg,456,ai,12457.0,Beginner,Guided Tour of Machine Learning in Finance,3.633699633699634,coursera.org,21.0
+5c9fb43113ba61f2f067518c,s12n~Ra4cH7UNEeeYzRI7sB4MMA,111,ai,11720.0,Beginner,From Data to Insights with Google Cloud Platform,4.641532756489493,coursera.org,
+5c9fb43613ba61f2f067518f,course~_9izvfVQEee0uQ7YmQ7_mg,213,ai,3295.0,Advanced,Overview of Advanced Methods of Reinforcement Learning in Finance,3.208333333333334,coursera.org,14.0
+5c9fb43d13ba61f2f0675193,course~3EPZVpSGEeSb9SIACzCJlg,562,ai,59899.0,Mixed,Exploring Beethoven’s Piano Sonatas,4.840319361277445,coursera.org,33.0
+5c9fb44213ba61f2f0675196,course~lTAKbxf1EeiB7BJMyhcJoA,115,ai,9120.0,Intermediate,Launching into Machine Learning,4.51360781577111,coursera.org,7.0
+5c9fb44613ba61f2f0675198,course~OJlYSUgFEeiRoQ52x8gP0g,115,ai,5134.0,Intermediate,Art and Science of Machine Learning,4.574349442379182,coursera.org,8.0
+5c9fb44a13ba61f2f067519b,s12n~NTycHVlFEeiI0AryTY-PSg,552,ai,34812.0,Advanced,Advanced Data Science with IBM,4.407920792079208,coursera.org,
+5c9fb44f13ba61f2f067519e,course~SaHVxoC0Eea-WAqa1tl72w,599,ai,24727.0,Beginner,Математика для всех,4.791366906474821,coursera.org,17.0
+5c9fb45413ba61f2f06751a1,course~AhAxVZPHEeelHBK9SqQEGA,296,ai,3275.0,Intermediate,Data Science in Stratified Healthcare and Precision Medicine,4.568627450980392,coursera.org,18.0
+5c9fb45913ba61f2f06751a4,course~PC9OIHjNEeW53BJEfL52qQ,601,ai,1373.0,Advanced,Анализ данных: финальный проект,4.76605504587156,coursera.org,28.0
+5c9fb45c13ba61f2f06751a7,course~UCBrJjb0EeWw6g4yTrGrVQ,631,big data,399.0,Mixed,Data Analysis and Interpretation Capstone,4.6,coursera.org,10.0
+5c9fb46013ba61f2f06751aa,course~z9pU78ZoEeeDPAp85ryzQg,651,ai,1245.0,Beginner,Financial Regulation in Emerging Markets and the Rise of Fintech Companies,4.74074074074074,coursera.org,20.0
+5c9fb46513ba61f2f06751ad,course~6EAVDavbEeaPvQ5eOPtN_A,513,ai,24717.0,Beginner,Mathematical Thinking in Computer Science,4.427906976744186,coursera.org,26.0
+5c9fb46913ba61f2f06751b0,course~LsMF0rxtEei1aQ5Zl9xCuA,115,ai,1419.0,Advanced,Recommendation Systems with TensorFlow on GCP,4.475609756097561,coursera.org,11.0
+5c9fb46e13ba61f2f06751b2,course~_HYzDzDHEeiWTQ4fi9qqFg,302,ai,3087.0,Intermediate,人工智慧：機器學習與理論基礎 (Artificial Intelligence - Learning & Theory),5.0,coursera.org,25.0
+5c9fb47113ba61f2f06751b5,s12n~W62RsyrdEeeFQQqyuQaohA,186,ai,398243.0,Intermediate,Deep Learning,4.853528203117627,coursera.org,
+5c9fb47713ba61f2f06751b8,course~T4sR76ljEeeF1RLK9c5stA,1149,big data,4306.0,Advanced,Addressing Large Hadron Collider Challenges by Machine Learning,4.592592592592593,coursera.org,22.0
+5c9fb47a13ba61f2f06751bb,course~71eLMaZLEeiDiw4YwP822A,364,ai,105.0,Intermediate,Serverless Machine Learning with Tensorflow on Google Cloud Platform 日本語版,4.8,coursera.org,9.0
+5c9fb47d13ba61f2f06751be,course~kRI8UP9AEea3MBLvnjDGvg,115,big data,13447.0,Intermediate,Serverless Machine Learning with Tensorflow on Google Cloud Platform,4.431472081218274,coursera.org,11.0
+5c9fb48013ba61f2f06751c0,course~hTDw8hwYEeibjxJlofFHZA,281,big data,947.0,Intermediate,Google Cloud Platform Big Data and Machine Learning Fundamentals 日本語版,4.291666666666667,coursera.org,10.0
+5c9fb48413ba61f2f06751c3,course~a3Q1g0YtEeeJdBL3H0RODg,293,ai,7534.0,Intermediate,An Introduction to Practical Deep Learning,4.35,coursera.org,12.0
+5c9fb48b13ba61f2f06751c6,course~okLtn0dFEeeMtBKozo_2UA,488,ai,836.0,Beginner,Designing the Future of Work,4.454545454545454,coursera.org,15.0
+5c9fb48f13ba61f2f06751c9,course~BTfO2icYEeWbiBJCM9ziNQ,389,ai,22065.0,Mixed,Fundamentos del análisis de datos para la toma de decisiones,4.497844827586207,coursera.org,16.0
+5c9fb49413ba61f2f06751cc,course~vUCac22dEeeB2gpod3ECDg,425,ai,7467.0,Intermediate,Fundamentals of Machine Learning in Finance,3.6015625,coursera.org,17.0
+5c9fb49813ba61f2f06751cf,s12n~V1tcxKJiEeiLjAodmfy45A,1278,ai,784.0,Intermediate,Machine Learning with TensorFlow on Google Cloud Platform en Español,4.86,coursera.org,
+5c9fb49c13ba61f2f06751d2,course~qBprGt8cEeWsvwp02yXW0Q,251,ai,69447.0,Beginner,"English for Science, Technology, Engineering, and Mathematics",4.802989130434782,coursera.org,24.0
+5c9fb4a013ba61f2f06751d4,course~F6WHgnHtEeWLqw7zlLhRzQ,1183,ai,12427.0,Intermediate,Поиск структуры в данных,4.684836471754212,coursera.org,25.0
+5c9fb4a513ba61f2f06751d7,course~4faq5hcDEeiLDxJvyy9TxA,381,big data,1493.0,Beginner,Big Data: el impacto de los datos masivos en la sociedad actual,4.610619469026549,coursera.org,9.0
+5c9fb4a813ba61f2f06751da,course~05ISI2XaEeadpwpiiuGnhw,362,ai,8888.0,Intermediate,Hands-on Text Mining and Analytics,3.972972972972973,coursera.org,24.0
+5c9fb4ad13ba61f2f06751dd,course~4IaPepXJEeir-RIKs5gHUA,367,ai,46.0,Intermediate,Intro to TensorFlow em Português Brasileiro,4.888888888888889,coursera.org,13.0
+5c9fb4b013ba61f2f06751e0,course~p7Ql1go7EemaoQ6n9kv2xA,320,ai,145.0,Intermediate,Future Development in Supply Chain Finance and Blockchain Technology,3.5,coursera.org,7.0
+5c9fb4b413ba61f2f06751e2,course~R_CeEP9AEeaKrQrJfAdZcg,115,big data,15380.0,Intermediate,Serverless Data Analysis with Google BigQuery and Cloud Dataflow,4.478636826042726,coursera.org,8.0
+5c9fb4b913ba61f2f06751e6,course~qKQR-6ZMEeipAg4L-e-Ezg,598,ai,230.0,Intermediate,Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform auf Deutsch,,coursera.org,5.0
+5c9fb4be13ba61f2f06751e8,course~7i1vmdvHEeibcwrQyd6cJg,391,ai,553.0,Intermediate,Business Application of Machine Learning and Artificial Intelligence in Healthcare,5.0,coursera.org,11.0
+5c9fb4c113ba61f2f06751eb,course~W_mOXCrdEeeNPQ68_4aPpA,337,ai,362266.0,Intermediate,Neural Networks and Deep Learning,4.893104713749796,coursera.org,18.0
+5c9fb4c513ba61f2f06751ee,course~oevpufy2Eeio4BIihiZW_g,468,ai,280.0,Intermediate,Machine Learning for Business Professionals,5.0,coursera.org,16.0
+5c9fb4c813ba61f2f06751f0,course~JFjSEGj_EeiOiBLbdFBodg,534,ai,95.0,Intermediate,How Google does Machine Learning auf Deutsch,,coursera.org,7.0
+5c9fb4cb13ba61f2f06751f3,course~-N44X0IJEeWpogr5ZO8qxQ,39,ai,52558.0,Mixed,Machine Learning: Clustering & Retrieval,4.625621890547263,coursera.org,48.0
+5c9fb4cf13ba61f2f06751f6,s12n~e3wiTwXMEeim8hI7AVpI6A,526,ai,68994.0,Beginner,Mathematics for Machine Learning,4.560054907343857,coursera.org,
+5c9fb4d313ba61f2f06751f9,s12n~dwzq23ZLEei12goo904QNg,277,ai,109293.0,Beginner,IBM Data Science Professional Certificate,4.621533112315032,coursera.org,
+5c9fb4d813ba61f2f06751fc,course~Jy5wosZpEeerGhJkyskCRg,606,ai,442.0,Beginner,How Entrepreneurs in Emerging Markets can master the Blockchain Technology,5.0,coursera.org,12.0
+5c9fb4dc13ba61f2f06751fe,course~qxpmIMk9EeWfkQ5lkPEvxw,662,ai,23205.0,Mixed,Pattern Discovery in Data Mining,4.230337078651686,coursera.org,16.0
+5c9fb4e013ba61f2f0675201,course~iTTT7Gj_EeifGg4pPObuXA,690,ai,716.0,Intermediate,How Google does Machine Learning en Español,4.826086956521739,coursera.org,11.0
+5c9fb4e513ba61f2f0675204,course~M5IS7Pw3EeW3kAo3Iffzfw,190,ai,5778.0,Beginner,Finding Mutations in DNA and Proteins (Bioinformatics VI),4.542857142857143,coursera.org,18.0
+5c9fb4e913ba61f2f0675207,course~VAHOz6ZMEeiL8hKwqznX5g,594,ai,15.0,Intermediate,Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform en Español,5.0,coursera.org,6.0
+5c9fb4ec13ba61f2f067520a,course~voUQTv9AEeaBXg46-AuF8A,115,big data,15246.0,Intermediate,Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform,4.523028883684622,coursera.org,8.0
+5c9fb4f013ba61f2f067520c,course~cS_C5UgCEeimMA5aS6rd2g,115,big data,6259.0,Intermediate,Feature Engineering,4.446685878962536,coursera.org,10.0
+5c9fb4f413ba61f2f067520f,course~Y23EubLbEeiKUAqNzm0xRA,115,ai,1636.0,Advanced,Image Understanding with TensorFlow on GCP,4.639344262295082,coursera.org,10.0
+5c9fb4f913ba61f2f0675212,course~1IxAHTxmEeWdUgozVKt3nw,687,ai,4695.0,Beginner,Children Acquiring Literacy Naturally,4.296296296296297,coursera.org,11.0
+5c9fb4fd13ba61f2f0675215,course~0vz09Dj7EeinMgq8SYQgGA,422,ai,208.0,Beginner,Teaching Impacts of Technology: Workplace of the Future,,coursera.org,12.0
+5c9fb50113ba61f2f0675218,course~guqOkAKDEeaG2A4kH1tj-w,684,ai,56946.0,Advanced,Probabilistic Graphical Models 1: Representation,4.674442190669371,coursera.org,30.0
+5c9fb50513ba61f2f067521a,course~ttER2pXJEeiQzApPTDulpA,350,ai,265.0,Intermediate,Intro to TensorFlow en Español,5.0,coursera.org,11.0
+5c9fb50813ba61f2f067521d,course~A3ASpYtuEeiaTA5iU-pJGg,74,big data,418.0,Intermediate,Project Planning and Machine Learning,4.0,coursera.org,12.0
+5c9fb50c13ba61f2f0675224,course~BZ5quSvBEee6gA5XksfBbg,275,ai,166690.0,Beginner,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",4.879542960428636,coursera.org,15.0
+5c9fb51013ba61f2f0675227,s12n~zFLn26JiEeiiNRK4Ue9X2g,1316,big data,331.0,Intermediate,Machine Learning with TensorFlow on Google Cloud Platform em Português Brasileiro,4.672131147540983,coursera.org,
+5c9fb51413ba61f2f067522a,course~_QKuGG_yEei1thLYptGxsg,511,ai,65.0,Intermediate,Launching into Machine Learning 日本語版,4.375,coursera.org,7.0
+5c9fb51813ba61f2f067522c,course~V4QRgobREei8Cw6fDgqybg,115,big data,7464.0,Advanced,End-to-End Machine Learning with TensorFlow on GCP,4.526490066225166,coursera.org,9.0
+5c9fb51d13ba61f2f067522f,course~ARf5_jvZEeeYEBLbuVGJ2g,472,ai,61433.0,Beginner,Mathematics for Machine Learning: Linear Algebra,4.646986970684039,coursera.org,21.0
+5c9fb52013ba61f2f0675234,s12n~xKZ-Rh0LEeaVXQ4hxYGBZw,500,ai,305908.0,Intermediate,Applied Data Science with Python,4.528627015008338,coursera.org,
+5c9fb52413ba61f2f0675237,course~QbneQTREEeelyAr7KaZzrA,99,ai,697.0,Beginner,"Revolutionary Ideas: Utility, Justice, Equality, Freedom",5.0,coursera.org,15.0
+5c9fb52813ba61f2f067523a,s12n~_9m_5qflEei_Two3ZowVVA,839,ai,2324.0,Intermediate,Introducción a la inteligencia artificial,4.693877551020408,coursera.org,
+5c9fb52c13ba61f2f067523c,course~BwuL5JwaEeigWgp_hi6FmA,115,ai,1722.0,Advanced,Production Machine Learning Systems,4.480263157894737,coursera.org,8.0
+5c9fb52f13ba61f2f067523f,course~X_CuLfb0EeWfYgqbi1xsdw,365,ai,5952.0,Beginner,Genomic Data Science and Clustering (Bioinformatics V),4.212765957446808,coursera.org,9.0
+5c9fb53213ba61f2f0675242,course~TAtGgqZNEeiECQr9tzDo4g,367,ai,46.0,Intermediate,Serverless Data Analysis with Google BigQuery and Cloud Dataflow auf Deutsch,,coursera.org,4.0
+5c9fb53713ba61f2f0675245,course~0MxqCTygEea1gAouz62QPw,391,ai,16889.0,Intermediate,Introduction to Recommender Systems:  Non-Personalized and Content-Based,4.513157894736842,coursera.org,16.0
+5c9fb53b13ba61f2f0675248,course~bkBQ-oNfEeenGxKEO5UIKA,343,ai,17749.0,Advanced,Deep Learning in Computer Vision,3.935483870967742,coursera.org,27.0
+5c9fb53e13ba61f2f067524a,course~fNeY-S8dEeaVZA5K9cHVCQ,348,ai,14227.0,Beginner,Global Diplomacy: the United Nations in the World,4.711206896551724,coursera.org,11.0
+5c9fb54013ba61f2f067524c,s12n~86mYnKZREei9dArkaGKycg,426,big data,597.0,Intermediate,Data Engineering on Google Cloud Platform auf Deutsch,4.5,coursera.org,
+5c9fb54413ba61f2f067524f,course~djn5oBJgEeaoZBKRisF_Dw,1207,big data,2446.0,Mixed,Big Data - Capstone Project,4.392241379310345,coursera.org,19.0
+5c9fb54713ba61f2f0675252,s12n~LW33ur6XEeeEUBLRzofOfg,111,big data,111967.0,Intermediate,Developing Applications with Google Cloud Platform,4.66393092245875,coursera.org,
+5c9fb54a13ba61f2f0675254,course~qvN49o9eEeebBBJ8AIlx3A,417,ai,6833.0,Beginner,Intro to Digital Manufacturing with Autodesk Fusion 360,4.603738317757009,coursera.org,9.0
+5c9fb54e13ba61f2f0675257,course~3mA6QTIyEeWsOA5fzAmxbw,484,ai,29167.0,Mixed,Practical Predictive Analytics: Models and Methods,4.094076655052265,coursera.org,13.0
+5c9fb55113ba61f2f067525a,s12n~CptsuaJjEei21g4WPtYR8A,1310,ai,291.0,Intermediate,Machine Learning with TensorFlow on Google Cloud Platform en Français,4.5,coursera.org,
+5c9fb55413ba61f2f067525c,course~25Fh8ivBEee6gA5XksfBbg,366,ai,112639.0,Intermediate,Sequence Models,4.798531037750751,coursera.org,18.0
+5c9fb55613ba61f2f067525f,s12n~rIdeI6JhEei_0Qr9-815Tg,401,ai,259.0,Intermediate,Machine Learning with TensorFlow  Google Cloud Platform 日本語版,4.266666666666667,coursera.org,
+5c9fb55913ba61f2f0675262,course~rASUBG_yEei3VA5XIGna9A,528,ai,30.0,Intermediate,Launching into Machine Learning auf Deutsch,,coursera.org,6.0
+5c9fb55e13ba61f2f0675264,course~H02KsW1DEeWXrA6ju0fvnQ,687,ai,95072.0,Mixed,Practical Machine Learning,4.475553698286669,coursera.org,14.0
+5c9fb56113ba61f2f0675267,course~qu0f3u1nEea3iQqSVF8Nwg,115,big data,53158.0,Intermediate,Google Cloud Platform Big Data and Machine Learning Fundamentals,4.601426307448494,coursera.org,11.0
+5c9fb56313ba61f2f067526a,s12n~D6Ap6_7hEeaRogry0hUlXg,111,ai,58594.0,Intermediate,Data Engineering on Google Cloud Platform,4.54881309244106,coursera.org,
+5c9fb56613ba61f2f067526c,course~Je0f0E-CEei9LxLVWubbmA,108,ai,527.0,Intermediate,Automated Reasoning: satisfiability,5.0,coursera.org,10.0
+5c9fb56b13ba61f2f067526f,course~H0QlQ4hFEeepbRJnqPie6A,172,ai,2990.0,Beginner,Data Science Ethics,4.597402597402597,coursera.org,16.0
+5c9fb57013ba61f2f0675272,course~bN6DyH35EeeG2Q5aEOT70A,568,ai,2696.0,Intermediate,Practical Machine Learning on H2O,4.529411764705882,coursera.org,30.0
+5c9fb57313ba61f2f0675275,course~u_VV_Tj5Eei_lQp5mMC3cA,473,ai,355.0,Beginner,"Teaching Impacts of Technology: Data Collection, Use, and Privacy",5.0,coursera.org,16.0
+5c9fb57813ba61f2f0675278,course~kAa6kaZOEeipIQrH-_6yOA,613,ai,25.0,Intermediate,Building Resilient Streaming Systems on Google Cloud Platform en Français,,coursera.org,5.0
+5c9fb57d13ba61f2f067527b,course~SpW8-KJfEeiG9goIBchJPA,425,ai,286.0,Intermediate,Feature Engineering en Español,5.0,coursera.org,7.0
+5c9fb58213ba61f2f067527e,course~UEk5ZkEWEeWC4g7VhG4bTQ,558,big data,113190.0,Mixed,A Crash Course in Data Science,4.463846319879128,coursera.org,5.0
+5c9fb58513ba61f2f0675280,s12n~R7AsYWQcEeisgg7XKSzwFg,389,big data,2052.0,Beginner,Big Data – Introducción al uso práctico de datos masivos,4.561643835616438,coursera.org,
+5c9fb58913ba61f2f0675283,course~XYXR3WgwEei-HhKT-KQ4Kg,432,ai,2011.0,Advanced,Advanced Data Science Capstone,4.59375,coursera.org,10.0
+5c9fb58c13ba61f2f0675286,course~PsI7dlrCEeW5ChKOjFc59Q,165,ai,9921.0,Mixed,Clasificación de imágenes: ¿cómo reconocer el contenido de una imagen?,4.369230769230769,coursera.org,25.0
+5c9fb59113ba61f2f067528e,course~RZ1S0B0MEeacvQ6cODzg5Q,692,ai,239068.0,Intermediate,Introduction to Data Science in Python,4.540529489931514,coursera.org,19.0
+5c9fb59513ba61f2f0675290,course~wYVFrFUOEeiXDgqeSsw0yA,75,ai,1400.0,Beginner,Introduction to Statistics & Data Analysis in Public Health,4.368421052631579,coursera.org,11.0
+5c9fb59813ba61f2f0675293,course~ogqLhaZOEei7SwoHnjp4jA,493,ai,499.0,Intermediate,Building Resilient Streaming Systems on Google Cloud Platform auf Deutsch,,coursera.org,5.0
+5c9fb59c13ba61f2f0675296,course~qZaU7mj-Eei4Pg6SI1yUEA,689,ai,152.0,Intermediate,How Google does Machine Learning en Français,4.5,coursera.org,8.0
+5c9fb59f13ba61f2f0675299,course~oCBU5_VYEeeBQA7SG0nILA,725,ai,25493.0,Beginner,Open Source tools for Data Science,4.566540880503145,coursera.org,7.0
+5c9fb5a213ba61f2f067529b,course~bHHZ82j_EeiGFwrssIKG4A,642,big data,311.0,Intermediate,How Google does Machine Learning em Português Brasileiro,4.655172413793103,coursera.org,9.0
+5c9fb5a613ba61f2f067529e,course~sXyV_aZLEeiLXw4QLApQMg,536,big data,27.0,Intermediate,Serverless Machine Learning with Tensorflow on Google Cloud Platform en Français,,coursera.org,5.0
+5c9fb5ab13ba61f2f06752a1,course~tiqzG6LIEeeucRJ8FasFHA,571,ai,17270.0,Intermediate,Mathematics for Machine Learning: PCA,4.0,coursera.org,18.0
+5c9fb5ae13ba61f2f06752a3,course~8UjeMk-mEeit4g4GsxE4dg,122,ai,22362.0,Intermediate,Machine Learning with Python,4.7,coursera.org,13.0
+5c9fb5b313ba61f2f06752a6,s12n~78tKup5eEeW5ewqD-4pukQ,436,ai,56424.0,Intermediate,Машинное обучение и анализ данных,4.752811828636421,coursera.org,
+5c9fb5b613ba61f2f06752a9,s12n~_Fk2Gi3cEeiHghIydZ_0lA,714,ai,,Beginner,Introduction to Data Science,,coursera.org,
+5c9fb5ba13ba61f2f06752ac,course~y0RR_vZ4EeeHQRLf02JF5g,290,ai,6070.0,Intermediate,Google Cloud Platform Big Data and Machine Learning Fundamentals en Español,4.6171875,coursera.org,13.0
+5c9fb5bd13ba61f2f06752af,course~sYcV16ZOEeiLXw4QLApQMg,570,ai,797.0,Intermediate,Building Resilient Streaming Systems on Google Cloud Platform 日本語版,4.666666666666667,coursera.org,7.0
+5c9fb5c113ba61f2f06752b1,course~fbK4gaZMEeiuigqo2O4RrA,616,ai,14.0,Intermediate,Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform en Français,,coursera.org,5.0
+5c9fb5c413ba61f2f06752b4,course~CpOs5DyhEea_QBJ9iBnl3w,752,ai,7393.0,Mixed,Nearest Neighbor Collaborative Filtering,4.279329608938547,coursera.org,13.0
+5c9fb5c813ba61f2f06752b7,course~-RdrYBzlEeiXawqf8NC2Yg,115,ai,10102.0,Intermediate,Intro to TensorFlow,4.452660054102795,coursera.org,9.0
+5c9fb5cb13ba61f2f06752b9,course~C40AUGZoEeWq4RLQvtY_lQ,687,ai,8986.0,Intermediate,Data-driven Astronomy,4.846153846153846,coursera.org,20.0
+5c9fb5cf13ba61f2f06752bc,course~g4sFEnitEeaCZBIelfdoiQ,684,ai,12171.0,Advanced,Probabilistic Graphical Models 3: Learning,4.626262626262626,coursera.org,24.0
+5c9fb5d613ba61f2f06752bf,course~eGjoytoJEeWyqBL0ju_dbQ,1102,ai,2533.0,Intermediate,Water Supply and Sanitation Policy in Developing Countries Part 2: Developing Effective Interventions,4.666666666666667,coursera.org,21.0
+5c9fb5d913ba61f2f06752c2,course~fYuElDEgEeiCvhLLCIZW_A,302,ai,24196.0,Beginner,Data Analysis with Python,4.618173679498657,coursera.org,7.0
+5c9fb5dc13ba61f2f06752c5,course~nZYl8m_GEeeLuxKawECaMg,540,ai,11154.0,Beginner,Combinatorics and Probability,4.574766355140187,coursera.org,20.0
+5c9fb5df13ba61f2f06752c7,course~Rw3kIzyiEea1eg6YQeunOw,471,ai,7995.0,Mixed,Matrix Factorization and Advanced Techniques,4.256410256410256,coursera.org,8.0
+5c9fb5e413ba61f2f06752ca,course~zTIUbG_yEeimLwog86FBpA,575,ai,183.0,Intermediate,Launching into Machine Learning en Français,,coursera.org,9.0
+5c9fb5e813ba61f2f06752cd,course~Is9jHhyKEeaHoAovRHhd_Q,1265,ai,64389.0,Beginner,Understanding Einstein: The Special Theory of Relativity,4.852201257861635,coursera.org,40.0
+5c9fb5eb13ba61f2f06752d0,s12n~ld4PPqJjEeieFhLCyhX8AA,1302,ai,113.0,Intermediate,Machine Learning with TensorFlow on Google Cloud Platform auf Deutsch,5.0,coursera.org,
+5c9fb5ef13ba61f2f06752d3,course~bFT_-aJgEei77BJh40d1Qg,362,ai,16.0,Intermediate,Art and Science of Machine Learning en Français,,coursera.org,13.0
+5c9fb5f213ba61f2f06752d5,course~_-SeZWb9EeWXpwqLqkqVsw,727,ai,22586.0,Beginner,機器學習基石上 (Machine Learning Foundations)---Mathematical Foundations,4.9106529209622,coursera.org,17.0
+5c9fb5f513ba61f2f06752d8,course~di4l_R0lEeaP7xL2JHHq4w,1180,ai,104193.0,Intermediate,Applied Machine Learning in Python,4.652466367713004,coursera.org,24.0
+5c9fb5f813ba61f2f06752da,course~Mz1ninIDEeeWCg71xNIlJg,709,ai,35986.0,Advanced,How to Win a Data Science Competition: Learn from Top Kagglers,4.714003944773175,coursera.org,49.0
+5c9fb5fb13ba61f2f06752dd,course~pNXe13ICEeeBKg4MjLYj6A,455,ai,40759.0,Advanced,Introduction to Deep Learning,4.586618876941458,coursera.org,37.0
+5c9fb5fe13ba61f2f06752df,course~senhGTbqEeWw6g4yTrGrVQ,781,ai,33030.0,Mixed,Machine Learning for Data Analysis,4.165137614678899,coursera.org,12.0
+5c9fb60113ba61f2f06752e2,course~ahJY96ZNEei-Ig6IBTcCNA,88,ai,73.0,Intermediate,Serverless Data Analysis with Google BigQuery and Cloud Dataflow 日本語版,4.5,coursera.org,6.0
+5c9fb60513ba61f2f06752e5,course~In6GtaZNEei-Ig6IBTcCNA,439,ai,18.0,Intermediate,Serverless Data Analysis with Google BigQuery and Cloud Dataflow en Français,,coursera.org,4.0
+5c9fb60913ba61f2f06752e8,course~6sfCzzyhEeayDAowXtL2xQ,718,ai,6274.0,Mixed,Recommender Systems:  Evaluation and Metrics,4.293233082706767,coursera.org,9.0
+5c9fb60d13ba61f2f06752eb,course~1RBlaf9AEea_bxJuN8v34g,115,big data,11906.0,Intermediate,Building Resilient Streaming Systems on Google Cloud Platform,4.652392947103275,coursera.org,7.0
+5c9fb61513ba61f2f06752f3,course~r74vRmEsEeWQAgqoue9YNw,143,ai,17436.0,Mixed,Detección de objetos,4.633064516129032,coursera.org,31.0
+5c9fb61a13ba61f2f06752f6,course~gHycGx0uEeaP7xL2JHHq4w,178,big data,14863.0,Mixed,"Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud",4.135294117647059,coursera.org,15.0
+5c9fb62013ba61f2f06752f9,course~EGcvqBcVEeitfRJlX2avTg,571,big data,363.0,Intermediate,Big Data: visualización de datos,4.6,coursera.org,16.0
+5c9fb62413ba61f2f06752fc,s12n~4od-Vo0GEeehtA6zYu5m8g,322,big data,29945.0,Intermediate,Big Data for Data Engineers,3.991091314031181,coursera.org,
+5c9fb62813ba61f2f06752ff,course~MMnLaEEjEeWKOBLv1z6n9w,695,ai,26082.0,Mixed,Data Science in Real Life,4.415862068965518,coursera.org,6.0
+5c9fb62c13ba61f2f0675302,course~N6IrVYBKEeiaBArj7jrDMA,535,ai,300.0,Intermediate,Web of Data,,coursera.org,16.0
+5c9fb63113ba61f2f0675305,course~Ni9w_INfEeetQwoqGsZceA,46,ai,16791.0,Advanced,Practical Reinforcement Learning,4.107954545454546,coursera.org,39.0
+5c9fb63613ba61f2f0675308,course~RrbjVWj_EeiOiBLbdFBodg,726,ai,232.0,Intermediate,How Google does Machine Learning 日本語版,4.5,coursera.org,9.0
+5c9fb63c13ba61f2f067530b,course~2ZUrd6ZLEeis9hK3qadDqA,433,big data,29.0,Intermediate,Serverless Machine Learning with Tensorflow on Google Cloud Platform auf Deutsch,5.0,coursera.org,5.0
+5c9fb63f13ba61f2f067530e,course~8BJHzZD_EeiKohJBs5wRGA,758,ai,5965.0,Intermediate,Introduction to Machine Learning,4.76,coursera.org,14.0
+5c9fb64613ba61f2f0675311,course~mxdq5kIJEeWC4g7VhG4bTQ,38,ai,90014.0,Mixed,Machine Learning: Regression,4.764460784313726,coursera.org,37.0
+5c9fb64b13ba61f2f0675314,course~blRLgKLDEeeMNA6V0QN2ag,704,ai,31046.0,Advanced,Natural Language Processing,4.649681528662421,coursera.org,34.0
+5c9fb64f13ba61f2f0675319,course~Mbrcu6JgEeiPkArqHue-XA,301,ai,224.0,Intermediate,Art and Science of Machine Learning en Español,5.0,coursera.org,11.0
+5c9fb65413ba61f2f067531c,course~q7ZmXJXKEeivwgoseyZgKA,331,ai,60.0,Intermediate,Intro to TensorFlow 日本語版,4.0,coursera.org,11.0
+5c9fb65813ba61f2f067531e,s12n~MdDaOqZSEeiayg7imu-6pg,527,ai,1710.0,Intermediate,Data Engineering on Google Cloud Platform 日本語版,4.463414634146342,coursera.org,
+5c9fb66013ba61f2f0675322,course~C1tAHVTXEeaolg7znMDTWQ,415,ai,216.0,Mixed,Recommender Systems Capstone,3.692307692307692,coursera.org,8.0
+5c9fb66413ba61f2f0675325,course~ZIVvfx00EeagBBLYvz0q6w,549,ai,29545.0,Intermediate,Applied Social Network Analysis in Python,4.644878048780488,coursera.org,17.0
+5c9fb66813ba61f2f0675328,course~WwC0idEkEeer0xJUQzVHIg,507,ai,1914.0,Intermediate,Python для анализа данных,4.125,coursera.org,44.0
+5c9fb66c13ba61f2f067532a,s12n~RR6aw6WPEei8gwpTZ0WigA,681,ai,1890.0,Intermediate,Architecting with Google Cloud Platform en Español,4.745562130177515,coursera.org,
+5c9fb67013ba61f2f067532d,course~QFFzk0ojEeeJdBL3H0RODg,166,ai,789.0,Mixed,Data Analytics Foundations for Accountancy II,4.5,coursera.org,40.0
+5c9fb67513ba61f2f0675330,course~IIoidx0zEeaeiw6Wrvtw9w,868,ai,65286.0,Intermediate,"Applied Plotting, Charting & Data Representation in Python",4.480493630573249,coursera.org,18.0
+5c9fb67913ba61f2f0675333,course~ZearHHitEeaYNAqJlKFl8Q,684,ai,14378.0,Advanced,Probabilistic Graphical Models 2: Inference,4.583333333333333,coursera.org,23.0
+5c9fb67e13ba61f2f0675336,course~nghs7HcKEeeJ-BJTOJs6DA,108,ai,2942.0,Intermediate,MongoDB Aggregation Framework,4.583333333333333,coursera.org,21.0
+5c9fb68213ba61f2f0675339,course~0w0JAG9JEeSp0iIAC12Jpw,826,ai,52547.0,Beginner,Computational Neuroscience,4.647422680412372,coursera.org,31.0
+5c9fb68613ba61f2f067533c,course~W2o5gqZREeiRuw7EBWN-vA,330,big data,86.0,Intermediate,Google Cloud Platform Big Data and Machine Learning Fundamentals auf Deutsch,4.0,coursera.org,7.0
+5c9fb68b13ba61f2f067533e,course~ipHve6JgEei8QhIoLwyzGA,310,ai,19.0,Intermediate,Art and Science of Machine Learning auf Deutsch,,coursera.org,12.0
+5c9fb69213ba61f2f0675342,course~f_F-qCtuEei_fRLwaVDk3g,184,ai,6894.0,Advanced,Advanced Machine Learning and Signal Processing,4.567685589519651,coursera.org,16.0
+5c9fb69613ba61f2f0675345,course~oXasXIY_EeeL9BLE3sEj-g,1196,ai,24043.0,Beginner,Mathematics for Machine Learning: Multivariate Calculus,4.681205392545599,coursera.org,22.0
+5c9fb69b13ba61f2f067534d,course~01XLylXyEeWKXg4Y7_tPaw,600,ai,72908.0,Mixed,Введение в машинное обучение,4.646803900325027,coursera.org,35.0
+5c9fb6a013ba61f2f0675350,course~qYOcUaZMEeiLXw4QLApQMg,621,ai,72.0,Intermediate,Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform 日本語版,4.8,coursera.org,7.0
+5c9fb6a413ba61f2f0675353,course~kWGvJivBEeeW5RJUyz1uFA,348,ai,143364.0,Intermediate,Convolutional Neural Networks,4.849669211195929,coursera.org,21.0
+5c9fb6a813ba61f2f0675355,course~gvkCgKJfEei77BJh40d1Qg,411,ai,35.0,Intermediate,Feature Engineering em Português Brasileiro,5.0,coursera.org,9.0
+5c9fb6ab13ba61f2f0675358,s12n~IffJY0dUEeW97BIjcKITiw,153,big data,94189.0,Beginner,Data Analysis and Interpretation,4.390835579514826,coursera.org,
+5c9fb6af13ba61f2f067535b,course~7sNP37xrEeiL4Q6DgrZ6DA,115,ai,1725.0,Advanced,Sequence Models for Time Series and Natural Language Processing,4.553398058252427,coursera.org,11.0
+5c9fb6b413ba61f2f067535e,course~hSFk2864EeS_ZiIACzuJog,170,ai,17177.0,Mixed,Understanding Europe: Why It Matters and What It Can Offer You,4.513333333333334,coursera.org,26.0
+5c9fb6b713ba61f2f0675361,course~MqgbgBcVEeiabwr0l3gA6g,198,big data,207.0,Advanced,Big Data: capstone project,5.0,coursera.org,20.0
+5c9fb6bb13ba61f2f0675363,course~Bkx-PB00Eea0YQ7Ij7lJXw,728,ai,53236.0,Intermediate,Applied Text Mining in Python,4.204780361757106,coursera.org,17.0
+5c9fb6c013ba61f2f0675366,course~tJApe-HgEeeSKxKWkG_JMg,94,ai,1888.0,Advanced,Causal Inference,4.0,coursera.org,17.0
+5c9fb6c313ba61f2f0675369,course~GJT3MD6xEemL3g4W6JiGWA,823,ai,221.0,Beginner,Code Free Data Science,,coursera.org,17.0
+5c9fb6c813ba61f2f067536c,course~CLT31pXKEeiQzApPTDulpA,379,ai,30.0,Intermediate,Intro to TensorFlow en Français,,coursera.org,13.0
+5c9fb6cc13ba61f2f067536f,s12n~DzS8V_hOEeWFBRLo60V7Aw,448,ai,115798.0,Intermediate,Data Mining,4.408488063660477,coursera.org,
+5c9fb6cf13ba61f2f0675371,course~0N6RUaJfEei77BJh40d1Qg,412,ai,17.0,Intermediate,Feature Engineering auf Deutsch,,coursera.org,6.0
+5c9fb6d313ba61f2f0675374,course~GMSg0yWsEeWCGRL6mLoB5w,471,ai,36898.0,Mixed,Autism Spectrum Disorder,4.56393001345895,coursera.org,7.0
+5c9fb6d813ba61f2f0675377,course~W1GYfZBWEeaPiw57oPj_hQ,539,ai,11003.0,Beginner,Chinese Culture and Contemporary China,4.576271186440678,coursera.org,6.0
+5c9fb6de13ba61f2f067537a,course~VMZqmE--EeiymQplKkIgcA,184,ai,1868.0,Intermediate,Google Cloud Platform Fundamentals: Core Infrastructure en Español,4.763440860215054,coursera.org,13.0
+5c9fb6e413ba61f2f067537d,s12n~kypMz6ZPEeiodwpQjIRUXA,596,big data,196.0,Intermediate,Data Engineering on Google Cloud Platform en Français,,coursera.org,
+5c9fb6e713ba61f2f0675380,s12n~PawZoXxSEea8bBKfiJt1FQ,688,ai,59095.0,Advanced,Probabilistic Graphical Models,4.648541114058356,coursera.org,
+5c9fb6ec13ba61f2f0675383,s12n~84QbLYtsEeicuBLWaYsl_g,796,big data,1842.0,Intermediate,Developing Industrial Internet of Things,4.125,coursera.org,
+5c9fb6f013ba61f2f0675386,course~-p8EVRcUEeiu-A7ricOjTg,509,ai,580.0,Intermediate,Big Data: procesamiento y análisis,4.1,coursera.org,19.0
+5c9fb6f413ba61f2f0675389,course~uM-DG6JfEeiy2Q7BSkinhg,552,ai,18.0,Intermediate,Feature Engineering en Français,,coursera.org,5.0
+5c9fb6f813ba61f2f067538b,course~d7GXFfqfEeadFw6-eqmrIg,806,ai,19000.0,Beginner,The Unix Workbench,4.704496788008566,coursera.org,17.0
+5c9fb6fb13ba61f2f067538e,course~-pvWs6JfEeiy2Q7BSkinhg,432,ai,43.0,Intermediate,Feature Engineering 日本語版,4.25,coursera.org,12.0
+5c9fb70113ba61f2f0675391,course~dq8capXKEei3uw5cOOJnRg,363,ai,24.0,Intermediate,Intro to TensorFlow auf Deutsch,5.0,coursera.org,12.0
+5c9fb70613ba61f2f0675394,s12n~YySuXgZPEeaaFQ7972wJ4Q,599,ai,22689.0,Intermediate,Recommender Systems,4.377128953771289,coursera.org,
+5c9fb70913ba61f2f0675397,course~D3SOzp_qEeeVNQoXzORFvg,293,ai,655.0,Advanced,Big Data Services: Capstone Project,,coursera.org,
+5c9fb70e13ba61f2f067539a,s12n~gw6NIUimEeiedgp7b7p1Ig,706,ai,,Beginner,Applied Data Science,,coursera.org,
+5c9fb71213ba61f2f067539d,course~hMapvkhKEeWJHwqqqPAooQ,393,ai,4210.0,Mixed,Information Theory,4.583333333333333,coursera.org,33.0
+5c9fb71513ba61f2f067539f,s12n~utjeMEgmEeWJSQ6Y2aPmQQ,588,ai,221224.0,Beginner,Business Analytics,4.53904467505704,coursera.org,
+5c9fb7e113ba61f2f06753cc,s12n~5QQqUhLYEeaGfAo9Va0obQ,163,ai,150885.0,Beginner,Big Data,4.460868714537272,coursera.org,
+5c9fb7e613ba61f2f06753cf,course~6nKPTBHoEea7axIlQHzY1Q,627,big data,119848.0,Mixed,Introduction to Big Data,4.549197200494031,coursera.org,16.0
+5c9fb7e913ba61f2f06753d2,course~HFhDw-STEeWYOBIRup69HQ,178,big data,28121.0,Intermediate,"Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure",4.105849582172702,coursera.org,14.0
+5c9fb7ef13ba61f2f06753d6,s12n~lKFjC0apEeWnjQ4qLJbZZw,100,big data,67441.0,Intermediate,Data Science at Scale,4.151761517615176,coursera.org,
+5c9fb7f313ba61f2f06753df,course~rGvvNYvcEeeFJw6thnHvMg,180,big data,23654.0,Intermediate,"Big Data Essentials: HDFS, MapReduce and Spark RDD",4.048275862068966,coursera.org,45.0
+5c9fb7fd13ba61f2f06753e5,course~r0GnHOZaEees-Q6jQMxlrg,500,big data,51844.0,Beginner,What is Data Science?,4.647833474936279,coursera.org,6.0
+5c9fb80113ba61f2f06753e8,course~uWrCG9mpEeWkdgqomU4otw,46,big data,28670.0,Beginner,Big Data Integration and Processing,4.397921306607276,coursera.org,19.0
+5c9fb80713ba61f2f06753ec,s12n~zEUywr_xEeeRZQqlByhROg,354,big data,4664.0,Intermediate,Understanding Modern Finance,4.690476190476191,coursera.org,
+5c9fb80c13ba61f2f06753ef,course~GplkvRnqEeW9dA4X94-nLQ,733,ai,106411.0,Mixed,Managing Big Data with MySQL,4.715673289183223,coursera.org,24.0
+5c9fb81713ba61f2f06753f4,course~I5rpKhnoEeWnbwoiFA2iGw,235,big data,122790.0,Mixed,Business Metrics for Data-Driven Companies,4.55055055055055,coursera.org,14.0
+5c9fb81d13ba61f2f06753f7,course~dDoFzLi8EeW-DxJ4SAJAhQ,490,big data,85542.0,Beginner,Data-driven Decision Making,4.559738643434972,coursera.org,11.0
+5c9fb82713ba61f2f06753fc,course~FV7TEr1MEeiH_hJIOsoMdg,167,big data,1308.0,Beginner,Industrial IoT on Google Cloud Platform,4.703703703703703,coursera.org,15.0
+5c9fb82c13ba61f2f06753ff,course~Anu7oplDEeWqkw5zNB248Q,196,big data,15466.0,Mixed,Statistics for Genomic Data Science,4.110429447852761,coursera.org,18.0
+5c9fb83113ba61f2f0675402,course~e8VseYIYEeWxQQoymFg8zQ,924,big data,60947.0,Mixed,Big Data Analysis with Scala and Spark,4.666484716157205,coursera.org,15.0
+5c9fb84c13ba61f2f067540d,course~CPLPuDKiEeaGtRI0HQleow,320,big data,1736.0,Mixed,"Understanding China, 1700-2000: A Data Analytic Approach, Part 2",4.318181818181818,coursera.org,6.0
+5c9fb85113ba61f2f0675410,course~AZZak_fXEeiy5gqB-GZ7rA,119,big data,2577.0,Advanced,Preparing for the Google Cloud Professional Data Engineer Exam,4.673913043478261,coursera.org,13.0
+5c9fb85513ba61f2f0675413,course~Z_n14mJbEeehvg5lVNAEzA,422,big data,5595.0,Beginner,Introdução ao Big Data,4.658064516129032,coursera.org,9.0
+5c9fb85e13ba61f2f0675418,s12n~boESh-VdEeWINQopNpb8SQ,417,big data,88147.0,Intermediate,Cloud Computing,4.366082603254068,coursera.org,
+5c9fb86913ba61f2f067541d,course~t1gZRTXyEeW6RApRXdjJPw,1223,big data,28023.0,Mixed,The Importance of Listening,4.621841155234657,coursera.org,11.0
+5c9fb87313ba61f2f0675422,course~cvqIZNmpEeW6jg7jFY56EQ,739,big data,36971.0,Mixed,Big Data Modeling and Management Systems,4.325825039287585,coursera.org,16.0
+5c9fb87b13ba61f2f0675426,course~1e3cxzeNEeWO-Qq6rEZAow,25,big data,22376.0,Mixed,Foundations of marketing analytics,4.498881431767338,coursera.org,8.0
+5c9fb88513ba61f2f067542a,course~igHnPPcPEee5QAoaLNzYmg,51,big data,293.0,Beginner,Systems and Application Security,4.692307692307692,coursera.org,12.0
+5c9fb89113ba61f2f067542f,s12n~MCZuv0U7EeWLHQ6Y22SN8Q,95,ai,418753.0,Beginner,Excel to MySQL: Analytic Techniques for Business,4.527503526093088,coursera.org,
+5c9fb89713ba61f2f0675433,course~p4hb2MO_Eea6Aw7w3S-LDA,389,big data,955.0,Beginner,Biosphere 2 Science for the Future of Our Planet,4.75,coursera.org,18.0
+5c9fb8a213ba61f2f0675438,course~4CnyExcUEeiLDxJvyy9TxA,107,big data,651.0,Intermediate,Big Data: adquisición y almacenamiento de datos,4.470588235294118,coursera.org,17.0
+5c9fb8a713ba61f2f067543d,course~KqKtbzXyEeWW9BKhJ4xW0Q,478,big data,68989.0,Mixed,What is Social?,4.616328257191201,coursera.org,9.0
+5c9fb8b713ba61f2f0675444,course~SqmLPbZREeaqPQ5tUH5EoA,813,big data,5148.0,Intermediate,Spatial Data Science and Applications,4.411764705882353,coursera.org,13.0
+5c9fb8bd13ba61f2f0675447,course~BpXc5-SWEeWThQoLOXqDhw,268,big data,20753.0,Mixed,Cloud Networking,4.444444444444445,coursera.org,20.0
+5c9fb8c513ba61f2f067544a,course~IjR5zAPzEees5g6zeYMKiA,365,big data,10187.0,Advanced,"Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames",3.958762886597938,coursera.org,76.0
+5c9fb8d513ba61f2f0675452,course~nq-WPMXlEeiFOA4Jzr_FQg,838,big data,841.0,Beginner,Introduction and Programming with IoT Boards,4.642857142857143,coursera.org,10.0
+5c9fb8da13ba61f2f0675455,course~VK9WRz8rEeeQDg6xSmfOXg,744,big data,746.0,Mixed,Ubiquitous Learning and Instructional Technologies,3.0,coursera.org,14.0
+5c9fb8e413ba61f2f067545a,s12n~5JLF9IdHEeWmZwryyDkIxQ,71,big data,191032.0,Intermediate,Functional Programming in Scala,4.672885774808538,coursera.org,
+5c9fb8e813ba61f2f067545d,s12n~9GJm7lUPEeisFQ4yhHotIA,366,big data,2045.0,Beginner,Statistical Analysis with R for Public Health,4.4375,coursera.org,
+5c9fb8ec13ba61f2f067545f,s12n~inm9VWBZEeigDQ6PCFb-lg,185,big data,1302.0,Intermediate,Clinical Data Science,4.578947368421052,coursera.org,
+5c9fb90113ba61f2f0675469,course~zHCX4hJgEeaX4g6xdats6w,411,big data,21349.0,Mixed,Graph Analytics for Big Data,4.220547945205479,coursera.org,15.0
+5c9fb90613ba61f2f067546c,course~beYYQ8cFEeiGvg5u5QRx2A,274,big data,1380.0,Beginner,Humanidades digitales,4.558139534883721,coursera.org,8.0
+5c9fb90f13ba61f2f0675470,s12n~ExDgIZtCEeiFhQ4y_NhS1A,864,big data,5435.0,Beginner,Emerging Technologies: From Smartphones to IoT to Big Data,4.627272727272727,coursera.org,
+5c9fb91813ba61f2f0675475,course~T7jCdbeUEea7HhLAXRS5cg,1408,big data,637.0,Beginner,Social Science Approaches to the Study of Chinese Society Part 2,4.25,coursera.org,13.0
+5c9fb92213ba61f2f067547a,course~SMV3z1rEEeeZ3g7LRzMq2g,792,big data,469.0,Beginner,Foundations of mining non-structured medical data,4.666666666666667,coursera.org,15.0
+5c9fb92c13ba61f2f067547f,s12n~C0OqBQWyEeawug5VyR7naQ,190,big data,152876.0,Beginner,Data Analysis and Presentation Skills: the PwC Approach,4.650766609880749,coursera.org,
+5c9fb92f13ba61f2f0675482,course~Is-lr2N_Eei_Tw6L_IWP-g,460,big data,385.0,Intermediate,Clinical Data Models and Data Quality Assessments,4.166666666666667,coursera.org,22.0
+5c9fb93413ba61f2f0675485,course~isEnBWBZEei8GhK6J8TCMg,577,big data,1055.0,Intermediate,Introduction to Clinical Data Science,4.645161290322581,coursera.org,11.0
+5c9fb93f13ba61f2f067548a,s12n~Tpbzoz7kEeaRIRKIzCf3cw,752,ai,15274.0,Beginner,Digital Manufacturing & Design Technology,4.534633490248823,coursera.org,
+5c9fb94613ba61f2f067548d,course~3j8WjTxDEeW0tw4knrMo3Q,736,big data,118808.0,Mixed,Hadoop Platform and Application Framework,3.908960573476703,coursera.org,20.0
+5c9fb94b13ba61f2f0675491,course~kOFNSwPzEee7txKASY-nQg,327,big data,2198.0,Advanced,Big Data Applications: Real-Time Streaming,2.333333333333334,coursera.org,14.0
+5c9fb96513ba61f2f067549c,course~nq2CsKfpEeiTpRKLqRoJAA,547,big data,674.0,Intermediate,Business intelligence and data warehousing,4.6,coursera.org,25.0
+5c9fb97113ba61f2f06754a1,s12n~oyGHLnb0EeaoxxIn6_zz2w,572,big data,99200.0,Intermediate,Algorithms,4.821366782006921,coursera.org,
+5c9fb97b13ba61f2f06754a5,course~OUTGOrvTEeWuCAqiwoZfSw,956,big data,60883.0,Mixed,Introduction to Data Analysis Using Excel,4.684496124031008,coursera.org,12.0
+5c9fb98113ba61f2f06754a8,course~5fSeCLKeEeeAthJYvqnYpg,115,big data,3075.0,Beginner,Achieving Advanced Insights with BigQuery,4.721649484536083,coursera.org,7.0
+5c9fb98613ba61f2f06754ab,course~ErovshnZEemcTxJcM_MHdg,515,big data,115.0,Beginner,Security and Privacy for Big Data - Part 1,4.0,coursera.org,4.0
+5c9fb98c13ba61f2f06754ae,course~sUpST4RAEeawAApvKZgcCQ,437,big data,14822.0,Beginner,Fundamentals of Scalable Data Science,4.282238442822384,coursera.org,14.0
+5c9fb99913ba61f2f06754b4,course~JmpD5vuFEeeThBJw4V0XSA,453,big data,4178.0,Beginner,大數據分析：商業應用與策略管理 (Big Data Analytics: Business Applications and Strategic Decisions),4.46875,coursera.org,20.0
+5c9fb99e13ba61f2f06754b7,s12n~o6mrqsP8EeembRIu76nZKA,452,big data,3005.0,Intermediate,Data Visualization,3.588235294117647,coursera.org,
+5c9fb9a513ba61f2f06754ba,course~VvbwL3Z-Eeeobg7O-NRcDA,392,big data,6814.0,Intermediate,New Technologies for Business Leaders,4.18,coursera.org,19.0
+5c9fb9b113ba61f2f06754c0,course~9xG8yUo7EeeJdBL3H0RODg,115,big data,21688.0,Intermediate,Essential Cloud Infrastructure: Core Services,4.653540806605272,coursera.org,12.0
+5c9fb9c113ba61f2f06754c7,course~QoJxNRnoEeW9dA4X94-nLQ,412,big data,111320.0,Mixed,Data Visualization and Communication with Tableau,4.666846071044134,coursera.org,26.0
+5c9fb9c713ba61f2f06754ca,s12n~zj2VppjQEeWh0Q5bBaG7rw,1472,big data,199730.0,Intermediate,Data Structures and Algorithms,4.647432701894317,coursera.org,
+5c9fb9dc13ba61f2f06754d4,course~SN5tm_tBEeScRyIAC3-PxA,292,big data,27982.0,Intermediate,Process Mining: Data science in Action,4.745490981963928,coursera.org,29.0
+5c9fb9e213ba61f2f06754d8,s12n~QAl4xl5dEeWWuxL6N2WQrw,307,big data,42166.0,Intermediate,Análisis de Datos para la toma de decisiones,4.38971315529179,coursera.org,
+5c9fb9ec13ba61f2f06754dd,course~n5YH8DMNEeafcg4Q-TkaVQ,919,big data,9519.0,Intermediate,Meaningful Marketing Insights,4.377049180327869,coursera.org,14.0
+5c9fb9f713ba61f2f06754e2,s12n~pyKnn1PxEeiUIwqcCqhukg,225,big data,7342.0,Advanced,Self-Driving Cars,4.843478260869565,coursera.org,
+5c9fba0413ba61f2f06754e7,course~NJWa6CDkEeWa6hIFcmm3AQ,168,big data,22031.0,Mixed,Responsive Website Tutorial and Examples,4.237288135593221,coursera.org,15.0
+5c9fba0713ba61f2f06754f0,course~u-jrBc4yEee-FRJJUV_rRg,413,big data,762.0,Intermediate,NoSQL Database Systems,3.4,coursera.org,10.0
+5c9fba0b13ba61f2f06754f3,course~op_vMOGiEeWr4g7T_DyXNw,299,big data,58640.0,Beginner,"Cloud Computing Concepts, Part 1",4.474550898203593,coursera.org,38.0
+5c9fba0f13ba61f2f06754f5,course~SpO4HBnoEeWjrA6seF25aw,350,big data,254886.0,Mixed,Mastering Data Analysis in Excel,4.228202368137783,coursera.org,29.0
+5c9fba1713ba61f2f06754fa,course~zfMry-S0EeW_yhIcE2bZaw,1864,big data,2740.0,Intermediate,Big Data Science with the BD2K-LINCS Data Coordination and Integration Center,4.923076923076923,coursera.org,14.0
+5c9fba1b13ba61f2f0675503,course~fcZrZLB0EeeQLRLS0gmBZA,115,big data,11052.0,Beginner,Exploring ​and ​Preparing ​your ​Data with BigQuery,4.627311522048364,coursera.org,9.0
+5c9fba1e13ba61f2f067550c,course~qJiBFN8aEeeOGgo97NIakg,498,big data,5043.0,Beginner,Introducción a la Minería de Datos,4.695652173913044,coursera.org,12.0
+5c9fba2713ba61f2f0675510,course~QrJStTJkEeaVZA5K9cHVCQ,718,big data,14036.0,Advanced,"Big Data, Genes, and Medicine",4.2,coursera.org,23.0
+5c9fba2b13ba61f2f0675512,course~xRA5cxnoEeWg_RJGAuFGjw,597,big data,16194.0,Mixed,Relational Database Support for Data Warehouses,4.581443298969072,coursera.org,16.0
+5c9fba3013ba61f2f0675515,course~mUSYT5noEeWqkw5zNB248Q,185,big data,9582.0,Mixed,Bioconductor for Genomic Data Science,4.0,coursera.org,16.0
+5c9fba3513ba61f2f0675518,course~nc5DINdVEeSQpiIAC2iNcA,1325,big data,14487.0,Intermediate,VLSI CAD Part I: Logic,4.747474747474747,coursera.org,30.0
+5c9fba3813ba61f2f067551b,s12n~gZBrs7vSEeWQ9xLvZ6r9Zw,660,big data,69551.0,Beginner,Business Statistics and Analysis,4.713960891314234,coursera.org,
+5c9fba4013ba61f2f067551e,course~1GEVSMf0EeiFRg5oiwrvWg,561,big data,351.0,Intermediate,Healthcare Data Quality and Governance,,coursera.org,8.0
+5c9fba4913ba61f2f0675523,s12n~0ZCTQrR7Eei2ng71IHxUVA,110,big data,2532.0,Intermediate,Networking in Google Cloud Platform,4.818984547461369,coursera.org,
+5c9fba4c13ba61f2f0675526,course~RO728xoIEeWg_RJGAuFGjw,276,ai,49606.0,Intermediate,Data Structures and Performance,4.80186170212766,coursera.org,28.0
+5c9fba5013ba61f2f0675529,course~hBmmv1drEeerkQ5vdwUqtA,744,big data,25876.0,Beginner,System Administration and IT Infrastructure Services,4.703648548026806,coursera.org,16.0
+5c9fba5613ba61f2f067552d,s12n~NvN7YG-tEeWaLg565CxmSw,159,big data,39171.0,Intermediate,Systems Biology and Biotechnology,4.483221476510067,coursera.org,
+5c9fba5a13ba61f2f0675530,course~5C869I0GEee0fRKo2d-8ug,705,big data,6669.0,Mixed,Базы данных (Databases),4.5,coursera.org,20.0
+5c9fba5f13ba61f2f0675533,course~Dczd1BkJEeiB4A69UvpT_g,1465,big data,1814.0,Beginner,Big Data Emerging Technologies,5.0,coursera.org,9.0
+5c9fba6513ba61f2f0675536,course~9_tBpYquEeatfg7c63n1lQ,306,big data,3154.0,Beginner,Advanced Manufacturing Process Analysis,4.327683615819209,coursera.org,4.0
+5c9fba6d13ba61f2f067553b,course~d5CWKvhvEeSBSSIAC7JSBQ,83,big data,5915.0,Intermediate,VLSI CAD Part II: Layout,4.833333333333333,coursera.org,23.0
+5c9fba7513ba61f2f067553f,course~9Rh96sXcEeiTeRJBbcsvoA,629,big data,450.0,Beginner,Programming with Cloud IoT Platforms,5.0,coursera.org,12.0
+5c9fba7b13ba61f2f0675543,s12n~AAuWb_m7Eei2pgqAGVMxlA,110,big data,1269.0,Intermediate,Security in Google Cloud Platform,4.684210526315789,coursera.org,
+5c9fba7d13ba61f2f0675546,course~tI4RonQ7EeWxvQr3acyajw,1047,big data,3463.0,Intermediate,Data Visualization with Tableau Project,4.553191489361702,coursera.org,11.0
+5c9fba8013ba61f2f0675548,course~J2Pao0_lEeeF5RIYZYolcA,478,big data,14749.0,Intermediate,Excel Skills for Business: Advanced,4.740318906605922,coursera.org,25.0
+5c9fba8e13ba61f2f067554f,course~Dta9_D8qEeeuygoU7FlITg,1703,big data,536.0,Beginner,Assessment for Learning,5.0,coursera.org,15.0
+5c9fba9513ba61f2f0675553,course~h9LqVq-lEeauxBIk_RF-8A,115,big data,110370.0,Intermediate,Google Cloud Platform Fundamentals: Core Infrastructure,4.683288667687596,coursera.org,11.0
+5c9fba9b13ba61f2f0675555,course~9Ts-vzIDEeaTbQ5NZghBBw,320,big data,3235.0,Mixed,"Understanding China, 1700-2000: A Data Analytic Approach, Part 1",4.414634146341464,coursera.org,8.0
+5c9fbaa013ba61f2f0675565,course~TISsePHrEeWDTRLZKqoZew,100,big data,328.0,Mixed,Data Mining Project,4.636363636363637,coursera.org,17.0
+5c9fbaa813ba61f2f0675568,course~0mS2lqJaEeW1Bw7HN8tFsw,310,big data,8549.0,Mixed,Economic Growth and Distributive Justice Part I -The Role of the State,4.66887417218543,coursera.org,8.0
+5c9fbaad13ba61f2f067556b,course~c8ICsd1SEeavSQqUZOzWHA,315,big data,2910.0,Beginner,A Business Approach to Sustainable Landscape Restoration,4.666666666666667,coursera.org,26.0
+5c9fbab713ba61f2f0675570,course~oWawIRajEeWEjBINzvDOWw,263,big data,5810.0,Mixed,Quantitative Formal Modeling and Worst-Case Performance Analysis,4.384615384615385,coursera.org,19.0
+5c9fbabf13ba61f2f0675574,course~OpMk9L5nEeepKw4CZoGWJA,115,big data,5093.0,Intermediate,Getting Started With Application Development,4.471304347826087,coursera.org,7.0
+5ca0229a13ba61f2f06760bb,course~pls4yytZEeigsxKfhos0rA,371,big data,1512.0,Beginner,Intelligence Tools for the Digital Age,4.473684210526316,coursera.org,9.0
+5ca022ad13ba61f2f06760c5,course~dgVe7vcFEee5QAoaLNzYmg,284,big data,1157.0,Intermediate,Multivariate and Geographical Data Analysis,4.333333333333333,coursera.org,25.0
+5ca022dd13ba61f2f06760e2,course~sxQd3zI6EeWtEArDRuZAUQ,752,big data,11796.0,Mixed,Communicating Data Science Results,3.568,coursera.org,11.0
+5ca022ec13ba61f2f06760ea,course~9QkSLTXREemXORL4USiTDg,575,big data,53.0,Beginner,Security and Privacy for Big Data - Part 2,4.0,coursera.org,5.0
+5ca0230713ba61f2f06760f7,course~MyAqh28OEeaixgoUiWw-cQ,352,big data,742.0,Mixed,Advanced Business Analytics Capstone,4.5,coursera.org,19.0
+5ca0231013ba61f2f06760fc,course~xZhEKTj6Eei9dA6pYgVc7g,422,big data,185.0,Beginner,Teaching Impacts of Technology: Relationships,,coursera.org,12.0
+5ca0233c13ba61f2f0676111,course~CQsoVOSeEeWpUQ6vdoq9ZQ,100,big data,346.0,Mixed,Cloud Computing Project,4.533333333333333,coursera.org,18.0
+5ca0234313ba61f2f0676115,course~tsFr5DeHEeWXuQopUhAqaw,289,big data,5636.0,Mixed,Demand management: Breaking down today’s commercial silos,4.715846994535519,coursera.org,16.0
+5ca0237713ba61f2f067612f,s12n~Nm668VLuEeeSiQ7iX8PDyA,111,big data,32687.0,Intermediate,Architecting with Google Cloud Platform,4.667068159274479,coursera.org,
+5ca0238613ba61f2f0676137,course~lJq1w_eLEeWVVBJOyMKIHw,201,big data,182.0,Beginner,Bioinformatics Capstone: Big Data in Biology,4.615384615384615,coursera.org,16.0
+5ca0239f13ba61f2f0676143,course~wWT4VmIlEeWLAgpGjz1Btw,434,big data,203.0,Mixed,Análisis de Datos - Proyecto Final,4.333333333333333,coursera.org,8.0
+5ca023a713ba61f2f0676148,course~q6P-8ed8EeSglCIACzUL2A,238,big data,19208.0,Mixed,Energy 101: The Big Picture,4.302961275626424,coursera.org,14.0
+5ca023b813ba61f2f0676150,course~z6SlE84yEeez2xJ6XwmxyA,257,big data,526.0,Intermediate,Big Data Tools,,coursera.org,13.0
+5ca023d913ba61f2f067615e,course~K1v0zPXmEei6kRJSOEd04A,45,big data,14.0,Mixed,مقدمة عن البيانات الضخمة,,coursera.org,13.0
+5ca023dd13ba61f2f0676161,course~qF20_N8YEeSg1CIAC5NHJw,226,big data,4227.0,Beginner,Music's Big Bang: The Genesis of Rock 'n' Roll,4.642857142857143,coursera.org,12.0
+5ca0240c13ba61f2f0676176,course~9p1NWzJzEeWFJhJQP1CW-Q,291,big data,19247.0,Beginner,World Design for Video Games,4.376494023904383,coursera.org,11.0
+5ca0241b13ba61f2f067617e,s12n~X5oFHimAEeWD1yIAC5XJbg,864,big data,,Beginner,Emerging Technologies: From Smartphones to IoT to Big Data,,coursera.org,
+5ca0242e13ba61f2f0676190,course~1AOj5h1WEeaSjBI-YFKkww,703,big data,3069.0,Beginner,"Easing the burden of obesity, diabetes and cardiovascular disease",4.428571428571429,coursera.org,13.0
+5ca0256313ba61f2f0676247,s12n~3-NBikXzEeWwQw6izX918Q,516,ai,195032.0,Beginner,Java Programming and Software Engineering Fundamentals,4.584793332199354,coursera.org,
+5ca0256d13ba61f2f067624d,course~2NULnOvKEeWtYRLS6TLjGQ,425,ai,20883.0,Mixed,Cluster Analysis in Data Mining,4.357954545454546,coursera.org,16.0
+5ca0257013ba61f2f067624f,s12n~GAa2DkahEeWGYgrxbG8BSw,990,ai,213811.0,Intermediate,Object Oriented Java Programming: Data Structures and Beyond,4.726046954314721,coursera.org,
+5ca0257e13ba61f2f067625c,course~zfksZy_FEeWWqBIFfWmDPQ,552,ai,47464.0,Mixed,Data Manipulation at Scale: Systems and Algorithms,4.286350148367952,coursera.org,21.0
+5ca0258113ba61f2f0676260,s12n~R_qPtn3yEee77xLkt23avA,601,ai,128162.0,Beginner,Object Oriented Programming in Java,4.612244897959184,coursera.org,
+5ca0258a13ba61f2f0676266,course~qqRBbiEREeW5Rwo0txKkgQ,376,ai,13171.0,Mixed,Hardware Security,4.003389830508475,coursera.org,14.0
+5ca0258e13ba61f2f0676268,s12n~FTXassFVEeWsLRKfHbzppQ,573,ai,81416.0,Intermediate,Cybersecurity,4.467768595041322,coursera.org,
+5ca0259713ba61f2f067626e,course~jFdogKV2EeSpMCIAC1EMBg,1208,ai,15118.0,Mixed,"Networks: Friends, Money, and Bytes",4.769230769230769,coursera.org,11.0
+5ca025a613ba61f2f0676277,course~n0T9TqfoEeiOBg4NgBalFA,564,ai,84.0,Mixed,Cognición encarnada,,coursera.org,
+5ca025aa13ba61f2f067627b,course~nymnhGMNEeWMMg7wwTZV_Q,468,ai,35716.0,Mixed,Control of Mobile Robots,4.823218997361478,coursera.org,21.0
+5ca025c313ba61f2f067628e,s12n~Q7ft0KTtEeWVehLHxyUMyQ,96,ai,666507.0,Beginner,Data Science,4.522388594354492,coursera.org,
+5ca025c613ba61f2f0676292,course~dB1qehnoEeWwrBKfKrqlSQ,387,ai,50072.0,Beginner,Java Programming: Principles of Software Design,4.628808864265928,coursera.org,21.0
+5ca025d413ba61f2f0676298,course~iSxVEG07EeW3YxLB1q9I2w,513,ai,315440.0,Mixed,The Data Scientist’s Toolbox,4.52587890625,coursera.org,8.0
+5ca025da13ba61f2f067629c,course~73wUyhqPEeWwrBKfKrqlSQ,525,ai,45810.0,Intermediate,Mastering the Software Engineering Interview,4.567264573991031,coursera.org,13.0
+5ca025ef13ba61f2f06762a7,course~PSEwHfR7EeiZnQr4YTIUOA,469,ai,2240.0,Intermediate,The Introduction to Quantum Computing,4.368421052631579,coursera.org,21.0
